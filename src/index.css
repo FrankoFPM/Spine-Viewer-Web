@@ -8,4 +8,8 @@
         background: linear-gradient(45deg, rgba(65, 62, 150, 1) 0%, rgba(13, 15, 35, 1) 100%);
     }
 
+    .bg-light-background {
+        @apply bg-gradient-to-r from-cyan-500 to-blue-500;
+    }
+
 }
