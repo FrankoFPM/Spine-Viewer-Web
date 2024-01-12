@@ -84,11 +84,11 @@ function UploadBackground() {
     );
 }
 
-export default function BackgroundController() {
+export default function BackgroundController({ isHidden }) {
     return (
         <>
-            <div className='flex flex-col justify-center gap-2 bg-blue-700 mx-auto py-2 w-[90%] rounded-md'>
-                <div className='flex flex-col items-center relative'>
+            <div className={`${isHidden ? 'h-0' : 'h-[180px]'} flex flex-col justify-center gap-2 bg-blue-700 mx-auto w-[90%] rounded-md overflow-hidden border-t-2 border-blue-700 h-0 transition-all`}>
+                <div className='flex flex-col items-center relative mt-2'>
                     <ColorPicker />
                 </div>
                 <h1 className="flex justify-center w-full text-white font-bold">--- Or ---</h1>
