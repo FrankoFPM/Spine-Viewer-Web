@@ -1,0 +1,189 @@
+{
+    "Royal Navy": [
+        "Monitor",
+        "Destroyer",
+        "Light Cruiser",
+        "Light Aircraft Carrier",
+        "Aircraft Carrier",
+        "Heavy Cruiser",
+        "Battleship",
+        "Battlecruiser"
+    ],
+    "Sakura Empire": [
+        "Light Cruiser",
+        "Aircraft Carrier",
+        "Repair",
+        "Destroyer",
+        "Battlecruiser",
+        "Heavy Cruiser",
+        "Large Cruiser",
+        "Light Aircraft carrier",
+        "Battleship",
+        "Light Aircraft Carrier",
+        "Submarine Aircraft Carrier",
+        "Submarine",
+        "Munition"
+    ],
+    "Ironblood": [
+        "Heavy Cruiser",
+        "Large Cruiser",
+        "Aircraft Carrier",
+        "Battleship",
+        "Battlecruiser",
+        "Light Aircraft Carrier",
+        "Light Cruiser",
+        "Destroyer",
+        "Submarine"
+    ],
+    "Eagle Union": [
+        "Battleship",
+        "Submarine",
+        "Destroyer",
+        "Heavy Cruiser",
+        "Light Cruiser",
+        "Light Aircraft Carrier",
+        "Aircraft Carrier",
+        "Escort Aircraft Carrier",
+        "Aviation Battleship",
+        "Repair"
+    ],
+    "Sardegna Empire": [
+        "Destroyer",
+        "Battleship",
+        "Aircraft Carrier",
+        "Heavy Cruiser",
+        "Light Cruiser",
+        "Submarine"
+    ],
+    "Vichya Dominion": [
+        "Heavy Cruiser",
+        "Battlecruiser",
+        "Battelship",
+        "Battleship",
+        "Aircraft Carrier",
+        "Light Cruiser",
+        "Destroyer"
+    ],
+    "META": [
+        "Heavy Cruiser",
+        "Battleship",
+        "Aircraft Carrier",
+        "Destroyer",
+        "Battlecruiser",
+        "Light Cruiser",
+        "Light Aircraft Carrier",
+        "Submarine",
+        "Repair"
+    ],
+    "Idolm@ster": [
+        "Submarine",
+        "Heavy Cruiser",
+        "Aircraft Carrier",
+        "Light Cruiser",
+        "Battleship",
+        "Munition"
+    ],
+    "Dragon Empire": [
+        "Destroyer",
+        "Light Cruiser",
+        "Light Aircraft Carrier",
+        "Munition"
+    ],
+    "Northern Parliament": [
+        "Battleship",
+        "Light Cruiser",
+        "Aircraft carrier",
+        "Destroyer",
+        "Large Cruiser",
+        "Heavy Cruiser",
+        "Aircraft Carrier"
+    ],
+    "Iris Libre": [
+        "Aircraft Carrier",
+        "Large Cruiser",
+        "Battleship",
+        "Light Cruiser",
+        "Destroyer",
+        "Heavy Cruiser",
+        "Submarine"
+    ],
+    "Bilibili": [
+        "Destroyer"
+    ],
+    "Universal": [
+        "Destroyer"
+    ],
+    "Venus Vacation": [
+        "Battleship",
+        "Heavy Cruiser",
+        "Light Aircraft Carrier",
+        "Destroyer",
+        "Light Cruiser",
+        "Aircraft Carrier",
+        "Battlecruiser"
+    ],
+    "Neptunia": [
+        "Heavy Cruiser",
+        "Destroyer",
+        "Aircraft Carrier",
+        "Light Cruiser"
+    ],
+    "Atelier": [
+        "Large Cruiser",
+        "Light Aircraft Carrier",
+        "Heavy Cruiser",
+        "Battleship",
+        "Light Cruiser",
+        "Aircraft Carrier"
+    ],
+    "KizunaAI": [
+        "Destroyer",
+        "Battleship",
+        "Heavy Cruiser",
+        "Aircraft Carrier"
+    ],
+    "Hololive": [
+        "Submarine",
+        "Light Aircraft Carrier",
+        "Heavy Cruiser",
+        "Destroyer",
+        "Aircraft Carrier"
+    ],
+    "Tempesta": [
+        "Sailing Frigate"
+    ],
+    "SSSS": [
+        "Battleship",
+        "Aircraft Carrier",
+        "Light Cruiser",
+        "Heavy Cruiser",
+        "Aviation Battleship",
+        "Munition Ship",
+        "Destroyer",
+        "Submarine"
+    ],
+    "Utawarerumono": [
+        "Aircraft Carrier",
+        "Heavy Cruiser",
+        "Destroyer",
+        "Light Cruiser",
+        "Light Aircraft Carrier"
+    ],
+    "Siren": [
+        "Battleship",
+        "Light Cruiser",
+        "Destroyer",
+        "Heavy Cruiser",
+        "Aircraft Carrier",
+        "Submarine"
+    ],
+    "Miscellaneous": [
+        "Miscellaneous"
+    ],
+    "Atelier Sirens": [
+        "Miscellaneous"
+    ],
+    "Atelier Mobs": [
+        "Miscellaneous"
+    ]
+}
