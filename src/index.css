@@ -3,13 +3,65 @@
 @tailwind utilities;
 
 @layer components {
-    .bg-dark-background {
-        background: rgb(65, 62, 150);
-        background: linear-gradient(45deg, rgba(65, 62, 150, 1) 0%, rgba(13, 15, 35, 1) 100%);
+    .eagle-union {
+        @apply bg-gradient-to-r from-blue-800 to-indigo-900;
     }
 
-    .bg-light-background {
-        @apply bg-gradient-to-r from-cyan-500 to-blue-500;
+    .sakura-empire {
+        @apply bg-gradient-to-r from-red-600 to-amber-400;
     }
 
+    .royal-navy {
+        @apply bg-gradient-to-r from-blue-600 to-blue-300;
+    }
+
+    .ironblood {
+        @apply bg-gradient-to-r from-red-900 to-red-700;
+    }
+
+    .unknown {
+        @apply bg-gradient-to-r from-gray-900 to-gray-500;
+    }
+
+    .meta {
+        @apply bg-gradient-to-r from-orange-950 to-gray-900;
+    }
+
+    .iris-libre {
+        @apply bg-gradient-to-r from-blue-900 to-slate-400;
+    }
+
+    .dragon-empire {
+        @apply bg-gradient-to-r from-yellow-900 to-yellow-400;
+    }
+
+    .sardegna-empire {
+        @apply bg-gradient-to-r from-green-900 to-green-600;
+    }
+
+    .vichya-dominion {
+        @apply bg-gradient-to-r from-red-700 to-blue-700;
+    }
+
+    .northern-parliament {
+        @apply bg-gradient-to-r from-red-600 to-slate-400;
+    }
+
+    .idolmaster,
+    .bilibili,
+    .universal,
+    .venus-vacation,
+    .neptunia,
+    .atelier,
+    .kizunaai,
+    .hololive,
+    .tempesta,
+    .ssss,
+    .utawarerumono,
+    .siren,
+    .miscellaneous,
+    .atelier-sirens,
+    .atelier-mobs {
+        @apply bg-gradient-to-r from-pink-400 to-fuchsia-800;
+    }
 }
