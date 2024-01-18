@@ -1,19 +1,32 @@
-import PropTypes from 'prop-types';
 import { Chip } from "@nextui-org/react";
-import { useContext } from 'react';
-import { SetSpriteContext } from './context/SetSprite';
+import { useState } from 'react';
+import ModalSkins from './ModalSkins';
+import ProtoType from 'prop-types';
 
-export default function ChipCharacter({ name, faction }) {
+export default function ChipCharacter({ name, faction, base, onOpenChange }) {
 
+    ChipCharacter.propTypes = {
+        name: ProtoType.string.isRequired,
+        faction: ProtoType.string.isRequired,
+        base: ProtoType.object.isRequired,
+        onOpenChange: ProtoType.func.isRequired,
+    };
+
+    const [isOpen, setIsOpen] = useState(false);
+
+    /*
     const { addSprite } = useContext(SetSpriteContext);
     const handleClick = (name) => {
         const newSprite = { asset: "xuefeng", name: name }; // newSprite es un objeto, no un array
         addSprite(newSprite); // Agrega el nuevo sprite al estado existente
 
+    };*/
+    const handleOpen = () => {
+        setIsOpen(true);
     };
-    ChipCharacter.propTypes = {
-        name: PropTypes.string.isRequired,
-        faction: PropTypes.string.isRequired,
+
+    const handleClose = () => {
+        setIsOpen(false);
     };
     return (
         <>
@@ -27,10 +40,11 @@ export default function ChipCharacter({ name, faction }) {
                     content: "truncate pr-1",
                 }}
                 endContent={<span className="rounded-full bg-green-500"></span>}
-                onClick={() => handleClick(name)}
+                onClick={handleOpen}
             >
                 {name}
             </Chip>
+            <ModalSkins isOpen={isOpen} onClose={handleClose} name={name} base={base} onOpenChange={onOpenChange} />
         </>
 
     )
