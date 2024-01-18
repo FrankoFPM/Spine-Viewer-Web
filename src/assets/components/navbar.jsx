@@ -1,36 +1,11 @@
 
-import { ScrollShadow, Button } from "@nextui-org/react";
-import { useState } from 'react';
-import BackgroundController from './backgroundController';
+import { ScrollShadow } from "@nextui-org/react";
 import PixiApp from './PixiApp';
-import ModalComponent from './Modal';
 import { SetSpriteProvider } from './context/SetSprite';
 import icon from '../../assets/img/icon.png';
+import Buttons from "./context/navbar/Buttons";
 
-function Buttons() {
-    const [isHidden, setIsHidden] = useState(true);
 
-    const handleBackgroundClick = () => {
-        setIsHidden(!isHidden);
-    };
-
-    return (
-        <div className='mt-auto mb-2 flex flex-col gap-2'>
-            <BackgroundController isHidden={isHidden} />
-            <div className="flex flex-col gap-2 w-[80%] m-auto">
-                <Button
-                    color='primary'
-                    size='sm'
-                    className='font-bold text-md'
-                    onClick={handleBackgroundClick}
-                >
-                    BACKGROUND
-                </Button>
-                <ModalComponent />
-            </div>
-        </div>
-    );
-}
 
 //nav bar component
 export default function Sidebar() {
