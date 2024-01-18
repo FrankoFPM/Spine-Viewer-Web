@@ -1,4 +1,4 @@
-import { Slider, Tooltip, Checkbox, Select, SelectSection, SelectItem } from "@nextui-org/react";
+import { Slider, Tooltip, Checkbox, Select, SelectItem } from "@nextui-org/react";
 import { useState } from 'react';
 import ProtoTypes from 'prop-types';
 //controller for sprite component
@@ -33,7 +33,7 @@ function RangeController({ name, min, max, step, initvalue, setChange }) {
             base: "w-[80%] ",
             label: "text-large text-white font-bold",
         }}
-        renderValue={({ children, ...props }) => (
+        renderValue={({ ...props }) => (
             <output {...props}>
                 <Tooltip
                     className="text-tiny text-default-500 rounded-md"
@@ -149,7 +149,7 @@ export default function SpriteController({ sprite }) {
                 variant='bordered'
                 onChange={handleAnimationChange}
             >
-                {animations.map((animation, index) => (
+                {animations.map((animation) => (
                     <SelectItem key={animation.name} value={animation.name}>{animation.name}</SelectItem>
                 ))}
             </Select>

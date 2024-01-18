@@ -1,4 +1,4 @@
-import { Divider, Modal, ModalContent, ModalHeader, ModalBody, ModalFooter, Button, useDisclosure } from "@nextui-org/react";
+import { Modal, ModalContent, ModalHeader, ModalBody, ModalFooter, Button, useDisclosure } from "@nextui-org/react";
 import Filter from "./Filter";
 
 
@@ -36,14 +36,11 @@ export default function ModalComponent() {
                             <ModalHeader className="flex flex-col gap-1">Add new Sprite
                             </ModalHeader>
                             <ModalBody>
-                                <Filter />
+                                <Filter onOpenChange={onOpenChange} />
                             </ModalBody>
                             <ModalFooter>
                                 <Button color="danger" variant="shadow" onPress={onClose}>
                                     Close
-                                </Button>
-                                <Button color="primary" variant="shadow" onPress={onClose}>
-                                    Action
                                 </Button>
                             </ModalFooter>
                         </>

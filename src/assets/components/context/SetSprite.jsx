@@ -1,5 +1,5 @@
 //contexto para anadir sprites al los componentes
-import { createContext, useCallback, useEffect, useState } from 'react';
+import { createContext, useCallback, useState } from 'react';
 import PropTypes from 'prop-types';
 
 export const SetSpriteContext = createContext();

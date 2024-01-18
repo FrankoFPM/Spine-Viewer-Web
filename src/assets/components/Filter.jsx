@@ -4,9 +4,15 @@ import filtersFactions from "../data/factions.json";
 import filtersType from "../data/TypeClass.json";
 import groupType from "../data/GroupType.json";
 import ChipCharacter from "./CardCharacter";
-import MainData from "../data/MainData.json";
+import MainData from "../data/mainData.json";
+import ProtoType from 'prop-types';
 
-export default function Filter() {
+export default function Filter({ onOpenChange }) {
+
+    Filter.propTypes = {
+        onOpenChange: ProtoType.func.isRequired,
+    };
+
     const [selectedFilter, setSelectedFilter] = useState(null);
     const [selectedFilterType, setSelectedFilterType] = useState(null);
     const [filteredFactions, setFilteredFactions] = useState(filtersFactions);
@@ -102,6 +108,8 @@ export default function Filter() {
                             name={character.name}
                             faction={character.group}
                             type={character.type}
+                            base={character}
+                            onOpenChange={onOpenChange}
                         />
                     ))
                     : Object.values(MainData)
@@ -123,6 +131,8 @@ export default function Filter() {
                                 name={character.name}
                                 faction={character.group}
                                 type={character.type}
+                                base={character}
+                                onOpenChange={onOpenChange}
                             />
                         ))
                 }
