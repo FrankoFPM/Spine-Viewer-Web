@@ -47,26 +47,40 @@ const SpineRenderer = ({ character, name, canvas }) => {
 
     useEffect(() => {
         if (canvas) {
-            console.log("app is not null", canvas)
             let characterPath = path + character + '.skel';
-            PIXI.Assets.load(characterPath).then((resource) => {
-                console.log(resource)
-                const spine = new Spine(resource.spineData);
-                console.log(spine)
-                spine.scale.set(0.5);
-                spine.x = canvas.screen.width / 2;
-                spine.y = canvas.screen.height / 1.2;
-                spine.state.setAnimation(0, 'dance', true);
-                setupInteractivity(spine);
-                canvas.stage.addChild(spine);
+            fetch(characterPath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then(content => {
+                    if (content.length < 700) {
+                        throw new Error('El recurso está vacío');
+                    }
+                    PIXI.Assets.load(characterPath).then((resource) => {
+                        console.log(resource)
+                        const spine = new Spine(resource.spineData);
+                        console.log(spine)
+                        spine.scale.set(0.5);
+                        spine.x = canvas.screen.width / 2;
+                        spine.y = canvas.screen.height / 1.2;
+                        spine.state.setAnimation(0, 'stand2', true);
+                        setupInteractivity(spine);
+                        canvas.stage.addChild(spine);
 
-                console.log("renderizado")
-                setSpine(spine);
-            });
+                        console.log("renderizado")
+                        setSpine(spine);
+                    }).catch((err) => {
+                        console.log(err);
+                    });
+                })
+
+
         } else {
             console.log("app is null")
         }
-        console.log("renderizado")
     }, [canvas, character]);
     const [expandedSprite, setExpandedSprite] = useState(null);
 
