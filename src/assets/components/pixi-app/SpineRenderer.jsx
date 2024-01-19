@@ -3,10 +3,10 @@ import * as PIXI from 'pixi.js'
 import '@pixi-spine/all-3.8';
 import { Spine } from '@pixi-spine/all-3.8';
 import PropTypes from 'prop-types';
-import Sprite from './Sprite';
+import Sprite from '../Sprite';
 
 
-const path = '../../../public/assets/';
+const path = '../../../../public/assets/';
 
 
 function setupInteractivity(shiprender) {

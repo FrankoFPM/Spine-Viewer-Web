@@ -1,5 +1,5 @@
 
-import PixiApp from './PixiApp';
+import PixiApp from './pixi-app/PixiApp';
 import { SetSpriteProvider } from './context/SetSprite';
 import icon from '../../assets/img/icon.png';
 

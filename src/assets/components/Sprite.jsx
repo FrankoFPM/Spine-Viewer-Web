@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons'
-import SpriteController from './spriteController';
+import SpriteController from './navbar/spriteController';
 
 import PropTypes from 'prop-types';
 

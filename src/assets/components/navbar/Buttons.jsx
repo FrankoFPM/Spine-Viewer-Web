@@ -1,7 +1,7 @@
 import { useState } from "react";
-import BackgroundController from "../../backgroundController";
+import BackgroundController from "./backgroundController";
 import { Button } from "@nextui-org/react";
-import ModalComponent from "../../Modal";
+import ModalComponent from "../Modal";
 import ProtoType from "prop-types";
 
 export default function Buttons({ app }) {

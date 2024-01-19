@@ -1,10 +1,10 @@
 import { useEffect, useContext, useState } from 'react';
 import * as PIXI from 'pixi.js';
 import SpineRenderer from './SpineRenderer';
-import { SetSpriteContext } from './context/SetSprite';
+import { SetSpriteContext } from '../context/SetSprite';
 import PropTypes from 'prop-types';
 import { ScrollShadow } from '@nextui-org/react';
-import Buttons from './context/navbar/Buttons';
+import Buttons from '../navbar/Buttons';
 
 const PixiApp = ({ canvasId }) => {
 
