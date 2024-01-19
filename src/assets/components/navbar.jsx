@@ -1,13 +1,8 @@
 
-import { ScrollShadow } from "@nextui-org/react";
 import PixiApp from './PixiApp';
 import { SetSpriteProvider } from './context/SetSprite';
 import icon from '../../assets/img/icon.png';
-import Buttons from "./context/navbar/Buttons";
 
-
-
-//nav bar component
 export default function Sidebar() {
 
     return (
@@ -17,12 +12,7 @@ export default function Sidebar() {
                 <h1 className="text-white text-3xl font-bold uppercase text-left">Sprite Viewer</h1>
             </div>
             <SetSpriteProvider>
-                <ScrollShadow hideScrollBar className="h-auto mb-2" size={5}>
-                    <div className="flex flex-col gap-2 mb-2">
-                        <PixiApp canvasId={"app"} />
-                    </div>
-                </ScrollShadow>
-                <Buttons />
+                <PixiApp canvasId={"app"} />
             </SetSpriteProvider>
 
         </div>

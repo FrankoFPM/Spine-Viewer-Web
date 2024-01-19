@@ -3,6 +3,8 @@ import * as PIXI from 'pixi.js';
 import SpineRenderer from './SpineRenderer';
 import { SetSpriteContext } from './context/SetSprite';
 import PropTypes from 'prop-types';
+import { ScrollShadow } from '@nextui-org/react';
+import Buttons from './context/navbar/Buttons';
 
 const PixiApp = ({ canvasId }) => {
 
@@ -34,9 +36,17 @@ const PixiApp = ({ canvasId }) => {
 
     return (
         <>
-            {app && sprites.map((sprite, index) => (
-                <SpineRenderer key={index} character={sprite.asset} name={sprite.name} canvas={app} />
-            ))}
+            <ScrollShadow hideScrollBar className="h-auto mb-2" size={5}>
+                <div className="flex flex-col gap-2 mb-2">
+                    {app && sprites.map((sprite, index) => (
+                        <SpineRenderer key={index} character={sprite.asset} name={sprite.name} canvas={app} />
+                    ))}
+                </div>
+            </ScrollShadow>
+            {app &&
+                <Buttons app={app} />
+            }
+
         </>
     );
 }
