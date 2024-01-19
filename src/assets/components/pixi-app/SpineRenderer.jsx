@@ -66,7 +66,12 @@ const SpineRenderer = ({ character, name, canvas }) => {
                         spine.scale.set(0.5);
                         spine.x = canvas.screen.width / 2;
                         spine.y = canvas.screen.height / 1.2;
-                        spine.state.setAnimation(0, 'stand2', true);
+                        if (spine.state.hasAnimation('stand2')) {
+                            spine.state.setAnimation(0, 'stand2', true);
+                        } else {
+                            let anim = spine.state.data.skeletonData.animations[0].name;
+                            spine.state.setAnimation(0, anim, true);
+                        }
                         setupInteractivity(spine);
                         canvas.stage.addChild(spine);
 
