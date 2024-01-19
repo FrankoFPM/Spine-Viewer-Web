@@ -14,13 +14,6 @@ export default function ChipCharacter({ name, faction, base, onOpenChange }) {
 
     const [isOpen, setIsOpen] = useState(false);
 
-    /*
-    const { addSprite } = useContext(SetSpriteContext);
-    const handleClick = (name) => {
-        const newSprite = { asset: "xuefeng", name: name }; // newSprite es un objeto, no un array
-        addSprite(newSprite); // Agrega el nuevo sprite al estado existente
-
-    };*/
     const handleOpen = () => {
         setIsOpen(true);
     };
@@ -31,7 +24,7 @@ export default function ChipCharacter({ name, faction, base, onOpenChange }) {
     return (
         <>
             <Chip
-                key={name + faction} // Asegúrate de que esta clave sea única para cada Chip
+                //key={name + faction} // Asegúrate de que esta clave sea única para cada Chip
                 className="text-white min-w-[120px] max-w-[120px] hover:brightness-90 cursor-pointer"
                 variant="dot"
                 classNames={{

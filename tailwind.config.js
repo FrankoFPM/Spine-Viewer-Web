@@ -72,7 +72,7 @@ export default {
     'bg-utawarerumono',
     'bg-siren',
     'bg-miscellaneous',
-    'bg-atelier-Sirens',
+    'bg-atelier-sirens',
     'bg-atelier-mobs',
     'bg-unknown',
     'eagle-union',
