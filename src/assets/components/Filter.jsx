@@ -119,7 +119,7 @@ export default function Filter({ onOpenChange }) {
                         label: " group-data-[filled-within=true]:text-white",
                     }}
                     onChange={handleInputChange}
-                    description="Search in all factions and classes"
+                    description="Search all factions and classes"
                 />
 
             </div>

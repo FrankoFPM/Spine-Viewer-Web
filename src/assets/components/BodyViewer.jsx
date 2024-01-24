@@ -59,7 +59,7 @@ export default function BodyViewer() {
                                 <FontAwesomeIcon className="mx-1" icon={faBone} />
                             }
                             classNames={{
-                                base: "bg-light-background dark:bg-dark-background border-1 border-white z-10 text-slate-200 brightness-75 hover:brightness-100 transition-all duration-300",
+                                base: "bg-light-background dark:bg-dark-background border-1 border-white z-10 text-slate-200 brightness-75 hover:brightness-100 transition-all duration-300 mr-5",
                                 content: " shadow-black text-slate-200 font-bold",
                             }}
                         >Supported version: 3.8 </Chip>
