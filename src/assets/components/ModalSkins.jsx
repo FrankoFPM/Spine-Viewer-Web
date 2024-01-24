@@ -66,7 +66,7 @@ export default function ModalSkins({ isOpen, onClose, name, base, onOpenChange }
                                                 >
                                                     <div className="truncate">
                                                         {
-                                                            skin.includes("_h") ? "Oath" : (skin.includes("_") ? skin : "Default")
+                                                            skin.includes("_h") ? "Oath" : (skin.includes("_g") ? "Retrofit" : (skin.includes("_") ? skin : "Default"))
                                                         }
                                                     </div>
                                                 </Button>

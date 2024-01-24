@@ -1,17 +1,9 @@
-import { Slider, Tooltip, Checkbox, Select, SelectItem } from "@nextui-org/react";
+import { Slider, Tooltip, Checkbox, Select, SelectItem, Button } from "@nextui-org/react";
 import { useState } from 'react';
 import ProtoTypes from 'prop-types';
 //controller for sprite component
 function RangeController({ name, min, max, step, initvalue, setChange }) {
 
-    RangeController.propTypes = {
-        name: ProtoTypes.string.isRequired,
-        min: ProtoTypes.number.isRequired,
-        max: ProtoTypes.number.isRequired,
-        step: ProtoTypes.number.isRequired,
-        initvalue: ProtoTypes.number.isRequired,
-        setChange: ProtoTypes.func.isRequired,
-    };
     const [value, setValue] = useState(parseFloat(initvalue));
     const [inputValue, setInputValue] = useState(initvalue);
 
@@ -62,11 +54,16 @@ function RangeController({ name, min, max, step, initvalue, setChange }) {
         onChange={handleChange}
     />);
 }
+RangeController.propTypes = {
+    name: ProtoTypes.string.isRequired,
+    min: ProtoTypes.number.isRequired,
+    max: ProtoTypes.number.isRequired,
+    step: ProtoTypes.number.isRequired,
+    initvalue: ProtoTypes.number.isRequired,
+    setChange: ProtoTypes.func.isRequired,
+};
+export default function SpriteController({ sprite, onRemove }) {
 
-export default function SpriteController({ sprite }) {
-    SpriteController.propTypes = {
-        sprite: ProtoTypes.object.isRequired,
-    };
     const animations = sprite?.state?.data?.skeletonData?.animations || [];
 
     const [flipX, setFlipX] = useState(false);
@@ -96,6 +93,11 @@ export default function SpriteController({ sprite }) {
 
     const handleSpeedChange = (speed) => {
         sprite.state.timeScale = speed;
+    };
+
+    const removeSprite = () => {
+        sprite.destroy();
+        onRemove();
     };
 
     return (
@@ -153,6 +155,14 @@ export default function SpriteController({ sprite }) {
                     <SelectItem key={animation.name} value={animation.name}>{animation.name}</SelectItem>
                 ))}
             </Select>
+            <Button size='sm' className='text-xs font-semibold my-1' color='danger' onClick={removeSprite}>
+                Remove
+            </Button>
 
         </>);
 }
+
+SpriteController.propTypes = {
+    sprite: ProtoTypes.object.isRequired,
+    onRemove: ProtoTypes.func.isRequired,
+};

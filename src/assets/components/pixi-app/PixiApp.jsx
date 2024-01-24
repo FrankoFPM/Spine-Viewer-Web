@@ -33,13 +33,20 @@ const PixiApp = ({ canvasId }) => {
 
         setApp(pixiApp);
     }, [canvasId]);
+    const [expandedSprite, setExpandedSprite] = useState(null);
+
+
+    const handleSpriteClick = (name) => {
+        setExpandedSprite(expandedSprite === name ? null : name);
+        console.log(expandedSprite);
+    };
 
     return (
         <>
             <ScrollShadow hideScrollBar className="h-auto mb-2" size={5}>
                 <div className="flex flex-col gap-2 mb-2">
                     {app && sprites.map((sprite, index) => (
-                        <SpineRenderer key={index} character={sprite.asset} name={sprite.name} canvas={app} />
+                        <SpineRenderer key={index} character={sprite.asset} name={sprite.name} canvas={app} isExpanded={expandedSprite === sprite.asset + index} onClick={() => handleSpriteClick(sprite.asset + index)} />
                     ))}
                 </div>
             </ScrollShadow>

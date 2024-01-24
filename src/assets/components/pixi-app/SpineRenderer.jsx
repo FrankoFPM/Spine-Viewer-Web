@@ -37,16 +37,18 @@ function setupInteractivity(shiprender) {
     });
 }
 
-const SpineRenderer = ({ character, name, canvas }) => {
+const SpineRenderer = ({ character, name, canvas, isExpanded, onClick }) => {
     SpineRenderer.propTypes = {
         character: PropTypes.string,
         name: PropTypes.string,
         canvas: PropTypes.object,
+        isExpanded: PropTypes.bool,
+        onClick: PropTypes.func,
     };
     const [spine, setSpine] = useState(null);
 
     useEffect(() => {
-        if (canvas) {
+        if (canvas && character) {
             let characterPath = path + character + '.skel';
             fetch(characterPath)
                 .then(response => {
@@ -84,18 +86,19 @@ const SpineRenderer = ({ character, name, canvas }) => {
 
 
         } else {
-            console.log("app is null")
+            console.log("app is null or character is null")
         }
     }, [canvas, character]);
-    const [expandedSprite, setExpandedSprite] = useState(null);
 
+    const [isSpriteVisible, setIsSpriteVisible] = useState(true);
 
-    const handleSpriteClick = (name) => {
-        setExpandedSprite(expandedSprite === name ? null : name);
+    const handleRemoveSprite = () => {
+        setIsSpriteVisible(false);
     };
+
     return (
         <>
-            {spine && <Sprite sprite={spine} name={name} isExpanded={expandedSprite === name} onClick={() => handleSpriteClick(name)} />}
+            {spine && isSpriteVisible && <Sprite sprite={spine} name={name} skin={character} isExpanded={isExpanded} onClick={onClick} onRemove={handleRemoveSprite} />}
         </>
     );
 }
