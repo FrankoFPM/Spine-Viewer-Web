@@ -7,6 +7,7 @@ import ChipCharacter from "./CardCharacter";
 import MainData from "../data/mainData.json";
 import ProtoType from 'prop-types';
 import FilterChip from "./FilterChip";
+import UploadButtons from "./UploadAssets";
 const ITEMS_PER_PAGE = 98;
 
 export default function Filter({ onOpenChange }) {
@@ -109,7 +110,8 @@ export default function Filter({ onOpenChange }) {
                 ))}
             </div>
             <Divider className="mt-4 bg-white" />
-            <div className="">
+            <div className="flex items-center">
+                <UploadButtons />
                 <Input
                     label="Character"
                     className="max-w-xs ml-auto"
