@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 import Sprite from '../Sprite';
 
 
-const path = '../../../../public/assets/';
+const path = '/assets/';
 
 
 function setupInteractivity(shiprender) {
