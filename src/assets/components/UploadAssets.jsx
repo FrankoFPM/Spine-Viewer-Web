@@ -5,14 +5,19 @@ import * as PIXI from 'pixi.js'
 import '@pixi-spine/all-3.8';
 import { Spine, SkeletonBinary, TextureAtlas, AtlasAttachmentLoader } from '@pixi-spine/all-3.8';
 import { setupInteractivity } from "./pixi-app/SetupInteractivity";
+import ProtoType from 'prop-types';
+import { SetAssetsContext } from "./context/SetAssets";
 
-export default function UploadButtons() {
+export default function UploadButtons({ onOpenChange }) {
     const fileRef = useRef(null);
     const [files, setFiles] = useState([]);
     const [fileData, setFileData] = useState(null);
     const [counter, setCounter] = useState(1);
+    const [active, setActive] = useState(true);
+    const [nameFile, setNameFile] = useState(null);
 
     const { appGlobal } = useContext(SetAppContext);
+    const { assets, setAssets } = useContext(SetAssetsContext);
 
 
     const handleUploadClick = () => {
@@ -28,9 +33,11 @@ export default function UploadButtons() {
     }
 
     function loadAssets(urlObject) {
+
         blobUrlToArrayBuffer(urlObject.skel)
             .then(arrayBuffer => {
-                const spineName = `sprite${counter}`;
+                const id = assets[assets.length - 1].id;
+                const spineName = `sprite${id}`;
                 PIXI.Assets.add({
                     alias: spineName,
                     src: urlObject.atlas,
@@ -41,7 +48,7 @@ export default function UploadButtons() {
                 PIXI.Assets.load(spineName).then((resource) => {
                     var rawSkeletonData = new Uint8Array(arrayBuffer);
                     var rawAtlasData = resource;
-                    console.log(rawAtlasData);
+                    //console.log(rawAtlasData);
 
                     var spineAtlas = new TextureAtlas(rawAtlasData, function (line, callback) {
                         callback(PIXI.BaseTexture.from(urlObject.png));
@@ -52,22 +59,11 @@ export default function UploadButtons() {
                     var spineData = spineBinaryParser.readSkeletonData(rawSkeletonData);
                     console.log(spineData);
                     const spine = new Spine(spineData);
-                    spine.scale.set(0.5);
-                    spine.x = appGlobal.screen.width / 2;
-                    spine.y = appGlobal.screen.height / 1.2;
-                    if (spine.state.hasAnimation('stand2')) {
-                        spine.state.setAnimation(0, 'stand2', true);
-                    } else {
-                        let anim = spine.state.data.skeletonData.animations[0].name;
-                        spine.state.setAnimation(0, anim, true);
-                    }
-                    setupInteractivity(spine);
-                    appGlobal.stage.addChild(spine);
+
+                    setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
                 });
             })
-            .catch(error => console.error("AAAAAA", error)).finally(() => {
-                setCounter(counter + 1);
-            });
+            .catch(error => console.error("AAAAAA", error))
     }
 
     const handleFileChange = (event) => {
@@ -100,6 +96,7 @@ export default function UploadButtons() {
             fileMap[baseName].add(extension);
         }
 
+        setNameFile(Object.keys(fileMap)[0] || '');
         setFileData(uploadedFilesUrls);
 
         if (Object.keys(fileMap).length !== 1 || !fileMap[Object.keys(fileMap)[0]].has('skel') || !fileMap[Object.keys(fileMap)[0]].has('atlas') || !fileMap[Object.keys(fileMap)[0]].has('png')) {
@@ -108,23 +105,32 @@ export default function UploadButtons() {
         }
 
         setFiles((prevFiles) => [...prevFiles, ...newFiles]);
+        setActive(false);
     };
     const handleSpriteRender = () => {
         loadAssets(fileData);
+        setActive(true);
+        onOpenChange();
     }
 
     return (
-        <div className="flex items-center gap-2 mb-2">
+        <div className="flex items-center gap-2 mb-2 relative h-full">
             <Button color="success" className="text-white font-semibold" onClick={handleUploadClick}>
                 Upload Assets
             </Button>
             <input type="file" className="hidden" ref={fileRef} accept=".skel,.atlas,.png" multiple onChange={handleFileChange} />
-            {files.map((file, index) => (
-                <span key={index}>{file.name} |</span>
-            ))}
-            <Button color="warning" className="text-white font-semibold" onClick={handleSpriteRender}>
+            <div className="absolute bottom-[-20px] w-80">
+                {files.map((file, index) => (
+                    <span key={index} className=" text-xs font-semibold">{file.name} |</span>
+                ))}
+
+            </div>
+            <Button isDisabled={active} color="warning" className="text-white font-semibold" onClick={handleSpriteRender}>
                 GO
             </Button>
         </div>
     );
 }
+UploadButtons.propTypes = {
+    onOpenChange: ProtoType.func.isRequired,
+};

@@ -111,7 +111,7 @@ export default function Filter({ onOpenChange }) {
             </div>
             <Divider className="mt-4 bg-white" />
             <div className="flex items-center">
-                <UploadButtons />
+                <UploadButtons onOpenChange={onOpenChange} />
                 <Input
                     label="Character"
                     className="max-w-xs ml-auto"

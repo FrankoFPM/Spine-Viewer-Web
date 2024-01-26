@@ -10,18 +10,19 @@ import { setupInteractivity } from './SetupInteractivity';
 const path = '/assets/';
 
 
-const SpineRenderer = ({ character, name, canvas, isExpanded, onClick }) => {
+const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspine }) => {
     SpineRenderer.propTypes = {
         character: PropTypes.string,
         name: PropTypes.string,
         canvas: PropTypes.object,
         isExpanded: PropTypes.bool,
         onClick: PropTypes.func,
+        Assetspine: PropTypes.object,
     };
     const [spine, setSpine] = useState(null);
 
     useEffect(() => {
-        if (canvas && character) {
+        if (canvas && character && character !== "ASSET") {
             let characterPath = path + character + '.skel';
             fetch(characterPath)
                 .then(response => {
@@ -58,6 +59,19 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick }) => {
                 })
 
 
+        } else if (canvas && Assetspine) {
+            Assetspine.scale.set(0.5);
+            Assetspine.x = canvas.screen.width / 2;
+            Assetspine.y = canvas.screen.height / 1.2;
+            if (Assetspine.state.hasAnimation('stand2')) {
+                Assetspine.state.setAnimation(0, 'stand2', true);
+            } else {
+                let anim = Assetspine.state.data.skeletonData.animations[0].name;
+                Assetspine.state.setAnimation(0, anim, true);
+            }
+            setupInteractivity(Assetspine);
+            canvas.stage.addChild(Assetspine);
+            setSpine(Assetspine);
         } else {
             console.log("app is null or character is null")
         }

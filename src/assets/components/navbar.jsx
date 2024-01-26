@@ -3,6 +3,7 @@ import PixiApp from './pixi-app/PixiApp';
 import { SetSpriteProvider } from './context/SetSprite';
 import icon from '../../assets/img/icon.png';
 import { SetAppProvider } from './context/SetApp';
+import { SetAssetsProvider } from './context/SetAssets';
 
 export default function Sidebar() {
 
@@ -14,7 +15,9 @@ export default function Sidebar() {
             </div>
             <SetSpriteProvider>
                 <SetAppProvider>
-                    <PixiApp canvasId={"app"} />
+                    <SetAssetsProvider>
+                        <PixiApp canvasId={"app"} />
+                    </SetAssetsProvider>
                 </SetAppProvider>
             </SetSpriteProvider>
 
