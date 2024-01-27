@@ -1,6 +1,6 @@
 # Sprite Viewer
 
-Sprite Viewer is a web application that allows you to visualize and play sprites created with Spine, a 2D animation tool. This application is developed with React and Vite, and uses libraries such as [PixiJS](https://github.com/pixijs/pixijs), [Pixi-Spine](https://github.com/pixijs/spine), [TailwindCSS](https://tailwindcss.com/) y [NextUI](https://nextui.org/docs/guide/introduction).
+Sprite Viewer is a web application that allows you to visualize and play sprites created with Spine, a 2D animation tool. This application is developed with React and Vite, and uses libraries such as PixiJS, Pixi-Spine, TailwindCSS and NextUI.
 
 _Read this in other languages: [Español](README.es.md)._
 
