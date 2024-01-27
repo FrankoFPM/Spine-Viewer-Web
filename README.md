@@ -34,7 +34,8 @@ To load a sprite file, click on the "Upload asset" button and select the files o
 > You must select the 3 files of the sprite, they must have the same name
 > The extensions for the 3 files must be `.atlas`, `.skel` and `.png`
 
-> [!IMPORTANT] This application is an independent and unofficial project, which has
+> [!IMPORTANT]
+> This application is an independent and unofficial project, which has
 > no relationship or affiliation with Yostar, the company that owns the game Azur Lane.
 > All copyrights and trademarks of Azur Lane belong to Yostar and their
 > respective creators. This application only uses some names of characters from the game

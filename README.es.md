@@ -34,7 +34,8 @@ Para cargar un archivo de sprite, haz clic en el botón "Upload asset" y selecci
 > Se deben seleccionar los 3 archivos del sprite, deben tener el mismo nombre
 > Las extenciones para los 3 archivos deben ser `.atlas`, `.skel` y `.png`
 
-> [!IMPORTANT] Esta aplicación es un proyecto independiente y no oficial, que no tiene
+> [!IMPORTANT]
+> Esta aplicación es un proyecto independiente y no oficial, que no tiene
 > ninguna relación ni afiliación con Yostar, la empresa propietaria del juego Azur Lane.
 > Todos los derechos de autor y marcas registradas de Azur Lane pertenecen a Yostar y sus
 > respectivos creadores. Esta aplicación solo usa algunos nombres de personajes del juego
