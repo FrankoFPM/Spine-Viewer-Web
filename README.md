@@ -52,4 +52,4 @@ If you like this application and want to contribute to its development or improv
 
 ## License
 
-This application is licensed under the [GNU General Public License (GPL)], which means that you can use it, modify it and distribute it freely, as long as any derived work is also licensed under the GPL and gives credit to the author.
+This application is licensed under the [GNU General Public License (GPL)](LICENSE), which means that you can use it, modify it and distribute it freely, as long as any derived work is also licensed under the GPL and gives credit to the author.

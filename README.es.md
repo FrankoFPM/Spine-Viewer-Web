@@ -52,4 +52,4 @@ Si te gusta esta aplicación y quieres contribuir a su desarrollo o mejora, pued
 
 ## Licencia
 
-Esta aplicación está licenciada bajo la [GNU General Public License (GPL)], lo que significa que puedes usarla, modificarla y distribuirla libremente, siempre que cualquier trabajo derivado también esté licenciado bajo la GPL y des crédito al autor.
+Esta aplicación está licenciada bajo la [GNU General Public License (GPL)](LICENSE), lo que significa que puedes usarla, modificarla y distribuirla libremente, siempre que cualquier trabajo derivado también esté licenciado bajo la GPL y des crédito al autor.
