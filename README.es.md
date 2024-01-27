@@ -26,9 +26,9 @@ Para instalar y ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
 Para usar la aplicación, necesitas tener archivos de sprites en formato .skel, que son los que genera Spine al exportar las animaciones. Puedes obtener estos archivos de diferentes fuentes, como juegos, tutoriales o recursos gratuitos.
 
-La mayoría de los assets que se usan en esta aplicación fueron pensados en eljuego Azur Lane, propiedad de Yostar. Este repositorio no contiene ningún asset del juego, y cada usuario debe proveer los suyos propios. Esta aplicación no tiene fines comerciales, y solo pretende ser una herramienta de visualización y aprendizaje.
-
 Para cargar un archivo de sprite, haz clic en el botón "Upload asset" y selecciona los archivos del sprite que quieras ver, luego en el botón "GO". La aplicación mostrará el sprite en la ventana de visualización, y podrás controlar la animación con los controles laterales. También puedes cambiar el fondo del reproductor con el botón "Background", podras escoger un color o tu propia imagen.
+
+Este proyecto tiene como objetivo visualizar sprites. En particular, se enfoca en los sprites del juego Azur Lane, propiedad de Yostar. Este repositorio no contiene ningún asset del juego, y cada usuario debe proveer los suyos propios. Esta aplicación no tiene fines comerciales, y solo pretende ser una herramienta de visualización y aprendizaje.
 
 > [!NOTE]
 > Se deben seleccionar los 3 archivos del sprite, deben tener el mismo nombre
