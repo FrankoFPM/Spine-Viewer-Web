@@ -4,51 +4,25 @@ import '@pixi-spine/all-3.8';
 import { Spine } from '@pixi-spine/all-3.8';
 import PropTypes from 'prop-types';
 import Sprite from '../Sprite';
+import { setupInteractivity } from './SetupInteractivity';
 
 
 const path = '/assets/';
 
 
-function setupInteractivity(shiprender) {
-    shiprender.eventMode = 'dynamic';
-    shiprender.buttonMode = true;
-    let dragging = false;
-    let data;
-    let offset = { x: 0, y: 0 };
-    shiprender.on('pointerdown', function (event) {
-        //console.log('Sprite clicked:', this);
-        //selectSprite(this);
-        dragging = true;
-        data = event.data;
-        let position = data.getLocalPosition(this.parent);
-        offset.x = this.x - position.x;
-        offset.y = this.y - position.y;
-    });
-    shiprender.on('globalpointermove', function () {
-        if (dragging) {
-            var newPosition = data.getLocalPosition(this.parent);
-            this.x = newPosition.x + offset.x;
-            this.y = newPosition.y + offset.y;
-        }
-    });
-    shiprender.on('pointerup', function () {
-        dragging = false;
-        data = null;
-    });
-}
-
-const SpineRenderer = ({ character, name, canvas, isExpanded, onClick }) => {
+const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspine }) => {
     SpineRenderer.propTypes = {
         character: PropTypes.string,
         name: PropTypes.string,
         canvas: PropTypes.object,
         isExpanded: PropTypes.bool,
         onClick: PropTypes.func,
+        Assetspine: PropTypes.object,
     };
     const [spine, setSpine] = useState(null);
 
     useEffect(() => {
-        if (canvas && character) {
+        if (canvas && character && character !== "ASSET") {
             let characterPath = path + character + '.skel';
             fetch(characterPath)
                 .then(response => {
@@ -85,6 +59,19 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick }) => {
                 })
 
 
+        } else if (canvas && Assetspine) {
+            Assetspine.scale.set(0.5);
+            Assetspine.x = canvas.screen.width / 2;
+            Assetspine.y = canvas.screen.height / 1.2;
+            if (Assetspine.state.hasAnimation('stand2')) {
+                Assetspine.state.setAnimation(0, 'stand2', true);
+            } else {
+                let anim = Assetspine.state.data.skeletonData.animations[0].name;
+                Assetspine.state.setAnimation(0, anim, true);
+            }
+            setupInteractivity(Assetspine);
+            canvas.stage.addChild(Assetspine);
+            setSpine(Assetspine);
         } else {
             console.log("app is null or character is null")
         }

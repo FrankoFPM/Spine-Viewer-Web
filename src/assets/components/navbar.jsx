@@ -2,6 +2,8 @@
 import PixiApp from './pixi-app/PixiApp';
 import { SetSpriteProvider } from './context/SetSprite';
 import icon from '../../assets/img/icon.png';
+import { SetAppProvider } from './context/SetApp';
+import { SetAssetsProvider } from './context/SetAssets';
 
 export default function Sidebar() {
 
@@ -12,7 +14,11 @@ export default function Sidebar() {
                 <h1 className="text-white text-3xl font-bold uppercase text-left">Sprite Viewer</h1>
             </div>
             <SetSpriteProvider>
-                <PixiApp canvasId={"app"} />
+                <SetAppProvider>
+                    <SetAssetsProvider>
+                        <PixiApp canvasId={"app"} />
+                    </SetAssetsProvider>
+                </SetAppProvider>
             </SetSpriteProvider>
 
         </div>
