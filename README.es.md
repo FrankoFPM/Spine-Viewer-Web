@@ -1,6 +1,6 @@
-# Sprite Viewer
+# Spine Viewer
 
-Sprite Viewer es una aplicación web que te permite visualizar y reproducir sprites creados con Spine, una herramienta de animación 2D. Esta aplicación está desarrollada con React y Vite, y utiliza librerías como [PixiJS](https://github.com/pixijs/pixijs), [Pixi-Spine](https://github.com/pixijs/spine), [TailwindCSS](https://tailwindcss.com/) y [NextUI](https://nextui.org/docs/guide/introduction).
+Spine Viewer es una aplicación web que te permite visualizar y reproducir sprites creados con Spine, una herramienta de animación 2D. Esta aplicación está desarrollada con React y Vite, y utiliza librerías como [PixiJS](https://github.com/pixijs/pixijs), [Pixi-Spine](https://github.com/pixijs/spine), [TailwindCSS](https://tailwindcss.com/) y [NextUI](https://nextui.org/docs/guide/introduction).
 
 _Lea esto en otros idiomas: [English](README.md)._
 
@@ -16,8 +16,8 @@ _Lea esto en otros idiomas: [English](README.md)._
 
 Para instalar y ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
-- Clona este repositorio con el comando `git clone https://github.com/FrankoFPM/Sprite-Viewer-v2.git`
-- Entra en la carpeta del proyecto con el comando `cd Sprite-Viewer-v2`
+- Clona este repositorio con el comando `git clone https://github.com/FrankoFPM/Spine-Viewer-Web.git`
+- Entra en la carpeta del proyecto con el comando `cd Spine-Viewer-Web`
 - Instala las dependencias con el comando `npm install`
 - Inicia el servidor de desarrollo con el comando `npm run dev`
 - Abre tu navegador y accede a la dirección `http://localhost:####`
@@ -26,12 +26,12 @@ Para instalar y ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
 Para usar la aplicación, necesitas tener archivos de sprites en formato .skel, que son los que genera Spine al exportar las animaciones. Puedes obtener estos archivos de diferentes fuentes, como juegos, tutoriales o recursos gratuitos.
 
-Para cargar un archivo de sprite, haz clic en el botón "Upload asset" y selecciona los archivos del sprite que quieras ver, luego en el botón "GO". La aplicación mostrará el sprite en la ventana de visualización, y podrás controlar la animación con los controles laterales. También puedes cambiar el fondo del reproductor con el botón "Background", podras escoger un color o tu propia imagen.
+Para cargar un archivo de Spine, haz clic en el botón "Upload asset" y selecciona los archivos del Spine que quieras ver, luego en el botón "GO". La aplicación mostrará el spine en la ventana de visualización, y podrás controlar la animación con los controles laterales. También puedes cambiar el fondo del reproductor con el botón "Background", podras escoger un color o tu propia imagen.
 
 Este proyecto tiene como objetivo visualizar sprites. En particular, se enfoca en los sprites del juego Azur Lane, propiedad de Yostar. Este repositorio no contiene ningún asset del juego, y cada usuario debe proveer los suyos propios. Esta aplicación no tiene fines comerciales, y solo pretende ser una herramienta de visualización y aprendizaje.
 
 > [!NOTE]
-> Se deben seleccionar los 3 archivos del sprite, deben tener el mismo nombre
+> Se deben seleccionar los 3 archivos del spine, deben tener el mismo nombre
 > Las extenciones para los 3 archivos deben ser `.atlas`, `.skel` y `.png`
 
 > [!IMPORTANT]
