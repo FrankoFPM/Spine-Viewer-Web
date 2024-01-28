@@ -57,8 +57,13 @@ export default function UploadButtons({ onOpenChange }) {
                     var spineData = spineBinaryParser.readSkeletonData(rawSkeletonData);
                     console.log(spineData);
                     const spine = new Spine(spineData);
+                    console.log(spine);
+                    if (spine.spineData.version.includes("3.8")) {
+                        setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
+                    } else {
+                        alert("La versión del archivo spine no es compatible con la versión de pixi.js");
+                    }
 
-                    setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
                 });
             })
             .catch(error => console.error("error:", error))
