@@ -59,7 +59,7 @@ const PixiApp = ({ canvasId }) => {
                 </div>
             </ScrollShadow>
             {app &&
-                <Buttons app={app} />
+                <Buttons />
             }
 
         </>

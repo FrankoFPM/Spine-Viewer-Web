@@ -1,25 +1,25 @@
 import { Input, Button } from '@nextui-org/react';
-import { useState } from 'react';
+import { useContext, useState } from 'react';
 import { useRef } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSquare } from '@fortawesome/free-solid-svg-icons'
 import ProtoTypes from 'prop-types';
 import * as PIXI from 'pixi.js';
+import { SetAppContext } from '../context/SetApp';
 
-function ColorPicker({ app, background }) {
-    ColorPicker.propTypes = {
-        app: ProtoTypes.object.isRequired,
-        background: ProtoTypes.object,
-    };
+function ColorPicker({ background }) {
+
+    const { appGlobal } = useContext(SetAppContext);
+
     const [color, setColor] = useState('#000000');
     const colorInputRef = useRef();
 
     const handleColorChange = (e) => {
         if (background) {
-            app.stage.removeChild(background);
+            appGlobal.stage.removeChild(background);
         }
         setColor(e.target.value);
-        app.renderer.background.color = e.target.value
+        appGlobal.renderer.background.color = e.target.value
     };
 
     const handleInputClick = () => {
@@ -63,39 +63,34 @@ function ColorPicker({ app, background }) {
         </>
     );
 }
+ColorPicker.propTypes = {
+    background: ProtoTypes.object,
+};
 
-function UploadBackground({ app, setBackground, background }) {
-    UploadBackground.propTypes = {
-        app: ProtoTypes.object.isRequired,
-        setBackground: ProtoTypes.func.isRequired,
-        background: ProtoTypes.object,
-    };
+function UploadBackground({ setBackground, background }) {
+    const { appGlobal } = useContext(SetAppContext);
+
     const fileInputRef = useRef();
     const handleUploadClick = () => {
         fileInputRef.current.click();
     };
-
 
     const handleFileChange = (e) => {
         const file = e.target.files[0];
         const reader = new FileReader();
 
         reader.onload = (e) => {
-            // Si hay un fondo anterior, lo elimina
             if (background) {
-                app.stage.removeChild(background);
+                appGlobal.stage.removeChild(background);
             }
 
             let newBackground = PIXI.Sprite.from(e.target.result);
 
-            // Asegúrate de que el fondo cubra toda la pantalla ajustando su tamaño
-            newBackground.width = app.screen.width;
-            newBackground.height = app.screen.height;
+            newBackground.width = appGlobal.screen.width;
+            newBackground.height = appGlobal.screen.height;
 
-            // Agrega el nuevo fondo al escenario
-            app.stage.addChildAt(newBackground, 0);
+            appGlobal.stage.addChildAt(newBackground, 0);
 
-            // Actualiza la referencia al fondo actual
             setBackground(newBackground);
         };
 
@@ -127,24 +122,27 @@ function UploadBackground({ app, setBackground, background }) {
         </>
     );
 }
+UploadBackground.propTypes = {
+    setBackground: ProtoTypes.func.isRequired,
+    background: ProtoTypes.object,
+};
 
-export default function BackgroundController({ isHidden, app }) {
+export default function BackgroundController({ isHidden }) {
 
     const [background, setBackground] = useState(null);
 
-    BackgroundController.propTypes = {
-        isHidden: ProtoTypes.bool.isRequired,
-        app: ProtoTypes.object.isRequired,
-    };
     return (
         <>
             <div className={`${isHidden ? 'h-0' : 'h-[180px]'} flex flex-col justify-center gap-2 bg-blue-700 mx-auto w-[90%] rounded-md overflow-hidden border-t-2 border-blue-700 h-0 transition-all`}>
                 <div className='flex flex-col items-center relative mt-2'>
-                    <ColorPicker app={app} background={background} />
+                    <ColorPicker background={background} />
                 </div>
                 <h1 className="flex justify-center w-full text-white font-bold">--- Or ---</h1>
-                <UploadBackground app={app} setBackground={setBackground} background={background} />
+                <UploadBackground setBackground={setBackground} background={background} />
             </div>
         </>
     );
 }
+BackgroundController.propTypes = {
+    isHidden: ProtoTypes.bool.isRequired,
+};

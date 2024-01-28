@@ -4,7 +4,6 @@ import { SetAppContext } from "./context/SetApp";
 import * as PIXI from 'pixi.js'
 import '@pixi-spine/all-3.8';
 import { Spine, SkeletonBinary, TextureAtlas, AtlasAttachmentLoader } from '@pixi-spine/all-3.8';
-import { setupInteractivity } from "./pixi-app/SetupInteractivity";
 import ProtoType from 'prop-types';
 import { SetAssetsContext } from "./context/SetAssets";
 
@@ -12,7 +11,6 @@ export default function UploadButtons({ onOpenChange }) {
     const fileRef = useRef(null);
     const [files, setFiles] = useState([]);
     const [fileData, setFileData] = useState(null);
-    const [counter, setCounter] = useState(1);
     const [active, setActive] = useState(true);
     const [nameFile, setNameFile] = useState(null);
 
@@ -63,7 +61,7 @@ export default function UploadButtons({ onOpenChange }) {
                     setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
                 });
             })
-            .catch(error => console.error("AAAAAA", error))
+            .catch(error => console.error("error:", error))
     }
 
     const handleFileChange = (event) => {

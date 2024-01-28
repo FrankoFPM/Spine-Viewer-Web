@@ -2,13 +2,8 @@ import { useState } from "react";
 import BackgroundController from "./backgroundController";
 import { Button } from "@nextui-org/react";
 import ModalComponent from "../Modal";
-import ProtoType from "prop-types";
 
-export default function Buttons({ app }) {
-
-    Buttons.propTypes = {
-        app: ProtoType.object.isRequired,
-    };
+export default function Buttons() {
 
     const [isHidden, setIsHidden] = useState(true);
 
@@ -18,7 +13,7 @@ export default function Buttons({ app }) {
 
     return (
         <div className='mt-auto mb-2 flex flex-col gap-2'>
-            <BackgroundController isHidden={isHidden} app={app} />
+            <BackgroundController isHidden={isHidden} />
             <div className="flex flex-col gap-2 w-[80%] m-auto">
                 <Button
                     color='primary'
