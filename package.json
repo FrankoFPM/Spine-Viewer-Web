@@ -20,7 +20,8 @@
     "framer-motion": "^10.18.0",
     "pixi.js": "^7.3.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-toastify": "^10.0.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",

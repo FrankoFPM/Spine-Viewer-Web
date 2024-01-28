@@ -2,9 +2,13 @@ import { Button, Modal, ModalBody, ModalContent, ModalFooter, ModalHeader } from
 import ProtoType from 'prop-types';
 import { SetSpriteContext } from "./context/SetSprite";
 import { useContext } from "react";
+import { SetToastContext } from "./context/SetToast";
+import { toast } from "react-toastify";
 
 
 export default function ModalSkins({ isOpen, onClose, name, base, onOpenChange }) {
+
+    const { setToastId } = useContext(SetToastContext);
 
     ModalSkins.propTypes = {
         isOpen: ProtoType.bool.isRequired,
@@ -19,6 +23,8 @@ export default function ModalSkins({ isOpen, onClose, name, base, onOpenChange }
         addSprite(newSprite);
         onClose();
         onOpenChange();
+        const idtoast = toast.loading("Please wait...");
+        setToastId(idtoast);
     };
 
 

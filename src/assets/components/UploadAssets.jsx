@@ -6,6 +6,8 @@ import '@pixi-spine/all-3.8';
 import { Spine, SkeletonBinary, TextureAtlas, AtlasAttachmentLoader } from '@pixi-spine/all-3.8';
 import ProtoType from 'prop-types';
 import { SetAssetsContext } from "./context/SetAssets";
+import { toast } from "react-toastify";
+import { SetToastContext } from "./context/SetToast";
 
 export default function UploadButtons({ onOpenChange }) {
     const fileRef = useRef(null);
@@ -16,6 +18,7 @@ export default function UploadButtons({ onOpenChange }) {
 
     const { appGlobal } = useContext(SetAppContext);
     const { assets, setAssets } = useContext(SetAssetsContext);
+    const { setToastId } = useContext(SetToastContext);
 
 
     const handleUploadClick = () => {
@@ -31,11 +34,14 @@ export default function UploadButtons({ onOpenChange }) {
     }
 
     function loadAssets(urlObject) {
+        const idtoast = toast.loading("Please wait...");
+        setToastId(idtoast);
 
         blobUrlToArrayBuffer(urlObject.skel)
             .then(arrayBuffer => {
                 const id = assets[assets.length - 1].id;
-                const spineName = `sprite${id}`;
+                const timestamp = Date.now();
+                const spineName = `sprite${id}_${timestamp}`;
                 PIXI.Assets.add({
                     alias: spineName,
                     src: urlObject.atlas,
@@ -61,7 +67,14 @@ export default function UploadButtons({ onOpenChange }) {
                     if (spine.spineData.version.includes("3.8")) {
                         setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
                     } else {
-                        alert("La versión del archivo spine no es compatible con la versión de pixi.js");
+                        toast.update(idtoast, {
+                            render: "Spine render error",
+                            type: "error",
+                            isLoading: false,
+                            autoClose: 2000
+                        });
+
+                        toast.error(`Incompatible version: ${spine.spineData.version}`);
                     }
 
                 });
@@ -75,7 +88,7 @@ export default function UploadButtons({ onOpenChange }) {
         const fileMap = {};
 
         if (newFiles.length > 3) {
-            alert("No puedes subir más de 3 archivos a la vez.");
+            toast.error("You cannot upload more than 3 files at a time.");
             return;
         }
 
@@ -90,7 +103,7 @@ export default function UploadButtons({ onOpenChange }) {
             }
 
             if (fileMap[baseName].has(extension)) {
-                alert(`Ya has subido un archivo con el nombre ${baseName} y la extensión .${extension}`);
+                toast.error(`File ${baseName}.${extension} already uploaded`);
                 return;
             }
             let url = URL.createObjectURL(file);
@@ -103,9 +116,10 @@ export default function UploadButtons({ onOpenChange }) {
         setFileData(uploadedFilesUrls);
 
         if (Object.keys(fileMap).length !== 1 || !fileMap[Object.keys(fileMap)[0]].has('skel') || !fileMap[Object.keys(fileMap)[0]].has('atlas') || !fileMap[Object.keys(fileMap)[0]].has('png')) {
-            alert("Debes subir exactamente 3 archivos con las extensiones .skel, .atlas y .png y con el mismo nombre base.");
+            toast.error("Upload exactly 3 files: .skel, .atlas, .png with same base name");
             return;
         }
+
 
         setFiles((prevFiles) => [...prevFiles, ...newFiles]);
         setActive(false);

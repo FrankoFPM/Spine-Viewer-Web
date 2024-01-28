@@ -1,10 +1,12 @@
-import { useEffect, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import * as PIXI from 'pixi.js'
 import '@pixi-spine/all-3.8';
 import { Spine } from '@pixi-spine/all-3.8';
 import PropTypes from 'prop-types';
 import Sprite from '../Sprite';
 import { setupInteractivity } from './SetupInteractivity';
+import { SetToastContext } from '../context/SetToast';
+import { toast } from 'react-toastify';
 
 
 const path = '/assets/';
@@ -20,6 +22,7 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
         Assetspine: PropTypes.object,
     };
     const [spine, setSpine] = useState(null);
+    const { toastId } = useContext(SetToastContext);
 
     useEffect(() => {
         if (canvas && character && character !== "ASSET") {
@@ -33,7 +36,14 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
                 })
                 .then(content => {
                     if (content.length < 700) {
-                        throw new Error('El recurso está vacío');
+                        toast.update(toastId, {
+                            render: "Spine render failed (Resource is empty)",
+                            type: "error",
+                            isLoading: false,
+                            autoClose: 2500
+                        });
+                        throw new Error('Resource is empty');
+
                     }
                     PIXI.Assets.load(characterPath).then((resource) => {
                         console.log(resource)
@@ -51,14 +61,20 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
                         setupInteractivity(spine);
                         canvas.stage.addChild(spine);
 
-                        console.log("renderizado")
+                        console.log(toastId)
+
+                        toast.update(toastId, {
+                            render: "Spine rendered successfully",
+                            type: "success",
+                            isLoading: false,
+                            autoClose: 2500
+                        });
+
                         setSpine(spine);
                     }).catch((err) => {
                         console.log(err);
                     });
                 })
-
-
         } else if (canvas && Assetspine) {
             Assetspine.scale.set(0.5);
             Assetspine.x = canvas.screen.width / 2;
@@ -72,8 +88,13 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
             setupInteractivity(Assetspine);
             canvas.stage.addChild(Assetspine);
             setSpine(Assetspine);
-        } else {
-            console.log("app is null or character is null")
+            toast.update(toastId, {
+                render: "Spine rendered successfully",
+                type: "success",
+                isLoading: false,
+                autoClose: 2500
+            });
+
         }
     }, [canvas, character]);
 
