@@ -1,0 +1,76 @@
+
+yishidanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: true
+  xy: 574, 121
+  size: 560, 229
+  orig: 560, 229
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 930, 431
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: true
+  xy: 805, 142
+  size: 539, 123
+  orig: 539, 123
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 364
+  size: 570, 317
+  orig: 570, 317
+  offset: 0, 0
+  index: -1
+jiqiang
+  rotate: false
+  xy: 2, 245
+  size: 533, 117
+  orig: 533, 117
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 930, 583
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: true
+  xy: 930, 483
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 126
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 7
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 505, 2
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

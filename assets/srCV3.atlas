@@ -1,0 +1,48 @@
+
+srCV3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 434
+  size: 588, 142
+  orig: 588, 142
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 578
+  size: 597, 140
+  orig: 597, 140
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 285
+  size: 615, 147
+  orig: 615, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 619, 2
+  size: 570, 307
+  orig: 570, 307
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 601, 574
+  size: 375, 144
+  orig: 375, 144
+  offset: 0, 0
+  index: -1
+wen
+  rotate: false
+  xy: 2, 87
+  size: 532, 196
+  orig: 532, 196
+  offset: 0, 0
+  index: -1

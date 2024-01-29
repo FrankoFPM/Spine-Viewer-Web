@@ -1,0 +1,20 @@
+
+kaibaoxiang_putong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiang
+  rotate: false
+  xy: 2, 50
+  size: 355, 325
+  orig: 355, 325
+  offset: 0, 0
+  index: -1
+xiang_kai
+  rotate: true
+  xy: 359, 2
+  size: 373, 414
+  orig: 373, 414
+  offset: 0, 0
+  index: -1

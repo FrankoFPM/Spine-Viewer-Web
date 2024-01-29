@@ -1,0 +1,132 @@
+
+srjiaohuangjijia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianzhuang_L1
+  rotate: false
+  xy: 306, 14
+  size: 264, 525
+  orig: 264, 525
+  offset: 0, 0
+  index: -1
+jianzhuang_L2
+  rotate: false
+  xy: 378, 541
+  size: 319, 348
+  orig: 319, 348
+  offset: 0, 0
+  index: -1
+jianzhuang_L3
+  rotate: false
+  xy: 971, 483
+  size: 266, 396
+  orig: 266, 396
+  offset: 0, 0
+  index: -1
+jianzhuang_L4
+  rotate: true
+  xy: 1280, 850
+  size: 333, 283
+  orig: 333, 283
+  offset: 0, 0
+  index: -1
+jianzhuang_R1
+  rotate: false
+  xy: 1258, 1489
+  size: 279, 548
+  orig: 279, 548
+  offset: 0, 0
+  index: -1
+jianzhuang_R2
+  rotate: true
+  xy: 1258, 1185
+  size: 302, 372
+  orig: 302, 372
+  offset: 0, 0
+  index: -1
+jianzhuang_R3
+  rotate: true
+  xy: 1239, 450
+  size: 398, 254
+  orig: 398, 254
+  offset: 0, 0
+  index: -1
+jianzhuang_R4
+  rotate: false
+  xy: 378, 891
+  size: 348, 361
+  orig: 348, 361
+  offset: 0, 0
+  index: -1
+jianzhuang_s
+  rotate: true
+  xy: 811, 1570
+  size: 467, 445
+  orig: 467, 445
+  offset: 0, 0
+  index: -1
+jianzhuang_s1
+  rotate: true
+  xy: 728, 881
+  size: 218, 550
+  orig: 218, 550
+  offset: 0, 0
+  index: -1
+jianzhuang_s2
+  rotate: false
+  xy: 1539, 1496
+  size: 218, 541
+  orig: 218, 541
+  offset: 0, 0
+  index: -1
+jianzhuang_s3
+  rotate: false
+  xy: 2, 1254
+  size: 807, 783
+  orig: 807, 783
+  offset: 0, 0
+  index: -1
+jianzhuang_ss
+  rotate: true
+  xy: 811, 1101
+  size: 467, 445
+  orig: 467, 445
+  offset: 0, 0
+  index: -1
+jianzhuang_x
+  rotate: true
+  xy: 2, 790
+  size: 462, 374
+  orig: 462, 374
+  offset: 0, 0
+  index: -1
+jianzhuang_xl1
+  rotate: false
+  xy: 699, 585
+  size: 270, 294
+  orig: 270, 294
+  offset: 0, 0
+  index: -1
+jianzhuang_xl2
+  rotate: false
+  xy: 2, 2
+  size: 96, 329
+  orig: 96, 329
+  offset: 0, 0
+  index: -1
+jianzhuang_xl3
+  rotate: false
+  xy: 699, 283
+  size: 265, 300
+  orig: 265, 300
+  offset: 0, 0
+  index: -1
+tb
+  rotate: true
+  xy: 2, 333
+  size: 455, 302
+  orig: 455, 302
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+srSS6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 249
+  size: 529, 288
+  orig: 529, 288
+  offset: 0, 0
+  index: -1
+qt01
+  rotate: false
+  xy: 2, 35
+  size: 510, 106
+  orig: 510, 106
+  offset: 0, 0
+  index: -1
+qt02
+  rotate: false
+  xy: 2, 143
+  size: 524, 104
+  orig: 524, 104
+  offset: 0, 0
+  index: -1
+qt03
+  rotate: true
+  xy: 533, 2
+  size: 535, 108
+  orig: 535, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+gift_salatuojia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun_1
+  rotate: false
+  xy: 675, 303
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 675, 325
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 675, 281
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 675, 406
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 675, 377
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 675, 349
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+zuhe
+  rotate: false
+  xy: 2, 2
+  size: 671, 430
+  orig: 671, 430
+  offset: 0, 0
+  index: -1

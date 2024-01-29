@@ -1,0 +1,48 @@
+
+liandedanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 356, 2
+  size: 461, 284
+  orig: 461, 284
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 490, 288
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 203
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 136, 288
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 62, 314
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 2, 323
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1

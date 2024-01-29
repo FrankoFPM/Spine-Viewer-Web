@@ -1,0 +1,55 @@
+
+ofs_shenshuijian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 776, 899
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 673, 216
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 57
+  size: 669, 251
+  orig: 669, 251
+  offset: 0, 0
+  index: -1
+ss01
+  rotate: false
+  xy: 2, 739
+  size: 772, 213
+  orig: 772, 213
+  offset: 0, 0
+  index: -1
+ss02
+  rotate: false
+  xy: 2, 525
+  size: 754, 212
+  orig: 754, 212
+  offset: 0, 0
+  index: -1
+ss03
+  rotate: false
+  xy: 2, 310
+  size: 737, 213
+  orig: 737, 213
+  offset: 0, 0
+  index: -1

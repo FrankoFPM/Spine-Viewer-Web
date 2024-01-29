@@ -1,0 +1,34 @@
+
+robot_bulisituoer.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdb1
+  rotate: false
+  xy: 2, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+sdb2
+  rotate: false
+  xy: 91, 5
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+sdb3
+  rotate: false
+  xy: 91, 47
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 160, 21
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1

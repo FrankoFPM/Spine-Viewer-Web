@@ -1,0 +1,251 @@
+
+Vtuber_Mio_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 690, 49
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 708, 2
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 674, 124
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 416, 2
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 612, 37
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 382, 7
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 594, 22
+  size: 92, 16
+  orig: 92, 16
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 595, 117
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: true
+  xy: 145, 2
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 264, 114
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 19
+  size: 141, 235
+  orig: 141, 235
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 180, 3
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 145, 108
+  size: 64, 146
+  orig: 64, 146
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 211, 112
+  size: 51, 142
+  orig: 51, 142
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 764, 34
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 500, 115
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 764, 8
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 548, 116
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+jiushengquan
+  rotate: false
+  xy: 734, 184
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 612, 4
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 660, 5
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 721, 126
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 684, 5
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+manjuuuu
+  rotate: true
+  xy: 400, 115
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 469, 11
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 561, 157
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 672, 174
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 500, 152
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+meimao_5
+  rotate: true
+  xy: 530, 15
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+meimao_6
+  rotate: true
+  xy: 311, 4
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+qiuqiu
+  rotate: false
+  xy: 775, 144
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 630, 168
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 751, 140
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: false
+  xy: 738, 5
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 754, 70
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+srSS_jiaohuang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 631
+  size: 538, 304
+  orig: 538, 304
+  offset: 0, 0
+  index: -1
+body_u
+  rotate: true
+  xy: 542, 397
+  size: 538, 304
+  orig: 538, 304
+  offset: 0, 0
+  index: -1
+chushou
+  rotate: true
+  xy: 528, 2
+  size: 393, 275
+  orig: 393, 275
+  offset: 0, 0
+  index: -1
+chushou_u
+  rotate: true
+  xy: 2, 128
+  size: 393, 275
+  orig: 393, 275
+  offset: 0, 0
+  index: -1
+qt01
+  rotate: false
+  xy: 2, 523
+  size: 510, 106
+  orig: 510, 106
+  offset: 0, 0
+  index: -1
+qt02
+  rotate: false
+  xy: 2, 19
+  size: 524, 104
+  orig: 524, 104
+  offset: 0, 0
+  index: -1
+qt03
+  rotate: true
+  xy: 848, 400
+  size: 535, 108
+  orig: 535, 108
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: true
+  xy: 848, 125
+  size: 273, 174
+  orig: 273, 174
+  offset: 0, 0
+  index: -1
+yanzhu_1
+  rotate: false
+  xy: 1011, 920
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+yanzhu_2
+  rotate: false
+  xy: 993, 929
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+yanzhu_3
+  rotate: true
+  xy: 1017, 928
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+yanzhu_4
+  rotate: false
+  xy: 993, 919
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+yanzhu_5
+  rotate: false
+  xy: 958, 923
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1

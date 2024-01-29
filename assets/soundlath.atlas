@@ -1,0 +1,34 @@
+
+soundlath.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 374, 434
+  size: 235, 168
+  orig: 235, 168
+  offset: 0, 0
+  index: -1
+eff_gl_l0001
+  rotate: true
+  xy: 374, 604
+  size: 370, 369
+  orig: 370, 369
+  offset: 0, 0
+  index: -1
+eff_gl_l0002
+  rotate: false
+  xy: 2, 374
+  size: 370, 600
+  orig: 370, 600
+  offset: 0, 0
+  index: -1
+texiao_Ls_3
+  rotate: true
+  xy: 2, 2
+  size: 370, 600
+  orig: 370, 600
+  offset: 0, 0
+  index: -1

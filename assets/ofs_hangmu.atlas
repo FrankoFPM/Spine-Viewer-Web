@@ -1,0 +1,34 @@
+
+ofs_hangmu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 525, 421
+  orig: 525, 421
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 529, 247
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 529, 158
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: false
+  xy: 529, 336
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

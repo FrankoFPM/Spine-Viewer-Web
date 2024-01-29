@@ -1,0 +1,160 @@
+
+gift_biaoqiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqiang
+  rotate: false
+  xy: 2, 68
+  size: 704, 718
+  orig: 704, 718
+  offset: 0, 0
+  index: -1
+duandai
+  rotate: true
+  xy: 2, 2
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+guangyun_1
+  rotate: false
+  xy: 679, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 655, 44
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 494, 22
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 294, 36
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+tx_10
+  rotate: true
+  xy: 494, 44
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1
+tx_12
+  rotate: false
+  xy: 261, 12
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+tx_13
+  rotate: false
+  xy: 248, 12
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+tx_14
+  rotate: true
+  xy: 234, 8
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+tx_15
+  rotate: false
+  xy: 362, 43
+  size: 102, 23
+  orig: 102, 23
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: true
+  xy: 294, 14
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+tx_11
+  rotate: true
+  xy: 294, 14
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: true
+  xy: 218, 5
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+tx_4
+  rotate: true
+  xy: 679, 46
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+tx_5
+  rotate: true
+  xy: 272, 18
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+tx_16
+  rotate: true
+  xy: 272, 18
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+tx_6
+  rotate: false
+  xy: 218, 33
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+tx_7
+  rotate: false
+  xy: 137, 2
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: true
+  xy: 466, 43
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: true
+  xy: 598, 44
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: true
+  xy: 627, 44
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

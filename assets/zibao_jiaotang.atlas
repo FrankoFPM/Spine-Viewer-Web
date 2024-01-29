@@ -1,0 +1,48 @@
+
+zibao_jiaotang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 71
+  size: 256, 178
+  orig: 256, 178
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 260, 25
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 2, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 329, 25
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 398, 103
+  size: 146, 36
+  orig: 146, 36
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 398, 103
+  size: 146, 36
+  orig: 146, 36
+  offset: 0, 0
+  index: -1

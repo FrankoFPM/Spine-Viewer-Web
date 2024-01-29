@@ -1,0 +1,293 @@
+
+aierdeliqi_4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX
+  rotate: false
+  xy: 2, 2
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 508, 62
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: true
+  xy: 199, 4
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 505, 5
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 135, 3
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 778, 124
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 569, 120
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 624, 3
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 624, 22
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 652, 22
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 341, 9
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: true
+  xy: 748, 24
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 311, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 607, 150
+  size: 104, 26
+  orig: 104, 26
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 635, 151
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 504, 139
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 372, 2
+  size: 50, 102
+  orig: 50, 102
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 311, 52
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 750, 87
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 680, 23
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+hand_L3
+  rotate: false
+  xy: 106, 2
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 750, 122
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 714, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hand_R3
+  rotate: false
+  xy: 476, 4
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 654, 62
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+jz_L1
+  rotate: false
+  xy: 504, 118
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+jz_L2
+  rotate: true
+  xy: 249, 4
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 172, 3
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 750, 63
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 282, 6
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 780, 93
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: true
+  xy: 449, 134
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 736, 158
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 350, 54
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 54, 2
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+shodai
+  rotate: false
+  xy: 310, 7
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 2, 51
+  size: 203, 307
+  orig: 203, 307
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 612, 62
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 596, 6
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+xiaoji_1
+  rotate: false
+  xy: 432, 56
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+xiaoji_1daimao
+  rotate: false
+  xy: 545, 119
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

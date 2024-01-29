@@ -1,0 +1,76 @@
+
+bobing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaizi11
+  rotate: true
+  xy: 2, 92
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shaizi12
+  rotate: true
+  xy: 2, 61
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shaizi13
+  rotate: true
+  xy: 2, 30
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shaizi14
+  rotate: false
+  xy: 2, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shaizi21
+  rotate: false
+  xy: 30, 95
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shaizi22
+  rotate: false
+  xy: 30, 67
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+shaizi23
+  rotate: false
+  xy: 30, 39
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+shaizi24
+  rotate: true
+  xy: 33, 9
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+wanB
+  rotate: false
+  xy: 2, 123
+  size: 272, 168
+  orig: 272, 168
+  offset: 0, 0
+  index: -1
+wanT
+  rotate: true
+  xy: 276, 27
+  size: 264, 114
+  orig: 264, 114
+  offset: 0, 0
+  index: -1

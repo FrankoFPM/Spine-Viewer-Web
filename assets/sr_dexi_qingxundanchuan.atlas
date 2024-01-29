@@ -1,0 +1,41 @@
+
+sr_dexi_qingxundanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 321
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 356, 2
+  size: 447, 294
+  orig: 447, 294
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 419, 298
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 213
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 65, 298
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

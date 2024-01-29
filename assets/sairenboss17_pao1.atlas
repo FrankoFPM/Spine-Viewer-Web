@@ -1,0 +1,13 @@
+
+sairenboss17_pao1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 173, 110
+  orig: 173, 110
+  offset: 0, 0
+  index: -1

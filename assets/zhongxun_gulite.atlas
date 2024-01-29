@@ -1,0 +1,153 @@
+
+zhongxun_gulite.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 421, 30
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 52
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+hand-L
+  rotate: true
+  xy: 126, 10
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+hand-L2
+  rotate: true
+  xy: 68, 9
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+hand-R
+  rotate: true
+  xy: 686, 2
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+hand-R2
+  rotate: true
+  xy: 578, 53
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+jijia-1
+  rotate: true
+  xy: 441, 120
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+jijia-2
+  rotate: true
+  xy: 196, 27
+  size: 94, 159
+  orig: 94, 159
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 622, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+leg-L1
+  rotate: true
+  xy: 2, 3
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+leg-L2
+  rotate: false
+  xy: 717, 8
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+leg-R1
+  rotate: false
+  xy: 971, 188
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+leg-R2
+  rotate: false
+  xy: 762, 3
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+long-2
+  rotate: false
+  xy: 196, 123
+  size: 243, 131
+  orig: 243, 131
+  offset: 0, 0
+  index: -1
+long-3
+  rotate: true
+  xy: 770, 35
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: true
+  xy: 622, 148
+  size: 106, 194
+  orig: 106, 194
+  offset: 0, 0
+  index: -1
+longtou2
+  rotate: true
+  xy: 818, 148
+  size: 106, 151
+  orig: 106, 151
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 622, 54
+  size: 146, 92
+  orig: 146, 92
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: true
+  xy: 357, 12
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: true
+  xy: 907, 12
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1
+pao4
+  rotate: true
+  xy: 514, 9
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1

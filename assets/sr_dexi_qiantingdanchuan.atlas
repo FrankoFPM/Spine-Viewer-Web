@@ -1,0 +1,34 @@
+
+sr_dexi_qiantingdanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 547, 2
+  size: 502, 376
+  orig: 502, 376
+  offset: 0, 0
+  index: -1
+qt01
+  rotate: false
+  xy: 2, 363
+  size: 533, 141
+  orig: 533, 141
+  offset: 0, 0
+  index: -1
+qt02
+  rotate: false
+  xy: 2, 67
+  size: 543, 147
+  orig: 543, 147
+  offset: 0, 0
+  index: -1
+qt03
+  rotate: false
+  xy: 2, 216
+  size: 518, 145
+  orig: 518, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+ouruola_3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 333, 118
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 678, 131
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 684, 2
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 706, 98
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 191, 75
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 449, 122
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 600, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 628, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 725, 151
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 728, 10
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 723, 182
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 730, 71
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 191, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 2, 57
+  size: 197, 187
+  orig: 197, 187
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 451, 15
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 494, 152
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 449, 141
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 590, 163
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 212, 2
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 656, 7
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 530, 123
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 652, 127
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 494, 122
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 321, 6
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: true
+  xy: 380, 3
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 723, 210
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 706, 66
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 569, 124
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 728, 35
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: false
+  xy: 2, 2
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 538, 20
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 254, 5
+  size: 107, 65
+  orig: 107, 65
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 600, 42
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: false
+  xy: 124, 7
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 662, 51
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+xiaotiqin1
+  rotate: false
+  xy: 451, 2
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+xiaotiqin2
+  rotate: true
+  xy: 667, 181
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+yulei_R
+  rotate: true
+  xy: 617, 124
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1

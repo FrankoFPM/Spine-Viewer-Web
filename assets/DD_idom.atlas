@@ -1,0 +1,48 @@
+
+DD_idom.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 707, 145
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 707, 183
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 8
+  size: 351, 239
+  orig: 351, 239
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 355, 2
+  size: 351, 78
+  orig: 351, 78
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 355, 82
+  size: 350, 81
+  orig: 350, 81
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 355, 165
+  size: 350, 82
+  orig: 350, 82
+  offset: 0, 0
+  index: -1

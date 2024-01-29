@@ -1,0 +1,41 @@
+
+DD_gulite.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 134, 84
+  size: 399, 126
+  orig: 399, 126
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 80
+  size: 403, 130
+  orig: 403, 130
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 262, 84
+  size: 399, 115
+  orig: 399, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 379, 112
+  size: 371, 206
+  orig: 371, 206
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 2
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+dachao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 544, 183
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 595, 119
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 641, 7
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 64, 2
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 258, 5
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 605, 6
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 699, 215
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 208, 86
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 247, 86
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 549, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 577, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 715, 184
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 493, 3
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 315, 113
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 312, 7
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 456, 116
+  size: 86, 138
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 154, 97
+  size: 52, 157
+  orig: 52, 157
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 118, 3
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 90, 84
+  size: 62, 170
+  orig: 62, 170
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 699, 146
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 614, 183
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 665, 138
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 543, 42
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 208, 105
+  size: 149, 105
+  orig: 149, 105
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 688, 10
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 517, 4
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 672, 212
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 699, 123
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 427, 20
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 2, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 2, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 493, 28
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 672, 183
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 656, 58
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 544, 117
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+yulei
+  rotate: true
+  xy: 601, 57
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1

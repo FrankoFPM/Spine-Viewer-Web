@@ -1,0 +1,41 @@
+
+srBB0.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 149, 72
+  size: 418, 152
+  orig: 418, 152
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 53
+  size: 437, 145
+  orig: 437, 145
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 303, 77
+  size: 413, 150
+  orig: 413, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 455, 96
+  size: 394, 229
+  orig: 394, 229
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 2
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1

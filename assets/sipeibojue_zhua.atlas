@@ -1,0 +1,90 @@
+
+sipeibojue_zhua.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z_1
+  rotate: false
+  xy: 2, 8
+  size: 175, 115
+  orig: 175, 115
+  offset: 0, 0
+  index: -1
+z_a1
+  rotate: false
+  xy: 523, 18
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+z_a2
+  rotate: true
+  xy: 523, 55
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+z_ay
+  rotate: true
+  xy: 335, 2
+  size: 121, 67
+  orig: 121, 67
+  offset: 0, 0
+  index: -1
+z_b1
+  rotate: false
+  xy: 597, 19
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+z_b2
+  rotate: true
+  xy: 592, 55
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+z_by
+  rotate: true
+  xy: 262, 6
+  size: 117, 71
+  orig: 117, 71
+  offset: 0, 0
+  index: -1
+z_c1
+  rotate: false
+  xy: 672, 19
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+z_c2
+  rotate: true
+  xy: 661, 55
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+z_cy
+  rotate: true
+  xy: 404, 12
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+z_d
+  rotate: false
+  xy: 179, 15
+  size: 81, 108
+  orig: 81, 108
+  offset: 0, 0
+  index: -1
+zz_1
+  rotate: true
+  xy: 474, 15
+  size: 108, 47
+  orig: 108, 47
+  offset: 0, 0
+  index: -1

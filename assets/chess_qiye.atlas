@@ -1,0 +1,137 @@
+
+chess_qiye.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 2, 360
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 2, 637
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 316, 2
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 376, 344
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 376, 621
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 233, 898
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 363, 894
+  size: 126, 80
+  orig: 126, 80
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 46
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 491, 884
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 663, 878
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 2, 928
+  size: 46, 229
+  orig: 46, 229
+  offset: 0, 0
+  index: -1
+
+chess_qiye2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 410, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: false
+  xy: 2, 429
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 2, 24
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 408, 429
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+
+chess_qiye3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-4
+  rotate: false
+  xy: 2, 15
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: true
+  xy: 445, 2
+  size: 438, 469
+  orig: 438, 469
+  offset: 0, 0
+  index: -1

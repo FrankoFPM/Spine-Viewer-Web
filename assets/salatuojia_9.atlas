@@ -1,0 +1,251 @@
+
+salatuojia_9.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 544, 182
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+body_jie
+  rotate: false
+  xy: 647, 112
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 600, 94
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+chazi
+  rotate: true
+  xy: 138, 138
+  size: 116, 147
+  orig: 116, 147
+  offset: 0, 0
+  index: -1
+eye_0
+  rotate: false
+  xy: 439, 144
+  size: 91, 36
+  orig: 91, 36
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 213, 2
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 138, 127
+  size: 80, 9
+  orig: 80, 9
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 532, 144
+  size: 91, 36
+  orig: 91, 36
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: false
+  xy: 2, 3
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+eye_k
+  rotate: false
+  xy: 363, 128
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+eye_m
+  rotate: false
+  xy: 79, 12
+  size: 84, 15
+  orig: 84, 15
+  offset: 0, 0
+  index: -1
+eye_q
+  rotate: false
+  xy: 287, 127
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 117
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+hair_BL
+  rotate: true
+  xy: 484, 71
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+hair_BR
+  rotate: true
+  xy: 428, 182
+  size: 72, 114
+  orig: 72, 114
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 287, 156
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+hair_SL
+  rotate: true
+  xy: 174, 55
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+hair_SR
+  rotate: true
+  xy: 299, 65
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+hair_dai
+  rotate: false
+  xy: 557, 23
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 670, 150
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_L2a
+  rotate: true
+  xy: 668, 216
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hand_L2b
+  rotate: true
+  xy: 630, 54
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hand_L2c
+  rotate: false
+  xy: 628, 212
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+ji_body
+  rotate: true
+  xy: 625, 145
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+ji_chi1
+  rotate: true
+  xy: 188, 40
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+ji_chi2
+  rotate: true
+  xy: 174, 40
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 165, 2
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 673, 188
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 628, 185
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 630, 21
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+meimao_0
+  rotate: false
+  xy: 395, 70
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 369, 4
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: false
+  xy: 297, 3
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 465, 6
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 2, 29
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1

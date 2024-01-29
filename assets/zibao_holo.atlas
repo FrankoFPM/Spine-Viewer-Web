@@ -1,0 +1,48 @@
+
+zibao_holo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: true
+  xy: 2, 2
+  size: 224, 151
+  orig: 224, 151
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 155, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 224, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 293, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 362, 140
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 362, 52
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1

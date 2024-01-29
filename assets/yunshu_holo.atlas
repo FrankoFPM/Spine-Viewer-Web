@@ -1,0 +1,62 @@
+
+yunshu_holo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 58
+  size: 258, 183
+  orig: 258, 183
+  offset: 0, 0
+  index: -1
+coin01
+  rotate: false
+  xy: 262, 78
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: false
+  xy: 262, 5
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: false
+  xy: 341, 170
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+jinguang1
+  rotate: false
+  xy: 2, 2
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+jinguang2
+  rotate: true
+  xy: 108, 18
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+jinguang3
+  rotate: true
+  xy: 34, 17
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+jinguang4
+  rotate: true
+  xy: 262, 151
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1

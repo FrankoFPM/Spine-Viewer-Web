@@ -1,0 +1,167 @@
+
+gulite_robot2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 185, 99
+  size: 112, 155
+  orig: 112, 155
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 113, 3
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 449, 3
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+guan_L1
+  rotate: false
+  xy: 2, 6
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+guan_L2
+  rotate: false
+  xy: 39, 6
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+guan_R1
+  rotate: false
+  xy: 626, 5
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+guan_R2
+  rotate: false
+  xy: 76, 6
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 331, 4
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 368, 108
+  size: 74, 146
+  orig: 74, 146
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 444, 119
+  size: 97, 135
+  orig: 97, 135
+  offset: 0, 0
+  index: -1
+hand_L2c
+  rotate: false
+  xy: 2, 64
+  size: 106, 190
+  orig: 106, 190
+  offset: 0, 0
+  index: -1
+hand_L3
+  rotate: false
+  xy: 600, 62
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+hand_L4
+  rotate: true
+  xy: 550, 52
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 299, 107
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 543, 128
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+hand_R3
+  rotate: false
+  xy: 615, 200
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+hand_R4
+  rotate: false
+  xy: 550, 2
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 277, 5
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 502, 32
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 212, 5
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 449, 31
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+lingkou
+  rotate: true
+  xy: 615, 165
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+you_canyin2
+  rotate: false
+  xy: 110, 88
+  size: 73, 166
+  orig: 73, 166
+  offset: 0, 0
+  index: -1

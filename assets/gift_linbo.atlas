@@ -1,0 +1,132 @@
+
+gift_linbo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiguang_1
+  rotate: true
+  xy: 732, 7
+  size: 49, 9
+  orig: 49, 9
+  offset: 0, 0
+  index: -1
+caiguang_10
+  rotate: false
+  xy: 570, 74
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+caiguang_2
+  rotate: true
+  xy: 743, 26
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+caiguang_3
+  rotate: true
+  xy: 764, 28
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+caiguang_4
+  rotate: true
+  xy: 647, 77
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+caiguang_5
+  rotate: true
+  xy: 711, 36
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+caiguang_6
+  rotate: true
+  xy: 695, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+caiguang_7
+  rotate: false
+  xy: 695, 30
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+caiguang_8
+  rotate: true
+  xy: 715, 83
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+caiguang_9
+  rotate: true
+  xy: 710, 6
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 570, 110
+  size: 168, 344
+  orig: 168, 344
+  offset: 0, 0
+  index: -1
+guangyun_1
+  rotate: false
+  xy: 743, 61
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 671, 25
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 743, 39
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+liwu
+  rotate: true
+  xy: 2, 83
+  size: 371, 566
+  orig: 371, 566
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: true
+  xy: 715, 58
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 647, 48
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 671, 49
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

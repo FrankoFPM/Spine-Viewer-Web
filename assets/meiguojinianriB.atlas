@@ -1,0 +1,195 @@
+
+meiguojinianriB.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 143, 4
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 781, 7
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 720, 2
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 775, 61
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 229, 28
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 504, 48
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 382, 5
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 468, 46
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 720, 52
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 311, 29
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2, 5
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 166, 9
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 49, 5
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 96, 5
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 847, 10
+  size: 133, 49
+  orig: 133, 49
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 644, 51
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 222, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 199, 9
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 588, 18
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 382, 41
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 568, 51
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 209, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 189, 9
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 468, 13
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 840, 61
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 143, 24
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 534, 3
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1

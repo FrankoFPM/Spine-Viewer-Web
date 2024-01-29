@@ -1,0 +1,104 @@
+
+srCA_jiaohuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 103, 128
+  size: 382, 76
+  orig: 382, 76
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 122
+  size: 388, 99
+  orig: 388, 99
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 21
+  size: 378, 99
+  orig: 378, 99
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 181, 130
+  size: 380, 185
+  orig: 380, 185
+  offset: 0, 0
+  index: -1
+chushou
+  rotate: true
+  xy: 437, 253
+  size: 257, 191
+  orig: 257, 191
+  offset: 0, 0
+  index: -1
+juntan
+  rotate: true
+  xy: 382, 32
+  size: 212, 166
+  orig: 212, 166
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 368, 246
+  size: 264, 67
+  orig: 264, 67
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 550, 161
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 382, 2
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+yanzhu_1
+  rotate: true
+  xy: 8, 6
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+yanzhu_2
+  rotate: false
+  xy: 15, 8
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+yanzhu_3
+  rotate: true
+  xy: 16, 3
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+yanzhu_4
+  rotate: false
+  xy: 2, 5
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+yanzhu_5
+  rotate: true
+  xy: 8, 2
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1

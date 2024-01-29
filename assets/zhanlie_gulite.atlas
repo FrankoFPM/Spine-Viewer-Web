@@ -1,0 +1,167 @@
+
+zhanlie_gulite.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1101, 164
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 273, 66
+  size: 187, 296
+  orig: 187, 296
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 1315, 37
+  size: 216, 256
+  orig: 216, 256
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 752, 31
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 495, 2
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 817, 11
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 677, 22
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+jz1
+  rotate: false
+  xy: 846, 59
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+jz2
+  rotate: false
+  xy: 1185, 165
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+jz_B
+  rotate: false
+  xy: 803, 149
+  size: 296, 104
+  orig: 296, 104
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 716, 28
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 599, 11
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 790, 47
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 638, 11
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+long1
+  rotate: true
+  xy: 2, 15
+  size: 238, 269
+  orig: 238, 269
+  offset: 0, 0
+  index: -1
+long2
+  rotate: false
+  xy: 571, 80
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: true
+  xy: 1573, 73
+  size: 180, 114
+  orig: 180, 114
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 273, 2
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: true
+  xy: 1689, 74
+  size: 179, 114
+  orig: 179, 114
+  offset: 0, 0
+  index: -1
+pao4
+  rotate: false
+  xy: 384, 2
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 1123, 29
+  size: 133, 190
+  orig: 133, 190
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 931, 13
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 752, 3
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1

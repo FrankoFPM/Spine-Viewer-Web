@@ -1,0 +1,48 @@
+
+srBB3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 846, 2
+  size: 421, 155
+  orig: 421, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 404, 275
+  size: 440, 148
+  orig: 440, 148
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 404, 122
+  size: 415, 151
+  orig: 415, 151
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 190
+  size: 400, 233
+  orig: 400, 233
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 361, 68
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+wen
+  rotate: false
+  xy: 2, 5
+  size: 357, 183
+  orig: 357, 183
+  offset: 0, 0
+  index: -1

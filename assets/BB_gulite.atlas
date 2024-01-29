@@ -1,0 +1,41 @@
+
+BB_gulite.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 152, 72
+  size: 421, 155
+  orig: 421, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 53
+  size: 440, 148
+  orig: 440, 148
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 309, 78
+  size: 415, 151
+  orig: 415, 151
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 462, 96
+  size: 397, 231
+  orig: 397, 231
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 2
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1

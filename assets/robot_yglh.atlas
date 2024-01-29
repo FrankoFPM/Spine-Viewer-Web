@@ -1,0 +1,27 @@
+
+robot_yglh.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdb1
+  rotate: false
+  xy: 2, 2
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+sdb2
+  rotate: false
+  xy: 88, 14
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+sdb3
+  rotate: false
+  xy: 139, 16
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1

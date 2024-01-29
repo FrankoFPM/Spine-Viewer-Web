@@ -1,0 +1,83 @@
+
+zibao_jiaohuang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: true
+  xy: 2, 29
+  size: 224, 184
+  orig: 224, 184
+  offset: 0, 0
+  index: -1
+yanzhu_1
+  rotate: false
+  xy: 2, 17
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+yanzhu_2
+  rotate: false
+  xy: 8, 17
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+yanzhu_3
+  rotate: false
+  xy: 2, 7
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+yanzhu_4
+  rotate: false
+  xy: 8, 23
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yanzhu_5
+  rotate: false
+  xy: 2, 2
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 188, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 257, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 326, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 395, 5
+  size: 142, 104
+  orig: 142, 104
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 395, 111
+  size: 142, 105
+  orig: 142, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+xiyundanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 362, 100
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 172
+  size: 358, 280
+  orig: 358, 280
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 356, 33
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1

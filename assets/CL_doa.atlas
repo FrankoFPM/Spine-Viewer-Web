@@ -1,0 +1,55 @@
+
+CL_doa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 468, 190
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 468, 150
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 512, 146
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 34
+  size: 464, 320
+  orig: 464, 320
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 822, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 907, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 468, 271
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

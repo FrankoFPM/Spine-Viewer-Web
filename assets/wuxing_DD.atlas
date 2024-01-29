@@ -1,0 +1,41 @@
+
+wuxing_DD.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 352, 297
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 71
+  size: 348, 303
+  orig: 348, 303
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 421, 71
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 352, 71
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

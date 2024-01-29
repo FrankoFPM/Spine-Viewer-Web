@@ -1,0 +1,27 @@
+
+ghostBB.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 609, 289
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 609, 218
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 605, 358
+  orig: 605, 358
+  offset: 0, 0
+  index: -1

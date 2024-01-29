@@ -1,0 +1,41 @@
+
+keliemengsuodanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 128
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 43
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 356, 137
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 213
+  size: 347, 276
+  orig: 347, 276
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+lianjin_CL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 474, 265
+  size: 460, 145
+  orig: 460, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 33
+  size: 446, 137
+  orig: 446, 137
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 474, 118
+  size: 452, 145
+  orig: 452, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 172
+  size: 470, 238
+  orig: 470, 238
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 450, 2
+  size: 159, 114
+  orig: 159, 114
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 936, 303
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1

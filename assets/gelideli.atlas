@@ -1,0 +1,286 @@
+
+gelideli.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 86, 9
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: false
+  xy: 692, 82
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 658, 61
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 729, 45
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 748, 2
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 696, 134
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 690, 42
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 692, 63
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 692, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 720, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 767, 183
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 588, 3
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 487, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 358, 110
+  size: 144, 127
+  orig: 144, 127
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: true
+  xy: 150, 70
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 443, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 291, 5
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 62, 68
+  size: 86, 186
+  orig: 86, 186
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 625, 132
+  size: 69, 122
+  orig: 69, 122
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 2, 66
+  size: 58, 188
+  orig: 58, 188
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 725, 169
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 728, 214
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 739, 91
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 762, 49
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+jianzhuang_B
+  rotate: false
+  xy: 609, 39
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: true
+  xy: 731, 133
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 399, 84
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 696, 166
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 358, 84
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 696, 211
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 189, 14
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 2, 3
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 270, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 559, 28
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+wawa
+  rotate: true
+  xy: 559, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 658, 40
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+xiangji
+  rotate: true
+  xy: 766, 138
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+yulei_1
+  rotate: false
+  xy: 612, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+yulei_2
+  rotate: false
+  xy: 652, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+yulei_3
+  rotate: true
+  xy: 155, 11
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1

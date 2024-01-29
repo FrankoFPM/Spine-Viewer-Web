@@ -1,0 +1,265 @@
+
+beierfasite_8.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 328, 8
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+body_tie
+  rotate: false
+  xy: 76, 6
+  size: 21, 76
+  orig: 21, 76
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: true
+  xy: 513, 132
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+body_waitaoL1
+  rotate: false
+  xy: 549, 193
+  size: 14, 61
+  orig: 14, 61
+  offset: 0, 0
+  index: -1
+body_waitaoL2
+  rotate: false
+  xy: 563, 132
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+body_waitaoR
+  rotate: false
+  xy: 521, 192
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 114, 3
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 406, 157
+  size: 97, 48
+  orig: 97, 48
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 495, 179
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+eye_k
+  rotate: true
+  xy: 488, 56
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+eye_m
+  rotate: false
+  xy: 242, 96
+  size: 84, 15
+  orig: 84, 15
+  offset: 0, 0
+  index: -1
+eye_q
+  rotate: false
+  xy: 406, 128
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 242, 113
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 90, 96
+  size: 150, 158
+  orig: 150, 158
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 385, 3
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 516, 61
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: false
+  xy: 378, 128
+  size: 26, 126
+  orig: 26, 126
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 482, 132
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 488, 4
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+hand_L22
+  rotate: false
+  xy: 521, 4
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+hand_Lxiuzi
+  rotate: false
+  xy: 2, 5
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 583, 27
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 565, 209
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+hand_Rxiuzi
+  rotate: false
+  xy: 39, 5
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+jie
+  rotate: false
+  xy: 456, 169
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 571, 87
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 571, 62
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 555, 13
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 583, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 99, 2
+  size: 92, 13
+  orig: 92, 13
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 2, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: true
+  xy: 263, 26
+  size: 68, 8
+  orig: 68, 8
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 278, 8
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: true
+  xy: 206, 5
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: true
+  xy: 147, 5
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+zui_1
+  rotate: false
+  xy: 263, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+zui_2
+  rotate: false
+  xy: 263, 16
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+sairenboss18.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 972, 136
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 249, 36
+  size: 126, 66
+  orig: 126, 66
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 790, 61
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 2, 3
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 470, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: true
+  xy: 470, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 501, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 786, 116
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+faqi
+  rotate: false
+  xy: 377, 52
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 742, 2
+  size: 47, 110
+  orig: 47, 110
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 195, 104
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 295, 104
+  size: 79, 150
+  orig: 79, 150
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 376, 108
+  size: 146, 124
+  orig: 146, 124
+  offset: 0, 0
+  index: -1
+hair_bf
+  rotate: true
+  xy: 2, 32
+  size: 222, 156
+  orig: 222, 156
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 244, 9
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 280, 2
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+hand_Ls1
+  rotate: true
+  xy: 742, 51
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+hand_Ls2
+  rotate: false
+  xy: 900, 16
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hand_Ls3
+  rotate: true
+  xy: 854, 7
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 210, 7
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 174, 4
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_Rs1
+  rotate: true
+  xy: 83, 4
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+hand_Rs2
+  rotate: true
+  xy: 160, 32
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+hand_Rs3
+  rotate: true
+  xy: 833, 61
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+huabian_b
+  rotate: true
+  xy: 160, 79
+  size: 175, 33
+  orig: 175, 33
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: true
+  xy: 644, 111
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+jianzhuang_L2
+  rotate: false
+  xy: 873, 64
+  size: 137, 50
+  orig: 137, 50
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 502, 110
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+jianzhuang_R2
+  rotate: true
+  xy: 920, 117
+  size: 137, 50
+  orig: 137, 50
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 35, 4
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 320, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 129, 4
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 948, 28
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 647, 31
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 532, 28
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 589, 30
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+op_l
+  rotate: true
+  xy: 353, 4
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+pp_r
+  rotate: false
+  xy: 213, 32
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+yanzhao
+  rotate: true
+  xy: 430, 4
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+yaodai_b
+  rotate: true
+  xy: 703, 32
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1

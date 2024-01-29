@@ -1,0 +1,48 @@
+
+CA_gulite.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 417
+  size: 412, 77
+  orig: 412, 77
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 316
+  size: 411, 99
+  orig: 411, 99
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 213
+  size: 407, 101
+  orig: 407, 101
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 384, 209
+  orig: 384, 209
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 416, 216
+  size: 278, 86
+  orig: 278, 86
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 411, 156
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1

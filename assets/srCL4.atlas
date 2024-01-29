@@ -1,0 +1,48 @@
+
+srCL4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 426, 49
+  size: 461, 147
+  orig: 461, 147
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 724, 62
+  size: 448, 139
+  orig: 448, 139
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 575, 57
+  size: 453, 147
+  orig: 453, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 60
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+wen
+  rotate: true
+  xy: 244, 130
+  size: 380, 180
+  orig: 380, 180
+  offset: 0, 0
+  index: -1

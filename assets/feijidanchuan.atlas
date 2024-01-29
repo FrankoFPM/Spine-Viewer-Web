@@ -1,0 +1,48 @@
+
+feijidanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 20
+  size: 485, 320
+  orig: 485, 320
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 324, 68
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 409, 153
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 324, 153
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 324, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 382, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

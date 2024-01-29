@@ -1,0 +1,41 @@
+
+wuxing_SS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 216
+  size: 529, 366
+  orig: 529, 366
+  offset: 0, 0
+  index: -1
+body_n
+  rotate: true
+  xy: 533, 53
+  size: 529, 366
+  orig: 529, 366
+  offset: 0, 0
+  index: -1
+qt01
+  rotate: false
+  xy: 2, 2
+  size: 510, 106
+  orig: 510, 106
+  offset: 0, 0
+  index: -1
+qt02
+  rotate: false
+  xy: 2, 110
+  size: 524, 104
+  orig: 524, 104
+  offset: 0, 0
+  index: -1
+qt03
+  rotate: true
+  xy: 901, 47
+  size: 535, 108
+  orig: 535, 108
+  offset: 0, 0
+  index: -1

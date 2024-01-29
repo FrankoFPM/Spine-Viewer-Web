@@ -1,0 +1,34 @@
+
+jingling_mu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci_2
+  rotate: false
+  xy: 2, 2
+  size: 181, 209
+  orig: 181, 209
+  offset: 0, 0
+  index: -1
+guangquan_2
+  rotate: false
+  xy: 185, 19
+  size: 191, 192
+  orig: 191, 192
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 2, 213
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+qiu_2
+  rotate: false
+  xy: 270, 380
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1

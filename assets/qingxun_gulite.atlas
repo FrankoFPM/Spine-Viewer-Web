@@ -1,0 +1,132 @@
+
+qingxun_gulite.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 721, 74
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 46
+  size: 207, 204
+  orig: 207, 204
+  offset: 0, 0
+  index: -1
+hand-L
+  rotate: true
+  xy: 139, 6
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+hand-L2
+  rotate: false
+  xy: 254, 5
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+hand-R1
+  rotate: true
+  xy: 196, 8
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+hand-R2
+  rotate: false
+  xy: 244, 54
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+jz
+  rotate: false
+  xy: 650, 165
+  size: 125, 88
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+leg-R1
+  rotate: true
+  xy: 71, 7
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+leg-R2
+  rotate: true
+  xy: 280, 73
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 7
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 208, 53
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+long1
+  rotate: true
+  xy: 501, 135
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+long2
+  rotate: true
+  xy: 610, 23
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 291, 2
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: true
+  xy: 459, 10
+  size: 120, 149
+  orig: 120, 149
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: true
+  xy: 349, 132
+  size: 121, 150
+  orig: 121, 150
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 208, 105
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 336, 77
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+jiu-work.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 149, 11
+  size: 136, 165
+  orig: 136, 165
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 330, 96
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 316, 61
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 316, 113
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 316, 35
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 348, 132
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 370, 134
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 2, 2
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1

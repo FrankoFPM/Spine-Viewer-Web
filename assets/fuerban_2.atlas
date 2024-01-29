@@ -1,0 +1,258 @@
+
+fuerban_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 4
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 550, 124
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 578, 78
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 552, 183
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 253, 27
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 427, 4
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 153, 83
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 193, 83
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: false
+  xy: 565, 3
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 509, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 561, 27
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 588, 196
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 249, 113
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 253, 11
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 253, 66
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 484, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 105, 111
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 273, 4
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 2, 83
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 391, 15
+  size: 34, 98
+  orig: 34, 98
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 588, 223
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 233, 83
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 596, 2
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 526, 27
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 81, 7
+  size: 170, 74
+  orig: 170, 74
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 552, 219
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+lanzi
+  rotate: true
+  xy: 490, 119
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 105, 83
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 533, 3
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 588, 28
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 578, 55
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+manjuuuu
+  rotate: true
+  xy: 390, 115
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 427, 23
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 490, 174
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 484, 27
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 526, 55
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1

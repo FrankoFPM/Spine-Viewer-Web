@@ -1,0 +1,20 @@
+
+fufen.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fufen
+  rotate: false
+  xy: 2, 2
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+fufen_T
+  rotate: false
+  xy: 132, 11
+  size: 6, 65
+  orig: 6, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+ai_manjuuu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 325, 291
+  size: 219, 212
+  orig: 219, 212
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 325, 230
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 447, 232
+  size: 119, 57
+  orig: 119, 57
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 434, 4
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+han1
+  rotate: false
+  xy: 357, 2
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+han2
+  rotate: true
+  xy: 558, 133
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 558, 63
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+hand_Lpart
+  rotate: true
+  xy: 2, 7
+  size: 168, 353
+  orig: 168, 353
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 428, 182
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 325, 177
+  size: 101, 51
+  orig: 101, 51
+  offset: 0, 0
+  index: -1
+light_B
+  rotate: false
+  xy: 2, 177
+  size: 321, 333
+  orig: 321, 333
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 357, 39
+  size: 199, 136
+  orig: 199, 136
+  offset: 0, 0
+  index: -1

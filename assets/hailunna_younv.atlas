@@ -1,0 +1,272 @@
+
+hailunna_younv.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: false
+  xy: 97, 32
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 387, 136
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 552, 117
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: false
+  xy: 583, 43
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 455, 2
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 201, 4
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 363, 162
+  size: 92, 17
+  orig: 92, 17
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: true
+  xy: 522, 179
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+eye_5
+  rotate: true
+  xy: 512, 11
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 90, 84
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 293, 115
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 90, 100
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 2
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 293, 131
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: false
+  xy: 562, 200
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 232, 114
+  size: 59, 140
+  orig: 59, 140
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 337, 11
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: false
+  xy: 382, 164
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 539, 19
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 363, 131
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 423, 136
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 446, 136
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 97, 4
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+ji
+  rotate: true
+  xy: 605, 202
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+jianzhuang_1
+  rotate: true
+  xy: 385, 2
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 605, 179
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 468, 143
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 552, 93
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 488, 61
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 453, 171
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 132, 4
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 488, 87
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 427, 50
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+meimao_5
+  rotate: true
+  xy: 237, 2
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 2, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 385, 43
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 583, 4
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 58, 4
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+wuxing_CV.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 544, 456
+  orig: 544, 456
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 548, 165
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 617, 391
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: true
+  xy: 548, 234
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

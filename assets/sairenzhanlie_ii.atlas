@@ -1,0 +1,265 @@
+
+sairenzhanlie_ii.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 822, 211
+  size: 298, 234
+  orig: 298, 234
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 567, 200
+  size: 309, 253
+  orig: 309, 253
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 167
+  size: 342, 268
+  orig: 342, 268
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1465, 14
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 1459, 296
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 386, 89
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 352, 167
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 272, 167
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 312, 167
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1363, 97
+  size: 170, 174
+  orig: 170, 174
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1095, 223
+  size: 141, 42
+  orig: 141, 42
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 235, 15
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 1363, 2
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 2, 3
+  size: 162, 231
+  orig: 162, 231
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 1535, 35
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 1306, 30
+  size: 55, 235
+  orig: 55, 235
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 1233, 267
+  size: 77, 242
+  orig: 77, 242
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 1535, 158
+  size: 35, 136
+  orig: 35, 136
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 386, 128
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 1427, 278
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 371, 171
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 1394, 277
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 1223, 20
+  size: 201, 62
+  orig: 201, 62
+  offset: 0, 0
+  index: -1
+jianzhuang1
+  rotate: true
+  xy: 1485, 337
+  size: 172, 105
+  orig: 172, 105
+  offset: 0, 0
+  index: -1
+jianzhuang2
+  rotate: true
+  xy: 700, 4
+  size: 194, 110
+  orig: 194, 110
+  offset: 0, 0
+  index: -1
+jianzhuang3
+  rotate: true
+  xy: 812, 5
+  size: 193, 121
+  orig: 193, 121
+  offset: 0, 0
+  index: -1
+jianzhuang4
+  rotate: false
+  xy: 272, 195
+  size: 293, 314
+  orig: 293, 314
+  offset: 0, 0
+  index: -1
+jianzhuang5
+  rotate: false
+  xy: 1058, 267
+  size: 173, 242
+  orig: 173, 242
+  offset: 0, 0
+  index: -1
+jianzhuang6
+  rotate: false
+  xy: 935, 6
+  size: 286, 203
+  orig: 286, 203
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 1572, 162
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 1238, 223
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 1058, 211
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 1274, 225
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 1572, 198
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 1312, 273
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 417, 15
+  size: 281, 178
+  orig: 281, 178
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 1312, 335
+  size: 174, 171
+  orig: 174, 171
+  offset: 0, 0
+  index: -1

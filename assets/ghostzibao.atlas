@@ -1,0 +1,27 @@
+
+ghostzibao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 192
+  size: 340, 290
+  orig: 340, 290
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 2, 2
+  size: 238, 188
+  orig: 238, 188
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 242, 12
+  size: 178, 119
+  orig: 178, 119
+  offset: 0, 0
+  index: -1

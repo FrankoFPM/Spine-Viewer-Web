@@ -1,0 +1,608 @@
+
+shidifenbote_2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BQ3
+  rotate: true
+  xy: 354, 3
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1251, 54
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 1210, 186
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 286, 5
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1371, 95
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+erduo_L
+  rotate: true
+  xy: 969, 35
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+erduo_R
+  rotate: true
+  xy: 1037, 36
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 681, 99
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 1375, 132
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 1368, 30
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 1276, 186
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 969, 2
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+eye_L1_2
+  rotate: true
+  xy: 1271, 142
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: false
+  xy: 1308, 124
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: true
+  xy: 1340, 127
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+eye_L4
+  rotate: true
+  xy: 1250, 4
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+eye_L5
+  rotate: false
+  xy: 1032, 3
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+eye_L6
+  rotate: false
+  xy: 1271, 123
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+eye_L7
+  rotate: true
+  xy: 1218, 4
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 1336, 22
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eye_R1_2
+  rotate: true
+  xy: 1345, 92
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: true
+  xy: 1393, 155
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: false
+  xy: 1013, 2
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+eye_R4
+  rotate: false
+  xy: 1352, 186
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+eye_R5
+  rotate: false
+  xy: 1359, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eye_R6
+  rotate: false
+  xy: 1336, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+eye_R7
+  rotate: true
+  xy: 1384, 187
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 681, 116
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 794, 16
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: false
+  xy: 420, 2
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 408, 92
+  size: 118, 162
+  orig: 118, 162
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: false
+  xy: 884, 133
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 1105, 44
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 1365, 150
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1336, 147
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 1406, 220
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 1316, 186
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hao
+  rotate: true
+  xy: 1116, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+honyun2
+  rotate: true
+  xy: 758, 8
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+honyun3
+  rotate: true
+  xy: 719, 7
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+hounaodai
+  rotate: true
+  xy: 849, 2
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: false
+  xy: 1311, 88
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hudiejie2
+  rotate: false
+  xy: 1143, 46
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+hudiejie3
+  rotate: true
+  xy: 706, 82
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+hudiejie4
+  rotate: false
+  xy: 794, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+ji1
+  rotate: true
+  xy: 1391, 70
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+ji2
+  rotate: false
+  xy: 1396, 46
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+ji3
+  rotate: true
+  xy: 1398, 107
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+jianti1_L
+  rotate: false
+  xy: 1374, 219
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+jianti_L
+  rotate: true
+  xy: 960, 118
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+jianti_R
+  rotate: false
+  xy: 1158, 120
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 1309, 7
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 1311, 54
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 1281, 6
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 1335, 54
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: false
+  xy: 129, 80
+  size: 149, 174
+  orig: 149, 174
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 280, 91
+  size: 126, 163
+  orig: 126, 163
+  offset: 0, 0
+  index: -1
+maozi3
+  rotate: false
+  xy: 815, 118
+  size: 67, 136
+  orig: 67, 136
+  offset: 0, 0
+  index: -1
+maozi5
+  rotate: true
+  xy: 129, 3
+  size: 75, 155
+  orig: 75, 155
+  offset: 0, 0
+  index: -1
+maozi_B
+  rotate: false
+  xy: 528, 99
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+maquan
+  rotate: false
+  xy: 1163, 185
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: true
+  xy: 549, 3
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+meimao4
+  rotate: true
+  xy: 549, 3
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: true
+  xy: 1002, 171
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+meimao3
+  rotate: true
+  xy: 1190, 48
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+meimao5
+  rotate: true
+  xy: 1106, 179
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+meimao6
+  rotate: true
+  xy: 1049, 174
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+meimao7
+  rotate: true
+  xy: 488, 4
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+pao1_L
+  rotate: true
+  xy: 1060, 119
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+pao2_R
+  rotate: true
+  xy: 1156, 2
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 1276, 214
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 1012, 119
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+paopao3
+  rotate: true
+  xy: 606, 7
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+paopao_1
+  rotate: true
+  xy: 2, 8
+  size: 246, 125
+  orig: 246, 125
+  offset: 0, 0
+  index: -1
+saihon
+  rotate: false
+  xy: 280, 81
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 960, 168
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+toushi_F
+  rotate: false
+  xy: 1350, 216
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: false
+  xy: 1389, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+xinxikuang
+  rotate: true
+  xy: 1215, 123
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+xiuzi_L
+  rotate: true
+  xy: 1076, 2
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+xiuzi_R
+  rotate: false
+  xy: 1316, 216
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+youxiji1
+  rotate: false
+  xy: 1364, 3
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+youxiji2
+  rotate: true
+  xy: 1196, 3
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+youxiji4
+  rotate: false
+  xy: 1095, 120
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+youxiji_h
+  rotate: false
+  xy: 884, 118
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+yulei_R
+  rotate: true
+  xy: 1298, 145
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1

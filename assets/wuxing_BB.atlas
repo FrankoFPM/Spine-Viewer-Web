@@ -1,0 +1,48 @@
+
+wuxing_BB.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 515, 259
+  size: 250, 131
+  orig: 250, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 83
+  size: 511, 426
+  orig: 511, 426
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: false
+  xy: 2, 2
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 93, 14
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 319, 14
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 545, 33
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

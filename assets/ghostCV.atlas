@@ -1,0 +1,13 @@
+
+ghostCV.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 575, 433
+  orig: 575, 433
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+kuangfengdanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 356, 2
+  size: 512, 270
+  orig: 512, 270
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 57, 274
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 411, 274
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 189
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 319
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1

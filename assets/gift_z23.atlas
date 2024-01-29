@@ -1,0 +1,146 @@
+
+gift_z23.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun_1
+  rotate: false
+  xy: 796, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 819, 15
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 867, 18
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+liwu
+  rotate: false
+  xy: 2, 12
+  size: 666, 241
+  orig: 666, 241
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: false
+  xy: 919, 8
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+tx_10
+  rotate: false
+  xy: 899, 181
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+tx_11
+  rotate: false
+  xy: 758, 177
+  size: 139, 76
+  orig: 139, 76
+  offset: 0, 0
+  index: -1
+tx_12
+  rotate: true
+  xy: 670, 2
+  size: 119, 93
+  orig: 119, 93
+  offset: 0, 0
+  index: -1
+tx_13
+  rotate: false
+  xy: 765, 6
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: true
+  xy: 765, 69
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 819, 96
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+tx_4
+  rotate: false
+  xy: 846, 40
+  size: 71, 135
+  orig: 71, 135
+  offset: 0, 0
+  index: -1
+tx_5
+  rotate: false
+  xy: 765, 97
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+tx_6
+  rotate: true
+  xy: 670, 123
+  size: 130, 86
+  orig: 130, 86
+  offset: 0, 0
+  index: -1
+tx_7
+  rotate: true
+  xy: 765, 41
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+tx_8
+  rotate: true
+  xy: 758, 134
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+tx_9
+  rotate: false
+  xy: 919, 95
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 819, 68
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 819, 39
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 843, 12
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

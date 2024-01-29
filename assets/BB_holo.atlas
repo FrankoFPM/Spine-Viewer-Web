@@ -1,0 +1,48 @@
+
+BB_holo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 843, 2
+  size: 421, 155
+  orig: 421, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 401, 275
+  size: 440, 148
+  orig: 440, 148
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 401, 122
+  size: 415, 151
+  orig: 415, 151
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 192
+  size: 397, 231
+  orig: 397, 231
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 355, 71
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+wen
+  rotate: false
+  xy: 2, 7
+  size: 351, 183
+  orig: 351, 183
+  offset: 0, 0
+  index: -1

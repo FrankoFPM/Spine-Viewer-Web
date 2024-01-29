@@ -1,0 +1,69 @@
+
+gift_mingshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang
+  rotate: false
+  xy: 2, 48
+  size: 503, 379
+  orig: 503, 379
+  offset: 0, 0
+  index: -1
+guangyun_1
+  rotate: false
+  xy: 774, 152
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 750, 150
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 778, 181
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 507, 2
+  size: 199, 217
+  orig: 199, 217
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: true
+  xy: 726, 178
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 754, 174
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 726, 150
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+yaoshi
+  rotate: false
+  xy: 507, 203
+  size: 330, 224
+  orig: 330, 224
+  offset: 0, 0
+  index: -1

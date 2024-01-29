@@ -1,0 +1,419 @@
+
+tianying.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1293, 45
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 1401, 198
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 308, 55
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 275, 55
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+effect
+  rotate: true
+  xy: 1128, 10
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+effect_circle
+  rotate: false
+  xy: 463, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect_ene
+  rotate: false
+  xy: 615, 105
+  size: 115, 149
+  orig: 115, 149
+  offset: 0, 0
+  index: -1
+eye_0_1
+  rotate: true
+  xy: 1293, 4
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+eye_0_2
+  rotate: true
+  xy: 1410, 55
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 1424, 23
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 1445, 63
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 1332, 5
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 1401, 124
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 1447, 33
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 1396, 15
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 1438, 95
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 1475, 48
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: false
+  xy: 1452, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 1468, 75
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 363, 84
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 911, 2
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+eye_7_1
+  rotate: true
+  xy: 1401, 160
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+eye_7_2
+  rotate: false
+  xy: 1424, 5
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+hair_B_L
+  rotate: false
+  xy: 2, 52
+  size: 132, 202
+  orig: 132, 202
+  offset: 0, 0
+  index: -1
+hair_B_L_w
+  rotate: false
+  xy: 857, 108
+  size: 84, 146
+  orig: 84, 146
+  offset: 0, 0
+  index: -1
+hair_B_R
+  rotate: false
+  xy: 136, 55
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+hair_B_R_w
+  rotate: false
+  xy: 943, 109
+  size: 86, 145
+  orig: 86, 145
+  offset: 0, 0
+  index: -1
+hair_C1
+  rotate: false
+  xy: 666, 13
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+hair_C2
+  rotate: false
+  xy: 415, 2
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 1031, 114
+  size: 28, 140
+  orig: 28, 140
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 1061, 116
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 1410, 88
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1448, 166
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 1418, 162
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 373, 56
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 787, 15
+  size: 89, 122
+  orig: 89, 122
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1020, 2
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 1186, 11
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+head_B
+  rotate: true
+  xy: 732, 106
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+hoho
+  rotate: false
+  xy: 604, 3
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 1369, 9
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 1464, 103
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 329, 56
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 1455, 134
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+mant_B
+  rotate: false
+  xy: 911, 18
+  size: 107, 88
+  orig: 107, 88
+  offset: 0, 0
+  index: -1
+mant_R
+  rotate: false
+  xy: 730, 13
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+mant_shou_B
+  rotate: true
+  xy: 1366, 55
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+mant_shou_L
+  rotate: false
+  xy: 1433, 127
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+mant_shou_R
+  rotate: false
+  xy: 292, 3
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+mayuge1
+  rotate: true
+  xy: 483, 9
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+mayuge2
+  rotate: true
+  xy: 544, 9
+  size: 93, 58
+  orig: 93, 58
+  offset: 0, 0
+  index: -1
+mayuge3
+  rotate: true
+  xy: 604, 11
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+mayuge_3
+  rotate: false
+  xy: 192, 3
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 275, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 336, 8
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+rod
+  rotate: true
+  xy: 2, 2
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: false
+  xy: 104, 3
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+sleep7
+  rotate: true
+  xy: 363, 100
+  size: 154, 98
+  orig: 154, 98
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 1125, 119
+  size: 274, 135
+  orig: 274, 135
+  offset: 0, 0
+  index: -1

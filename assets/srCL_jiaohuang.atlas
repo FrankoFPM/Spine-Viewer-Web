@@ -1,0 +1,97 @@
+
+srCL_jiaohuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 437, 355
+  size: 460, 145
+  orig: 460, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 59
+  size: 446, 137
+  orig: 446, 137
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 437, 198
+  size: 452, 144
+  orig: 452, 144
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 265
+  size: 433, 235
+  orig: 433, 235
+  offset: 0, 0
+  index: -1
+chushou
+  rotate: false
+  xy: 450, 2
+  size: 222, 194
+  orig: 222, 194
+  offset: 0, 0
+  index: -1
+juntan
+  rotate: false
+  xy: 674, 52
+  size: 323, 144
+  orig: 323, 144
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 899, 413
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+yanzhu_1
+  rotate: false
+  xy: 899, 395
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+yanzhu_2
+  rotate: false
+  xy: 905, 361
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+yanzhu_3
+  rotate: false
+  xy: 899, 370
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+yanzhu_4
+  rotate: true
+  xy: 899, 357
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+yanzhu_5
+  rotate: true
+  xy: 899, 344
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+yanzhu_6
+  rotate: false
+  xy: 899, 384
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

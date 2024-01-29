@@ -1,0 +1,251 @@
+
+yalisangna.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 217, 282
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 230, 92
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: true
+  xy: 304, 153
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 374, 15
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 349, 3
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: true
+  xy: 354, 160
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: false
+  xy: 303, 284
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: false
+  xy: 368, 96
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_L5
+  rotate: false
+  xy: 390, 68
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 368, 126
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: false
+  xy: 275, 282
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: false
+  xy: 362, 54
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_R5
+  rotate: false
+  xy: 324, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 282
+  size: 168, 228
+  orig: 168, 228
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 148, 153
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 76
+  size: 144, 204
+  orig: 144, 204
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 215, 388
+  size: 118, 122
+  orig: 118, 122
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 106, 13
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 324, 35
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 310, 94
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+jianzhuang_1
+  rotate: true
+  xy: 275, 300
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+jianzhuang_2
+  rotate: false
+  xy: 224, 2
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+jianzhuang_3
+  rotate: false
+  xy: 274, 3
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+jianzhuang_4
+  rotate: true
+  xy: 172, 290
+  size: 91, 43
+  orig: 91, 43
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 10
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 28, 10
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 54, 11
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 80, 11
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: true
+  xy: 249, 160
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 139, 14
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 148, 91
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 304, 200
+  size: 82, 58
+  orig: 82, 58
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 331, 300
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 172, 383
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 335, 400
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1

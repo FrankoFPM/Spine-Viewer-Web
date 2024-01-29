@@ -1,0 +1,335 @@
+
+neihuada_g.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 635, 181
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 431, 66
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+coat_B
+  rotate: true
+  xy: 566, 66
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+coat_F
+  rotate: true
+  xy: 597, 10
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+coat_L
+  rotate: true
+  xy: 484, 12
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+coat_R
+  rotate: false
+  xy: 674, 141
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 317, 116
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 620, 12
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 656, 21
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 656, 2
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 694, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 158, 64
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 198, 64
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 697, 80
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 720, 55
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: false
+  xy: 646, 61
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 673, 61
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 646, 88
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: true
+  xy: 688, 21
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: true
+  xy: 2, 64
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 506, 136
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 247, 98
+  size: 68, 156
+  orig: 68, 156
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 110, 92
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 84, 4
+  size: 58, 164
+  orig: 58, 164
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 238, 64
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 273, 65
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 621, 136
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 591, 136
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 597, 60
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 647, 136
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 311, 65
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 110, 64
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 677, 110
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: true
+  xy: 451, 134
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 250, 7
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: false
+  xy: 419, 10
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 2, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: false
+  xy: 343, 66
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 315, 2
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: true
+  xy: 367, 3
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+weapon_bag
+  rotate: false
+  xy: 519, 66
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+weapon_bodypart_L
+  rotate: true
+  xy: 707, 112
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+weapon_bodypart_R
+  rotate: true
+  xy: 721, 87
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+weapon_pao_L1
+  rotate: true
+  xy: 591, 171
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+weapon_pao_R1
+  rotate: true
+  xy: 591, 171
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+weapon_pao_L2
+  rotate: false
+  xy: 530, 13
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+weapon_pao_R2
+  rotate: true
+  xy: 478, 66
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1

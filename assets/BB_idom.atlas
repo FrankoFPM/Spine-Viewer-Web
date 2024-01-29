@@ -1,0 +1,48 @@
+
+BB_idom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 929, 496
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 929, 442
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 600, 2
+  size: 562, 327
+  orig: 562, 327
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 168
+  size: 596, 126
+  orig: 596, 126
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 296
+  size: 596, 131
+  orig: 596, 131
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 2, 429
+  size: 596, 135
+  orig: 596, 135
+  offset: 0, 0
+  index: -1

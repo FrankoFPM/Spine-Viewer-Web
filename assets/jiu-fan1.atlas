@@ -1,0 +1,83 @@
+
+jiu-fan1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 123, 163
+  orig: 123, 163
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 219, 27
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 167, 4
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 167, 22
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 268, 7
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 366, 63
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 239, 5
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 220, 6
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 366, 18
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 300, 37
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 167, 42
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1

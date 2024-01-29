@@ -1,0 +1,41 @@
+
+kenisibaodanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 356, 2
+  size: 449, 288
+  orig: 449, 288
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 422, 292
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 207
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 68, 292
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 312
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1

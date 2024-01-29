@@ -1,0 +1,41 @@
+
+ofs_fangkong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 312, 379
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 172
+  size: 308, 288
+  orig: 308, 288
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 356, 25
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

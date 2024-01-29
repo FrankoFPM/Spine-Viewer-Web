@@ -1,0 +1,41 @@
+
+srCV6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 588, 142
+  orig: 588, 142
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 427
+  size: 597, 140
+  orig: 597, 140
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 569
+  size: 615, 147
+  orig: 615, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 619, 146
+  size: 570, 307
+  orig: 570, 307
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 2, 276
+  size: 369, 149
+  orig: 369, 149
+  offset: 0, 0
+  index: -1

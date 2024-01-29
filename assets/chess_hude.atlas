@@ -1,0 +1,137 @@
+
+chess_hude.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 303, 344
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 2, 639
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 2, 2
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: true
+  xy: 677, 247
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 376, 621
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 233, 898
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 365, 896
+  size: 126, 80
+  orig: 126, 80
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 364
+  size: 273, 299
+  orig: 273, 299
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 493, 884
+  size: 92, 172
+  orig: 92, 172
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 667, 878
+  size: 98, 179
+  orig: 98, 179
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 2, 930
+  size: 46, 229
+  orig: 46, 229
+  offset: 0, 0
+  index: -1
+
+chess_hude2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 2, 423
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 2, 18
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 408, 423
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: true
+  xy: 410, 2
+  size: 419, 420
+  orig: 419, 420
+  offset: 0, 0
+  index: -1
+
+chess_hude3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 2, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 445, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1

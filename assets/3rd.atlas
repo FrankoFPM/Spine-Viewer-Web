@@ -1,0 +1,48 @@
+
+3rd.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 162, 24
+  size: 154, 174
+  orig: 154, 174
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 318, 48
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 196, 158
+  orig: 196, 158
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 458, 82
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1056, 81
+  size: 1026, 435
+  orig: 1026, 435
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 200
+  size: 1052, 907
+  orig: 1052, 907
+  offset: 0, 0
+  index: -1

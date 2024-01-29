@@ -1,0 +1,48 @@
+
+kelifulandanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 356, 2
+  size: 520, 353
+  orig: 520, 353
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 2, 391
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 507, 357
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 272
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 153, 357
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 61, 378
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1

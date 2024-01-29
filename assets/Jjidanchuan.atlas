@@ -1,0 +1,48 @@
+
+Jjidanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 18
+  size: 440, 336
+  orig: 440, 336
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 444, 168
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 798, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 883, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 444, 271
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 444, 107
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1

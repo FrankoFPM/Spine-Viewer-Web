@@ -1,0 +1,34 @@
+
+CV_jiaotang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 180, 116
+  size: 577, 385
+  orig: 577, 385
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 2, 2
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: true
+  xy: 91, 91
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: true
+  xy: 2, 91
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

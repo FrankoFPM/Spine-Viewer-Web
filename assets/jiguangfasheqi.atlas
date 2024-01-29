@@ -1,0 +1,153 @@
+
+jiguangfasheqi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 708, 155
+  size: 283, 268
+  orig: 283, 268
+  offset: 0, 0
+  index: -1
+dianlan_1
+  rotate: true
+  xy: 2, 651
+  size: 52, 324
+  orig: 52, 324
+  offset: 0, 0
+  index: -1
+dianlan_2
+  rotate: true
+  xy: 328, 651
+  size: 52, 324
+  orig: 52, 324
+  offset: 0, 0
+  index: -1
+dianlan_3
+  rotate: true
+  xy: 2, 705
+  size: 51, 324
+  orig: 51, 324
+  offset: 0, 0
+  index: -1
+dianlan_4
+  rotate: true
+  xy: 654, 651
+  size: 52, 324
+  orig: 52, 324
+  offset: 0, 0
+  index: -1
+dianlan_5
+  rotate: true
+  xy: 2, 597
+  size: 52, 324
+  orig: 52, 324
+  offset: 0, 0
+  index: -1
+dianlan_6
+  rotate: true
+  xy: 328, 705
+  size: 51, 323
+  orig: 51, 323
+  offset: 0, 0
+  index: -1
+dianlan_7
+  rotate: true
+  xy: 328, 597
+  size: 52, 324
+  orig: 52, 324
+  offset: 0, 0
+  index: -1
+dianlan_8
+  rotate: true
+  xy: 653, 705
+  size: 51, 324
+  orig: 51, 324
+  offset: 0, 0
+  index: -1
+guanghuan_blue_b
+  rotate: false
+  xy: 2, 453
+  size: 351, 142
+  orig: 351, 142
+  offset: 0, 0
+  index: -1
+guanghuan_red_f
+  rotate: false
+  xy: 355, 273
+  size: 351, 150
+  orig: 351, 150
+  offset: 0, 0
+  index: -1
+guanhuan_blue_f
+  rotate: false
+  xy: 2, 157
+  size: 351, 150
+  orig: 351, 150
+  offset: 0, 0
+  index: -1
+guanhuan_red_b
+  rotate: false
+  xy: 2, 309
+  size: 351, 142
+  orig: 351, 142
+  offset: 0, 0
+  index: -1
+hudun_L_3_blue
+  rotate: true
+  xy: 654, 572
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+hudun_L_3_red
+  rotate: true
+  xy: 749, 572
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+hudun_R_3_blue
+  rotate: true
+  xy: 844, 572
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+hudun_R_3_red
+  rotate: false
+  xy: 939, 556
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+hudun_T_1_blue
+  rotate: false
+  xy: 355, 118
+  size: 326, 153
+  orig: 326, 153
+  offset: 0, 0
+  index: -1
+hudun_T_1_red
+  rotate: false
+  xy: 2, 2
+  size: 326, 153
+  orig: 326, 153
+  offset: 0, 0
+  index: -1
+hudun_f_blue
+  rotate: false
+  xy: 355, 450
+  size: 273, 145
+  orig: 273, 145
+  offset: 0, 0
+  index: -1
+hudun_f_red
+  rotate: false
+  xy: 630, 425
+  size: 273, 145
+  orig: 273, 145
+  offset: 0, 0
+  index: -1

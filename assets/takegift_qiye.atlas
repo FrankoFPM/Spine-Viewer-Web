@@ -1,0 +1,188 @@
+
+takegift_qiye.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 437, 307
+  size: 198, 189
+  orig: 198, 189
+  offset: 0, 0
+  index: -1
+body_tb
+  rotate: true
+  xy: 642, 11
+  size: 63, 107
+  orig: 63, 107
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 791, 304
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 642, 76
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 850, 320
+  size: 148, 84
+  orig: 148, 84
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 74, 10
+  size: 203, 192
+  orig: 203, 192
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: true
+  xy: 765, 352
+  size: 153, 83
+  orig: 153, 83
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 850, 406
+  size: 99, 149
+  orig: 99, 149
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: false
+  xy: 519, 40
+  size: 121, 186
+  orig: 121, 186
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 268, 13
+  size: 52, 200
+  orig: 52, 200
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: false
+  xy: 628, 324
+  size: 135, 181
+  orig: 135, 181
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 2, 6
+  size: 70, 207
+  orig: 70, 207
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 322, 2
+  size: 222, 195
+  orig: 222, 195
+  offset: 0, 0
+  index: -1
+hair_bf
+  rotate: false
+  xy: 2, 215
+  size: 286, 290
+  orig: 286, 290
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 884, 111
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 730, 79
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 290, 226
+  size: 279, 145
+  orig: 279, 145
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 661, 268
+  size: 54, 128
+  orig: 54, 128
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 751, 27
+  size: 50, 131
+  orig: 50, 131
+  offset: 0, 0
+  index: -1
+liwu_1
+  rotate: false
+  xy: 791, 259
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+liwu_2
+  rotate: true
+  xy: 558, 241
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+liwu_3
+  rotate: true
+  xy: 565, 13
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+liwu_4
+  rotate: true
+  xy: 512, 228
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+liwu_5
+  rotate: false
+  xy: 437, 227
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+liwu_6
+  rotate: false
+  xy: 519, 11
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+liwuhe
+  rotate: false
+  xy: 847, 197
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1

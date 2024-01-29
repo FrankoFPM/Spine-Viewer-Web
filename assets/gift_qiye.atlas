@@ -1,0 +1,55 @@
+
+gift_qiye.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun_1
+  rotate: false
+  xy: 606, 297
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 606, 319
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 628, 297
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+liwu_1
+  rotate: true
+  xy: 2, 2
+  size: 424, 602
+  orig: 424, 602
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 606, 400
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 606, 371
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 606, 343
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

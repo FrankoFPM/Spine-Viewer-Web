@@ -1,0 +1,13 @@
+
+duotianshizhizhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duotianshizhizhu
+  rotate: false
+  xy: 2, 2
+  size: 284, 353
+  orig: 284, 353
+  offset: 0, 0
+  index: -1

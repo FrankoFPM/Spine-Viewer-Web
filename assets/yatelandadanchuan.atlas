@@ -1,0 +1,48 @@
+
+yatelandadanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 480, 356
+  orig: 480, 356
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 838, 6
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 923, 6
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 484, 275
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 484, 134
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 484, 187
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1

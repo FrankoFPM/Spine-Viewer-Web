@@ -1,0 +1,118 @@
+
+hangmu_gulite.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1574, 171
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 334, 34
+  size: 210, 219
+  orig: 210, 219
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 2, 17
+  size: 236, 330
+  orig: 236, 330
+  offset: 0, 0
+  index: -1
+hand-R
+  rotate: true
+  xy: 888, 15
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+hand-R2
+  rotate: true
+  xy: 778, 12
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 546, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 584, 11
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+jz_L
+  rotate: true
+  xy: 546, 51
+  size: 202, 450
+  orig: 202, 450
+  offset: 0, 0
+  index: -1
+jz_R
+  rotate: true
+  xy: 998, 52
+  size: 201, 453
+  orig: 201, 453
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 836, 15
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 642, 12
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 334, 2
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 710, 12
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+pifeng-1
+  rotate: false
+  xy: 1453, 110
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+pifeng-2
+  rotate: true
+  xy: 1453, 2
+  size: 106, 142
+  orig: 106, 142
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 390, 6
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1

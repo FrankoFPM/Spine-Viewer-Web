@@ -1,0 +1,41 @@
+
+ofs_daqu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 518, 405
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 230
+  size: 514, 255
+  orig: 514, 255
+  offset: 0, 0
+  index: -1
+dq01
+  rotate: false
+  xy: 2, 153
+  size: 581, 75
+  orig: 581, 75
+  offset: 0, 0
+  index: -1
+dq02
+  rotate: false
+  xy: 2, 76
+  size: 579, 75
+  orig: 579, 75
+  offset: 0, 0
+  index: -1
+dq03
+  rotate: false
+  xy: 2, 2
+  size: 585, 72
+  orig: 585, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+zhusanuodanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 172, 149
+  size: 561, 350
+  orig: 561, 350
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 62
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 87, 147
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 2, 147
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 2
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 79, 6
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1

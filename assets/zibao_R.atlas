@@ -1,0 +1,48 @@
+
+zibao_R.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: true
+  xy: 2, 2
+  size: 227, 187
+  orig: 227, 187
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 191, 5
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 260, 162
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 260, 93
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 260, 3
+  size: 147, 88
+  orig: 147, 88
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 260, 3
+  size: 147, 88
+  orig: 147, 88
+  offset: 0, 0
+  index: -1

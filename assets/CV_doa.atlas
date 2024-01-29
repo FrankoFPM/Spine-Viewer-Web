@@ -1,0 +1,62 @@
+
+CV_doa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 722, 459
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 722, 371
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 722, 415
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 722, 335
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 74
+  size: 540, 427
+  orig: 540, 427
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 544, 2
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: true
+  xy: 633, 91
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: true
+  xy: 544, 91
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

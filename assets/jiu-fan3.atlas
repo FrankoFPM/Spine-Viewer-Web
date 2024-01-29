@@ -1,0 +1,83 @@
+
+jiu-fan3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 91
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 135, 8
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 173, 18
+  size: 48, 9
+  orig: 48, 9
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 132, 92
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 132, 112
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 180, 39
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 173, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 186, 147
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 135, 29
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 132, 166
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 2, 6
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1

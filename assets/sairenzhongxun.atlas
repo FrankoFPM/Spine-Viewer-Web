@@ -1,0 +1,202 @@
+
+sairenzhongxun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 542, 122
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 451, 318
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 491, 319
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 383, 10
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 610, 94
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 422, 7
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 462, 7
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 162, 9
+  size: 167, 173
+  orig: 167, 173
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 325, 193
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 325, 310
+  size: 77, 200
+  orig: 77, 200
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 387, 35
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 331, 29
+  size: 54, 162
+  orig: 54, 162
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 544, 323
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 331, 2
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 612, 366
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 579, 324
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+jianzhuang
+  rotate: true
+  xy: 2, 184
+  size: 326, 321
+  orig: 326, 321
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 465, 44
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 404, 312
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 561, 12
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 502, 8
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 465, 110
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 528, 48
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 404, 360
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 531, 363
+  size: 79, 147
+  orig: 79, 147
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: true
+  xy: 441, 202
+  size: 108, 149
+  orig: 108, 149
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: true
+  xy: 2, 4
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+weapon5
+  rotate: false
+  xy: 612, 404
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1

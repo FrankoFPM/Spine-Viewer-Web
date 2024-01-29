@@ -1,0 +1,48 @@
+
+fulaichedanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 10
+  size: 435, 344
+  orig: 435, 344
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 793, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 878, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 439, 271
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 439, 210
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 439, 149
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1

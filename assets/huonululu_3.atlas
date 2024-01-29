@@ -1,0 +1,342 @@
+
+huonululu_3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 995, 6
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 1019, 136
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 1066, 136
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 1094, 36
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 721, 8
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 963, 115
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 808, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 848, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: false
+  xy: 653, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 2, 3
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_7_1
+  rotate: false
+  xy: 26, 4
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+eye_7_2
+  rotate: false
+  xy: 684, 3
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+eye_8_1
+  rotate: true
+  xy: 1071, 206
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+eye_8_2
+  rotate: true
+  xy: 1097, 100
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 488, 8
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 766, 114
+  size: 140, 139
+  orig: 140, 139
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 888, 6
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 72, 34
+  size: 66, 220
+  orig: 66, 220
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 963, 134
+  size: 54, 120
+  orig: 54, 120
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 2, 28
+  size: 68, 226
+  orig: 68, 226
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 1065, 5
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1065, 33
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 1101, 8
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 856, 78
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 140, 48
+  size: 206, 116
+  orig: 206, 116
+  offset: 0, 0
+  index: -1
+hat_b
+  rotate: false
+  xy: 485, 103
+  size: 279, 151
+  orig: 279, 151
+  offset: 0, 0
+  index: -1
+hat_p
+  rotate: true
+  xy: 346, 100
+  size: 154, 137
+  orig: 154, 137
+  offset: 0, 0
+  index: -1
+icecream
+  rotate: false
+  xy: 1042, 72
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 856, 31
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 107, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 760, 2
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 131, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+manjuu
+  rotate: false
+  xy: 73, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 540, 17
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 275, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_7
+  rotate: true
+  xy: 686, 27
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+meimao_7_p
+  rotate: true
+  xy: 995, 62
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+meimao_8
+  rotate: true
+  xy: 337, 4
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+meimao_8_p
+  rotate: true
+  xy: 453, 4
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 258, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+pipe_B
+  rotate: true
+  xy: 401, 4
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+pipe_F
+  rotate: true
+  xy: 907, 116
+  size: 138, 54
+  orig: 138, 54
+  offset: 0, 0
+  index: -1
+pipe_Fp_1
+  rotate: false
+  xy: 244, 7
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+pipe_Fp_2
+  rotate: true
+  xy: 155, 4
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+pipe_Fp_3
+  rotate: true
+  xy: 1019, 186
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+sleep3
+  rotate: true
+  xy: 599, 20
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+swim_ring
+  rotate: true
+  xy: 746, 30
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 653, 26
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1

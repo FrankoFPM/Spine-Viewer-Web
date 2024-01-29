@@ -1,0 +1,293 @@
+
+mabuerheide.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 732, 185
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: true
+  xy: 2, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 769, 15
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 437, 5
+  size: 108, 29
+  orig: 108, 29
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 485, 147
+  size: 107, 30
+  orig: 107, 30
+  offset: 0, 0
+  index: -1
+eye_3bq
+  rotate: true
+  xy: 517, 152
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+eye_4bq
+  rotate: true
+  xy: 468, 7
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: -1
+eye_5
+  rotate: true
+  xy: 538, 20
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+eye_6
+  rotate: true
+  xy: 715, 46
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+eye_7
+  rotate: true
+  xy: 704, 180
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+eye_8
+  rotate: true
+  xy: 626, 43
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+eye_9
+  rotate: false
+  xy: 538, 2
+  size: 84, 16
+  orig: 84, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 318, 115
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 170, 92
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 664, 171
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 102, 75
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 573, 23
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 457, 146
+  size: 26, 108
+  orig: 26, 108
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 457, 115
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 537, 116
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 497, 117
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 576, 116
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hy
+  rotate: true
+  xy: 366, 2
+  size: 111, 37
+  orig: 111, 37
+  offset: 0, 0
+  index: -1
+hy2
+  rotate: true
+  xy: 405, 4
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+jz_L1
+  rotate: false
+  xy: 626, 2
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+jz_L2
+  rotate: true
+  xy: 670, 4
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+jz_L3
+  rotate: false
+  xy: 144, 3
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+jz_R1
+  rotate: true
+  xy: 726, 2
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+jz_R2
+  rotate: false
+  xy: 726, 124
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+jz_R3
+  rotate: false
+  xy: 652, 44
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 754, 76
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 797, 15
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 754, 48
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 765, 152
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 302, 4
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+meimao_5
+  rotate: false
+  xy: 64, 3
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+meimap_2
+  rotate: true
+  xy: 593, 171
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 2, 61
+  size: 193, 98
+  orig: 193, 98
+  offset: 0, 0
+  index: -1
+wt1
+  rotate: true
+  xy: 686, 122
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+wt2
+  rotate: false
+  xy: 214, 4
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+wt3
+  rotate: false
+  xy: 611, 120
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1

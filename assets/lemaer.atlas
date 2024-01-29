@@ -1,0 +1,251 @@
+
+lemaer.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: true
+  xy: 66, 83
+  size: 171, 90
+  orig: 171, 90
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 527, 38
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 261, 9
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 592, 75
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 564, 184
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 435, 116
+  size: 138, 66
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 551, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 639, 91
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 512, 9
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 670, 197
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 634, 125
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 670, 216
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 673, 97
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: true
+  xy: 485, 4
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 246, 112
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 344, 18
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 2, 4
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 294, 12
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 503, 122
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 387, 115
+  size: 46, 139
+  orig: 46, 139
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 627, 4
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 661, 157
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 592, 35
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 592, 5
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 246, 84
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 619, 39
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 634, 153
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 647, 57
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 2, 80
+  size: 174, 62
+  orig: 174, 62
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 199, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 158, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 134, 7
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 485, 28
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 564, 125
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+yulei
+  rotate: false
+  xy: 628, 197
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1

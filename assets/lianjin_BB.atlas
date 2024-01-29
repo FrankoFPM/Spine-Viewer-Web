@@ -1,0 +1,41 @@
+
+lianjin_BB.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 78
+  size: 421, 155
+  orig: 421, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 122, 235
+  size: 440, 148
+  orig: 440, 148
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 564, 232
+  size: 415, 151
+  orig: 415, 151
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 425, 2
+  size: 420, 228
+  orig: 420, 228
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 313
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ofs_qinghang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 502, 391
+  orig: 502, 391
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 395, 5
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: true
+  xy: 484, 94
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: true
+  xy: 395, 94
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

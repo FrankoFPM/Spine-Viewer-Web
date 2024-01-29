@@ -1,0 +1,244 @@
+
+binxifaniya.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 204, 7
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: false
+  xy: 654, 118
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 662, 207
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 702, 216
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 654, 98
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 662, 30
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 738, 216
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 662, 58
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 696, 169
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 662, 168
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 257, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hai_R
+  rotate: false
+  xy: 164, 2
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 2, 68
+  size: 186, 153
+  orig: 186, 153
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 2, 2
+  size: 64, 160
+  orig: 64, 160
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 464, 13
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 613, 112
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 408, 73
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 525, 94
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+jianzhuang_L2
+  rotate: false
+  xy: 508, 150
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 566, 163
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 157, 72
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 218, 72
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 469, 84
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 497, 84
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: true
+  xy: 395, 133
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 380, 11
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 296, 9
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 505, 4
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 612, 168
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+sleep7
+  rotate: true
+  xy: 157, 100
+  size: 154, 98
+  orig: 154, 98
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 450, 144
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 562, 5
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 279, 73
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: false
+  xy: 612, 5
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1

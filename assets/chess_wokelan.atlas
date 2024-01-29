@@ -1,0 +1,144 @@
+
+chess_wokelan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 2, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 445, 42
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 383, 540
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 721, 451
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 429
+  size: 379, 536
+  orig: 379, 536
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 826, 708
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 826, 840
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 554, 447
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 383, 447
+  size: 91, 169
+  orig: 91, 169
+  offset: 0, 0
+  index: -1
+
+chess_wokelan2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 2, 300
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 2, 577
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 376, 300
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 376, 577
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 2, 2
+  size: 339, 296
+  orig: 339, 296
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 343, 2
+  size: 339, 296
+  orig: 339, 296
+  offset: 0, 0
+  index: -1
+
+chess_wokelan3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 391, 372
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: true
+  xy: 2, 2
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 2, 408
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1

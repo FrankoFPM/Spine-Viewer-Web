@@ -1,0 +1,55 @@
+
+sr_zuishangdanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 560, 319
+  orig: 560, 319
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 593
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 85, 581
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 183, 580
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 265, 541
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 432
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 323
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

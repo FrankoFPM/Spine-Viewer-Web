@@ -1,0 +1,33 @@
+
+kaibaoxiang_boss.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang
+  rotate: false
+  xy: 2, 2
+  size: 451, 450
+  orig: 451, 450
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 454
+  size: 739, 444
+  orig: 739, 444
+  offset: 0, 0
+  index: -1
+
+kaibaoxiang_boss2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang_kai
+  rotate: false
+  xy: 2, 2
+  size: 476, 605
+  orig: 476, 605
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+qianhangyulei.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 533, 287
+  orig: 533, 287
+  offset: 0, 0
+  index: -1

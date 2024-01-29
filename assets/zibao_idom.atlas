@@ -1,0 +1,48 @@
+
+zibao_idom.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: true
+  xy: 2, 2
+  size: 225, 151
+  orig: 225, 151
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 155, 3
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 224, 3
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 293, 3
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 498, 77
+  size: 150, 133
+  orig: 150, 133
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 362, 77
+  size: 150, 134
+  orig: 150, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+zibao_doa.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 75
+  size: 224, 151
+  orig: 224, 151
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: false
+  xy: 2, 6
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 228, 159
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 228, 90
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 228, 2
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 228, 2
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1

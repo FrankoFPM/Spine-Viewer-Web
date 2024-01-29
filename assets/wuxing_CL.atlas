@@ -1,0 +1,48 @@
+
+wuxing_CL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 405, 129
+  size: 121, 113
+  orig: 121, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 474, 332
+  orig: 474, 332
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: true
+  xy: 405, 41
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 336, 252
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 336, 26
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 405, 252
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

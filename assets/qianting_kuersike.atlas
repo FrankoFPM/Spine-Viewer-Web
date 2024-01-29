@@ -1,0 +1,41 @@
+
+qianting_kuersike.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 565, 198
+  size: 509, 378
+  orig: 509, 378
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 2
+  size: 509, 378
+  orig: 509, 378
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 2, 600
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 491
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 382
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

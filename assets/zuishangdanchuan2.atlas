@@ -1,0 +1,55 @@
+
+zuishangdanchuan2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 560, 318
+  orig: 560, 318
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 591
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 84, 581
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 182, 578
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 265, 540
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 431
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 322
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

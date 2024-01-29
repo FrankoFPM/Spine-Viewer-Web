@@ -1,0 +1,41 @@
+
+CL_idom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 335
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 356, 2
+  size: 462, 321
+  orig: 462, 321
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 436, 325
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 240
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 82, 325
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

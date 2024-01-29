@@ -1,0 +1,55 @@
+
+shuilei1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom1
+  rotate: false
+  xy: 21, 26
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+boom2
+  rotate: false
+  xy: 108, 26
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+boom3
+  rotate: false
+  xy: 195, 26
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 282, 2
+  size: 95, 26
+  orig: 95, 26
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 310, 31
+  size: 95, 27
+  orig: 95, 27
+  offset: 0, 0
+  index: -1
+l3
+  rotate: true
+  xy: 282, 30
+  size: 96, 26
+  orig: 96, 26
+  offset: 0, 0
+  index: -1
+tielian
+  rotate: false
+  xy: 2, 15
+  size: 17, 111
+  orig: 17, 111
+  offset: 0, 0
+  index: -1

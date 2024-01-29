@@ -1,0 +1,83 @@
+
+qingyedanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: true
+  xy: 565, 76
+  size: 560, 212
+  orig: 560, 212
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 916, 411
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: true
+  xy: 779, 103
+  size: 533, 135
+  orig: 533, 135
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 329
+  size: 561, 307
+  orig: 561, 307
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: false
+  xy: 916, 489
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 916, 296
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 916, 563
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+yulei
+  rotate: false
+  xy: 916, 354
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 2, 220
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 111
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 2
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

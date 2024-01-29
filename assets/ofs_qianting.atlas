@@ -1,0 +1,41 @@
+
+ofs_qianting.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 398
+  size: 503, 394
+  orig: 503, 394
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 2
+  size: 503, 394
+  orig: 503, 394
+  offset: 0, 0
+  index: -1
+qt01
+  rotate: true
+  xy: 656, 259
+  size: 533, 141
+  orig: 533, 141
+  offset: 0, 0
+  index: -1
+qt02
+  rotate: true
+  xy: 507, 249
+  size: 543, 147
+  orig: 543, 147
+  offset: 0, 0
+  index: -1
+qt03
+  rotate: true
+  xy: 799, 274
+  size: 518, 145
+  orig: 518, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+srfeiji6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+srfeiji6
+  rotate: false
+  xy: 2, 2
+  size: 717, 480
+  orig: 717, 480
+  offset: 0, 0
+  index: -1

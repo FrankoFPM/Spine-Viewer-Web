@@ -1,0 +1,62 @@
+
+bailudanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: true
+  xy: 252, 113
+  size: 352, 177
+  orig: 352, 177
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 2
+  size: 324, 109
+  orig: 324, 109
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: true
+  xy: 2, 113
+  size: 352, 248
+  orig: 352, 248
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 328, 2
+  size: 275, 109
+  orig: 275, 109
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 431, 113
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 516, 113
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 601, 113
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 605, 46
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1

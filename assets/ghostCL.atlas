@@ -1,0 +1,13 @@
+
+ghostCL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 589, 369
+  orig: 589, 369
+  offset: 0, 0
+  index: -1

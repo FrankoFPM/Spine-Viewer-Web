@@ -1,0 +1,48 @@
+
+CL_holo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 451, 331
+  size: 460, 145
+  orig: 460, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 100
+  size: 446, 137
+  orig: 446, 137
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 451, 184
+  size: 452, 145
+  orig: 452, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 239
+  size: 447, 237
+  orig: 447, 237
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 913, 387
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+wen
+  rotate: false
+  xy: 450, 2
+  size: 377, 180
+  orig: 377, 180
+  offset: 0, 0
+  index: -1

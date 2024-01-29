@@ -1,0 +1,300 @@
+
+Vtuber_Fubuki_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 596, 4
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 438, 139
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 529, 144
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+dou
+  rotate: false
+  xy: 2, 30
+  size: 184, 81
+  orig: 184, 81
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 734, 161
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 496, 5
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 668, 3
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 310, 11
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 12
+  size: 92, 16
+  orig: 92, 16
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 359, 144
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: false
+  xy: 188, 31
+  size: 78, 11
+  orig: 78, 11
+  offset: 0, 0
+  index: -1
+eye_5
+  rotate: false
+  xy: 257, 136
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+eye_6
+  rotate: false
+  xy: 210, 2
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 113
+  size: 139, 141
+  orig: 139, 141
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: false
+  xy: 632, 83
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 719, 101
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 188, 44
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 315, 184
+  size: 70, 114
+  orig: 70, 114
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 143, 116
+  size: 50, 112
+  orig: 50, 112
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 678, 153
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 762, 161
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 790, 160
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 706, 159
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 572, 153
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 162, 3
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 788, 69
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 651, 146
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 807, 128
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 536, 80
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: false
+  xy: 431, 189
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 524, 189
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+meimao_3 (2)
+  rotate: false
+  xy: 785, 194
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 732, 15
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+meimao_5
+  rotate: false
+  xy: 701, 194
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+meimao_6
+  rotate: false
+  xy: 617, 191
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 143, 168
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: true
+  xy: 440, 63
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: true
+  xy: 344, 56
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+sleep3
+  rotate: false
+  xy: 413, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+wanou
+  rotate: false
+  xy: 485, 143
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+yulei
+  rotate: false
+  xy: 620, 145
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+zhupao
+  rotate: false
+  xy: 96, 7
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1

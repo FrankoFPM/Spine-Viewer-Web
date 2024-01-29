@@ -1,0 +1,48 @@
+
+DD_jiaotang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 378, 335
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 257
+  size: 374, 201
+  orig: 374, 201
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: false
+  xy: 378, 393
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 172
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

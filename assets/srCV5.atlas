@@ -1,0 +1,55 @@
+
+srCV5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 462, 29
+  size: 588, 142
+  orig: 588, 142
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 606, 214
+  size: 597, 140
+  orig: 597, 140
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 615, 147
+  orig: 615, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 619
+  size: 583, 338
+  orig: 583, 338
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 587, 813
+  size: 378, 144
+  orig: 378, 144
+  offset: 0, 0
+  index: -1
+wen
+  rotate: true
+  xy: 748, 282
+  size: 529, 195
+  orig: 529, 195
+  offset: 0, 0
+  index: -1
+wu
+  rotate: true
+  xy: 151, 169
+  size: 448, 309
+  orig: 448, 309
+  offset: 0, 0
+  index: -1

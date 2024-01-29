@@ -1,0 +1,34 @@
+
+wuxing_zibao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: true
+  xy: 2, 5
+  size: 221, 149
+  orig: 221, 149
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 153, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 222, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 291, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

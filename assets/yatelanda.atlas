@@ -1,0 +1,244 @@
+
+yatelanda.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 141, 12
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 595, 140
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 600, 77
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 645, 224
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 549, 138
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 642, 155
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 250, 2
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 289, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 506, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 546, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 645, 193
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 669, 199
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 295, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 146, 103
+  size: 151, 147
+  orig: 151, 147
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 80
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 317, 9
+  size: 132, 105
+  orig: 132, 105
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 433, 132
+  size: 51, 122
+  orig: 51, 122
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 549, 174
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 612, 15
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 624, 82
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 588, 190
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 569, 72
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 619, 191
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 586, 7
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: true
+  xy: 451, 10
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 486, 149
+  size: 105, 61
+  orig: 105, 61
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 250, 21
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 506, 30
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+pifeng_L
+  rotate: false
+  xy: 146, 83
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+pifeng_R
+  rotate: true
+  xy: 182, 83
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 200, 15
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 486, 132
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 2, 3
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 74, 8
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1

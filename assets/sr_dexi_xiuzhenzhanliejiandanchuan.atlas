@@ -1,0 +1,41 @@
+
+sr_dexi_xiuzhenzhanliejiandanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 476
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 668, 2
+  size: 547, 330
+  orig: 547, 330
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 105, 442
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 333
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 224
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

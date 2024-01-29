@@ -1,0 +1,286 @@
+
+hailunna.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 196, 48
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: false
+  xy: 289, 2
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 592, 34
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 742, 97
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 382, 80
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 653, 94
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 713, 129
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 714, 149
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 677, 5
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 607, 128
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 742, 69
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 742, 42
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 684, 36
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 742, 152
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 344, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 482, 118
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 48
+  size: 192, 206
+  orig: 192, 206
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 196, 101
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 592, 5
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 438, 84
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 499, 86
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 264, 52
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 157, 12
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 634, 7
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 635, 128
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 611, 102
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 717, 11
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+leida
+  rotate: false
+  xy: 684, 52
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 336, 4
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 528, 2
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 435, 17
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 607, 168
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: false
+  xy: 2, 6
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 751, 130
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 90, 9
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+weapon_L3
+  rotate: false
+  xy: 225, 12
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: true
+  xy: 320, 66
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: true
+  xy: 558, 88
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+zhui_1
+  rotate: true
+  xy: 662, 129
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+zhui_2
+  rotate: true
+  xy: 662, 148
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ofs_zibao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 228, 140
+  orig: 228, 140
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 144, 2
+  size: 228, 140
+  orig: 228, 140
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: false
+  xy: 286, 163
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 286, 94
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 286, 25
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

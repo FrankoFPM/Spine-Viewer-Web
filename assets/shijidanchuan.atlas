@@ -1,0 +1,41 @@
+
+shijidanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 233
+  size: 389, 260
+  orig: 389, 260
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 144
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 55
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 414, 83
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

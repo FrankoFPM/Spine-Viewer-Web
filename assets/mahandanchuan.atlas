@@ -1,0 +1,69 @@
+
+mahandanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 2
+  size: 348, 222
+  orig: 348, 222
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 352, 316
+  size: 334, 167
+  orig: 334, 167
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 226
+  size: 348, 257
+  orig: 348, 257
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 688, 390
+  size: 147, 93
+  orig: 147, 93
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 352, 231
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 352, 146
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 352, 61
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: false
+  xy: 352, 14
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 688, 349
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1

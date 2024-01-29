@@ -1,0 +1,265 @@
+
+asituoliya.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: true
+  xy: 356, 18
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 539, 48
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 591, 153
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 551, 116
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 545, 3
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 581, 118
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 227, 45
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 227, 17
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 613, 30
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 613, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 639, 132
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 489, 3
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 641, 52
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 653, 25
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 380, 116
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 248, 7
+  size: 106, 98
+  orig: 106, 98
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 218, 107
+  size: 70, 147
+  orig: 70, 147
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 290, 110
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 612, 120
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 581, 3
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 635, 80
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 642, 215
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 595, 207
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+jianzhuang1
+  rotate: false
+  xy: 551, 203
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+jianzhuang2
+  rotate: false
+  xy: 551, 151
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 607, 70
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 513, 4
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 638, 163
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 218, 84
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: false
+  xy: 2, 12
+  size: 126, 242
+  orig: 126, 242
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 428, 24
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 130, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 130, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep5
+  rotate: true
+  xy: 489, 28
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 192, 4
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 519, 186
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: true
+  xy: 519, 116
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1

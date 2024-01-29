@@ -1,0 +1,48 @@
+
+CA_idom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 578
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 80, 550
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 560, 316
+  orig: 560, 316
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 178, 534
+  size: 557, 100
+  orig: 557, 100
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 428
+  size: 555, 104
+  orig: 555, 104
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 320
+  size: 553, 106
+  orig: 553, 106
+  offset: 0, 0
+  index: -1

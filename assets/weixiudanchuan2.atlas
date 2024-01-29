@@ -1,0 +1,76 @@
+
+weixiudanchuan2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV2
+  rotate: true
+  xy: 231, 203
+  size: 194, 72
+  orig: 194, 72
+  offset: 0, 0
+  index: -1
+banshou
+  rotate: true
+  xy: 209, 50
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+banshou2
+  rotate: false
+  xy: 209, 112
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 228
+  size: 227, 169
+  orig: 227, 169
+  offset: 0, 0
+  index: -1
+ji
+  rotate: true
+  xy: 271, 154
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+ji_hand_L
+  rotate: false
+  xy: 305, 386
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+ji_hand_R
+  rotate: true
+  xy: 209, 209
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 2, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 71, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 140, 2
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

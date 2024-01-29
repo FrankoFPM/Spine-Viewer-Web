@@ -1,0 +1,265 @@
+
+takegift_salatuojia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 430, 362
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+body_tls
+  rotate: false
+  xy: 225, 157
+  size: 128, 154
+  orig: 128, 154
+  offset: 0, 0
+  index: -1
+body_tlx
+  rotate: false
+  xy: 685, 288
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+body_trs
+  rotate: true
+  xy: 220, 33
+  size: 122, 155
+  orig: 122, 155
+  offset: 0, 0
+  index: -1
+body_trx
+  rotate: true
+  xy: 889, 286
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 2, 2
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 428, 2
+  size: 149, 92
+  orig: 149, 92
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 889, 192
+  size: 133, 92
+  orig: 133, 92
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: true
+  xy: 690, 149
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 225, 313
+  size: 203, 192
+  orig: 203, 192
+  offset: 0, 0
+  index: -1
+fashi_F
+  rotate: false
+  xy: 685, 386
+  size: 163, 119
+  orig: 163, 119
+  offset: 0, 0
+  index: -1
+fashi_L
+  rotate: true
+  xy: 792, 80
+  size: 110, 118
+  orig: 110, 118
+  offset: 0, 0
+  index: -1
+fashi_R
+  rotate: true
+  xy: 675, 19
+  size: 128, 107
+  orig: 128, 107
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: true
+  xy: 545, 9
+  size: 153, 83
+  orig: 153, 83
+  offset: 0, 0
+  index: -1
+guangyun_1
+  rotate: false
+  xy: 355, 178
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangyun_2
+  rotate: false
+  xy: 196, 154
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+guangyun_3
+  rotate: false
+  xy: 176, 57
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 175
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: false
+  xy: 576, 287
+  size: 107, 218
+  orig: 107, 218
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 2, 79
+  size: 94, 192
+  orig: 94, 192
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: false
+  xy: 430, 153
+  size: 113, 207
+  orig: 113, 207
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 793, 192
+  size: 94, 192
+  orig: 94, 192
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 2, 307
+  size: 221, 198
+  orig: 221, 198
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 912, 77
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+hand_Ls2
+  rotate: false
+  xy: 377, 10
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 355, 200
+  size: 67, 111
+  orig: 67, 111
+  offset: 0, 0
+  index: -1
+hand_Rs1
+  rotate: false
+  xy: 630, 114
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+hand_Rs2
+  rotate: true
+  xy: 121, 32
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+hongxin_1
+  rotate: false
+  xy: 183, 178
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+hongxin_2
+  rotate: true
+  xy: 183, 222
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 130, 177
+  size: 51, 128
+  orig: 51, 128
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 377, 67
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+liwuhe
+  rotate: false
+  xy: 545, 164
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 183, 279
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 183, 250
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 183, 194
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+zuhe
+  rotate: false
+  xy: 850, 395
+  size: 170, 110
+  orig: 170, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,144 @@
+
+chess_ximu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 2, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 445, 70
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 421, 573
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 772, 489
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 429
+  size: 417, 569
+  orig: 417, 569
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 864, 741
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 864, 873
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 864, 625
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 600, 481
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 421, 475
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+
+chess_ximu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 2, 637
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 2, 259
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: false
+  xy: 408, 396
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 2, 2
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 408, 673
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 408, 119
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+
+chess_ximu3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-5
+  rotate: false
+  xy: 2, 8
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 376, 2
+  size: 261, 304
+  orig: 261, 304
+  offset: 0, 0
+  index: -1

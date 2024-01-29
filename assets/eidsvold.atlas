@@ -1,0 +1,41 @@
+
+eidsvold.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qz01
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 116
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 377, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 2, 201
+  size: 373, 238
+  orig: 373, 238
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 356, 38
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+yuekechengdanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 631, 468
+  orig: 631, 468
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: true
+  xy: 724, 60
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: true
+  xy: 813, 60
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: true
+  xy: 635, 60
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

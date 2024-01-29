@@ -1,0 +1,144 @@
+
+chess_beifeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: true
+  xy: 2, 100
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 442, 606
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: true
+  xy: 429, 100
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 543
+  size: 438, 469
+  orig: 438, 469
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 584, 22
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 714, 20
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 181, 8
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 2, 2
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 353, 52
+  size: 46, 229
+  orig: 46, 229
+  offset: 0, 0
+  index: -1
+
+chess_beifeng2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 2, 637
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 2, 259
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: false
+  xy: 408, 396
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 2, 2
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 408, 673
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 408, 119
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+
+chess_beifeng3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-5
+  rotate: false
+  xy: 2, 59
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 699, 2
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 376, 27
+  size: 321, 287
+  orig: 321, 287
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+sairenboss19.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 432, 7
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+body_d
+  rotate: true
+  xy: 957, 129
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+body_lf
+  rotate: true
+  xy: 1025, 51
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+body_rf
+  rotate: false
+  xy: 361, 5
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 864, 3
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 619, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 650, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: true
+  xy: 681, 4
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: true
+  xy: 833, 12
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+eye_99
+  rotate: false
+  xy: 75, 14
+  size: 96, 13
+  orig: 96, 13
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 707, 116
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 864, 36
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 256, 63
+  size: 73, 191
+  orig: 73, 191
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 1017, 171
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 184, 61
+  size: 70, 193
+  orig: 70, 193
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 1024, 129
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 449, 107
+  size: 147, 124
+  orig: 147, 124
+  offset: 0, 0
+  index: -1
+hair_bf
+  rotate: true
+  xy: 2, 29
+  size: 225, 180
+  orig: 225, 180
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 960, 8
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1090, 140
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+hand_Ls1
+  rotate: true
+  xy: 1062, 178
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 449, 77
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 932, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_Rs2
+  rotate: true
+  xy: 968, 49
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 331, 77
+  size: 177, 116
+  orig: 177, 116
+  offset: 0, 0
+  index: -1
+hat_L1
+  rotate: false
+  xy: 841, 128
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+hat_R
+  rotate: false
+  xy: 575, 108
+  size: 130, 146
+  orig: 130, 146
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 489, 3
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: false
+  xy: 712, 6
+  size: 119, 108
+  orig: 119, 108
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 1026, 3
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L1s
+  rotate: true
+  xy: 2, 5
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+leg_L2s
+  rotate: true
+  xy: 893, 7
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 998, 4
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 39, 5
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 910, 37
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: false
+  xy: 184, 2
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 274, 3
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 957, 169
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+sr_dexi_zhanliedanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 803, 414
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 803, 323
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 148
+  size: 561, 355
+  orig: 561, 355
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 29
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: true
+  xy: 684, 2
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 565, 2
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

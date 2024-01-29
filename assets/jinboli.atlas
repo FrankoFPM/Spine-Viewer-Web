@@ -1,0 +1,237 @@
+
+jinboli.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 434, 11
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 585, 65
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 666, 3
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 698, 56
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 382, 87
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 421, 87
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 503, 87
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 695, 88
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: false
+  xy: 598, 3
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 574, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 455, 115
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 137, 72
+  size: 182, 155
+  orig: 182, 155
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 594, 128
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 70, 71
+  size: 65, 183
+  orig: 65, 183
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 2, 70
+  size: 66, 184
+  orig: 66, 184
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 509, 47
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 659, 84
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 666, 43
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 509, 7
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 382, 106
+  size: 148, 71
+  orig: 148, 71
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 2, 2
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+jianzhuang
+  rotate: true
+  xy: 627, 28
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 632, 82
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 629, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 455, 87
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 543, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 252, 18
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 170, 10
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 294, 84
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 543, 27
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 361, 3
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 86, 7
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+yulei
+  rotate: true
+  xy: 585, 27
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1

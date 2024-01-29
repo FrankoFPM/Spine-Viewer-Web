@@ -1,0 +1,97 @@
+
+idomxunzhang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 162, 139
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 86
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+button1
+  rotate: false
+  xy: 229, 5
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 253, 6
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+button3
+  rotate: false
+  xy: 229, 66
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+button3_2
+  rotate: false
+  xy: 229, 32
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 139, 87
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+lgt1
+  rotate: false
+  xy: 2, 2
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+lgt2
+  rotate: false
+  xy: 78, 4
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+lgt3
+  rotate: false
+  xy: 41, 3
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 211, 100
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 139, 132
+  size: 120, 21
+  orig: 120, 21
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: false
+  xy: 115, 13
+  size: 112, 71
+  orig: 112, 71
+  offset: 0, 0
+  index: -1

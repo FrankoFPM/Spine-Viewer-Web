@@ -1,0 +1,41 @@
+
+sr_dexi_quzhudanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 205
+  size: 362, 234
+  orig: 362, 234
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 120
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 366, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 356, 27
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1

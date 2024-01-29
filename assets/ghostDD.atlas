@@ -1,0 +1,20 @@
+
+ghostDD.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 458, 255
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 454, 306
+  orig: 454, 306
+  offset: 0, 0
+  index: -1

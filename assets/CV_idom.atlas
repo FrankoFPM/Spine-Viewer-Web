@@ -1,0 +1,34 @@
+
+CV_idom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 539, 425
+  orig: 539, 425
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 543, 251
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 543, 162
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: false
+  xy: 543, 340
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1

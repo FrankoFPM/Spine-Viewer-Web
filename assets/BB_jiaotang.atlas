@@ -1,0 +1,55 @@
+
+BB_jiaotang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 437, 554
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 437, 554
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 619
+  size: 554, 344
+  orig: 554, 344
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: false
+  xy: 558, 857
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: true
+  xy: 293, 29
+  size: 588, 142
+  orig: 588, 142
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: true
+  xy: 151, 20
+  size: 597, 140
+  orig: 597, 140
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 2, 2
+  size: 615, 147
+  orig: 615, 147
+  offset: 0, 0
+  index: -1

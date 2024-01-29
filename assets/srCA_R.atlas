@@ -1,0 +1,69 @@
+
+srCA_R.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 402, 294
+  size: 387, 79
+  orig: 387, 79
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 356, 191
+  size: 393, 101
+  orig: 393, 101
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 86
+  size: 381, 103
+  orig: 381, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 385, 2
+  size: 378, 187
+  orig: 378, 187
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 129, 302
+  size: 271, 71
+  orig: 271, 71
+  offset: 0, 0
+  index: -1
+qizi
+  rotate: false
+  xy: 2, 210
+  size: 352, 90
+  orig: 352, 90
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 38, 317
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+wen
+  rotate: true
+  xy: 791, 35
+  size: 338, 158
+  orig: 338, 158
+  offset: 0, 0
+  index: -1
+wen2
+  rotate: false
+  xy: 2, 354
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1

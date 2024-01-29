@@ -1,0 +1,244 @@
+
+changliang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: true
+  xy: 504, 149
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 392, 174
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: false
+  xy: 572, 150
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 328, 6
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 619, 166
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 623, 203
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 647, 175
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 455, 55
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 495, 55
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 648, 228
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 629, 139
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 134, 116
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 272, 134
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 106
+  size: 130, 148
+  orig: 130, 148
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 455, 83
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 325, 38
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 392, 136
+  size: 36, 110
+  orig: 36, 110
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 460, 190
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 605, 56
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 371, 7
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 535, 55
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 574, 57
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 174, 32
+  size: 149, 82
+  orig: 149, 82
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 284, 5
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 623, 222
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 240, 4
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 174, 5
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 543, 200
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 393, 54
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_7
+  rotate: false
+  xy: 547, 93
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 2, 18
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+sleep4
+  rotate: false
+  xy: 411, 2
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 497, 11
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 573, 9
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1

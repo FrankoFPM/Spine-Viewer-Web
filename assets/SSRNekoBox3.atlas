@@ -1,0 +1,69 @@
+
+SSRNekoBox3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX
+  rotate: true
+  xy: 625, 56
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+SSRxiangzi31
+  rotate: false
+  xy: 2, 38
+  size: 267, 216
+  orig: 267, 216
+  offset: 0, 0
+  index: -1
+SSRxiangzi32
+  rotate: false
+  xy: 271, 116
+  size: 262, 138
+  orig: 262, 138
+  offset: 0, 0
+  index: -1
+cat32
+  rotate: true
+  xy: 742, 78
+  size: 176, 167
+  orig: 176, 167
+  offset: 0, 0
+  index: -1
+gaizi31
+  rotate: false
+  xy: 271, 6
+  size: 220, 108
+  orig: 220, 108
+  offset: 0, 0
+  index: -1
+gaizi32
+  rotate: false
+  xy: 535, 141
+  size: 205, 113
+  orig: 205, 113
+  offset: 0, 0
+  index: -1
+guaishi1
+  rotate: true
+  xy: 689, 13
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+guaishi2
+  rotate: false
+  xy: 493, 4
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 625, 2
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1

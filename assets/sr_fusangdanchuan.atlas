@@ -1,0 +1,41 @@
+
+sr_fusangdanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 177
+  size: 561, 326
+  orig: 561, 326
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 803, 424
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: true
+  xy: 565, 2
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 58
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 684, 2
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

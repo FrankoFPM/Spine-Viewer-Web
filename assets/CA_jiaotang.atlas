@@ -1,0 +1,48 @@
+
+CA_jiaotang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 51, 592
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 565, 2
+  size: 557, 388
+  orig: 557, 388
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: true
+  xy: 2, 623
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 157, 561
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 452
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 343
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

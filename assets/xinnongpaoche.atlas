@@ -1,0 +1,48 @@
+
+xinnongpaoche.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-1
+  rotate: false
+  xy: 513, 58
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+F-1
+  rotate: false
+  xy: 513, 58
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+B-2
+  rotate: false
+  xy: 665, 58
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+F-2
+  rotate: false
+  xy: 665, 58
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+B-up
+  rotate: false
+  xy: 2, 2
+  size: 260, 160
+  orig: 260, 160
+  offset: 0, 0
+  index: -1
+F-up
+  rotate: false
+  xy: 264, 6
+  size: 247, 156
+  orig: 247, 156
+  offset: 0, 0
+  index: -1

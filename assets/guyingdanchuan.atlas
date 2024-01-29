@@ -1,0 +1,69 @@
+
+guyingdanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 8
+  size: 560, 211
+  orig: 560, 211
+  offset: 0, 0
+  index: -1
+chuanti_1
+  rotate: true
+  xy: 565, 2
+  size: 561, 300
+  orig: 561, 300
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 744, 565
+  size: 176, 138
+  orig: 176, 138
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 221
+  size: 533, 155
+  orig: 533, 155
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 2, 646
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 80, 630
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 181, 596
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 487
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 378
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

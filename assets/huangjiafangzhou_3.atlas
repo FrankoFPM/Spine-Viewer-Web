@@ -1,0 +1,195 @@
+
+huangjiafangzhou_3.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 209, 459
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 118, 223
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 212, 277
+  size: 92, 16
+  orig: 92, 16
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 174, 121
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 366
+  size: 149, 141
+  orig: 149, 141
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 216
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 153, 361
+  size: 54, 146
+  orig: 54, 146
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 230, 279
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 174, 56
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 135, 99
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 174, 20
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 210, 223
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 108, 70
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 202, 36
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 80, 68
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 135, 68
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 121, 128
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: false
+  xy: 88, 8
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 174, 161
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: true
+  xy: 2, 66
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 118, 259
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+pifengL
+  rotate: false
+  xy: 80, 116
+  size: 39, 98
+  orig: 39, 98
+  offset: 0, 0
+  index: -1
+sleep6
+  rotate: true
+  xy: 209, 371
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: true
+  xy: 211, 88
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: true
+  xy: 174, 91
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+xiangji
+  rotate: false
+  xy: 202, 60
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

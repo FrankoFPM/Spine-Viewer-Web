@@ -1,0 +1,97 @@
+
+wuxing_x.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 269, 1284
+  size: 818, 261
+  orig: 818, 261
+  offset: 0, 0
+  index: -1
+heiwu_1
+  rotate: false
+  xy: 648, 1547
+  size: 831, 236
+  orig: 831, 236
+  offset: 0, 0
+  index: -1
+heiwu_2
+  rotate: false
+  xy: 665, 684
+  size: 831, 499
+  orig: 831, 499
+  offset: 0, 0
+  index: -1
+heiyan_n
+  rotate: false
+  xy: 1089, 1185
+  size: 813, 354
+  orig: 813, 354
+  offset: 0, 0
+  index: -1
+longshen_1
+  rotate: true
+  xy: 609, 2
+  size: 680, 768
+  orig: 680, 768
+  offset: 0, 0
+  index: -1
+longshen_2
+  rotate: false
+  xy: 2, 239
+  size: 605, 575
+  orig: 605, 575
+  offset: 0, 0
+  index: -1
+longshen_3
+  rotate: false
+  xy: 2, 816
+  size: 661, 466
+  orig: 661, 466
+  offset: 0, 0
+  index: -1
+longtou_1
+  rotate: false
+  xy: 1481, 1541
+  size: 251, 242
+  orig: 251, 242
+  offset: 0, 0
+  index: -1
+longtou_1x
+  rotate: false
+  xy: 1734, 1541
+  size: 251, 242
+  orig: 251, 242
+  offset: 0, 0
+  index: -1
+longtou_2
+  rotate: false
+  xy: 2, 1619
+  size: 221, 164
+  orig: 221, 164
+  offset: 0, 0
+  index: -1
+longtou_2x
+  rotate: false
+  xy: 225, 1619
+  size: 221, 164
+  orig: 221, 164
+  offset: 0, 0
+  index: -1
+longxu_1
+  rotate: true
+  xy: 2, 1374
+  size: 243, 265
+  orig: 243, 265
+  offset: 0, 0
+  index: -1
+longxu_2
+  rotate: true
+  xy: 448, 1610
+  size: 173, 198
+  orig: 173, 198
+  offset: 0, 0
+  index: -1

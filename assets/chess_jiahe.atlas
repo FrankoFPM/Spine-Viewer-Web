@@ -1,0 +1,186 @@
+
+chess_jiahe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 2, 36
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 271, 313
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 376, 2
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 645, 279
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 726, 759
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+dangban
+  rotate: false
+  xy: 826, 758
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 300, 777
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 427, 769
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 549, 570
+  size: 187, 188
+  orig: 187, 188
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: true
+  xy: 181, 690
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 554, 760
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 2, 728
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 2, 451
+  size: 237, 267
+  orig: 237, 267
+  offset: 0, 0
+  index: -1
+toufa_2
+  rotate: true
+  xy: 209, 817
+  size: 33, 89
+  orig: 33, 89
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: true
+  xy: 739, 536
+  size: 220, 246
+  orig: 220, 246
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 297, 591
+  size: 250, 176
+  orig: 250, 176
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 2, 826
+  size: 24, 205
+  orig: 24, 205
+  offset: 0, 0
+  index: -1
+
+chess_jiahe2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 391, 403
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: true
+  xy: 2, 33
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 2, 439
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: true
+  xy: 380, 2
+  size: 399, 410
+  orig: 399, 410
+  offset: 0, 0
+  index: -1
+
+chess_jiahe3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 2, 429
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 445, 448
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 2, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
