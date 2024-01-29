@@ -8,7 +8,7 @@ export function SetSpriteProvider({ children }) {
     SetSpriteProvider.propTypes = {
         children: PropTypes.node.isRequired,
     };
-    const [sprites, setSprites] = useState([{ asset: "xuefeng_h", name: "yukikaze" }]);
+    const [sprites, setSprites] = useState([{ asset: null, name: "yukikaze" }]);
     const addSprite = useCallback((sprite) => {
         setSprites(prevSprites => [...prevSprites, sprite]);
     }, []);

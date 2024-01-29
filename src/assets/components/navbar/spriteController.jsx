@@ -80,15 +80,13 @@ export default function SpriteController({ sprite, onRemove }) {
     };
 
     const handleAnimationChange = (e) => {
-
         const animationName = e.target.value
-        console.log(animationName);
         sprite.state.setAnimation(0, animationName, true);
     };
 
     const handleZoomChange = (zoom) => {
-        sprite.scale.x = zoom;
-        sprite.scale.y = zoom;
+        sprite.scale.x = sprite.scale.x < 0 ? -zoom : zoom;
+        sprite.scale.y = sprite.scale.y < 0 ? -zoom : zoom;
     };
 
     const handleSpeedChange = (speed) => {

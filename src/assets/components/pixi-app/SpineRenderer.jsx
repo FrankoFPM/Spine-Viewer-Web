@@ -46,9 +46,9 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
 
                     }
                     PIXI.Assets.load(characterPath).then((resource) => {
-                        console.log(resource)
+                        //console.log(resource)
                         const spine = new Spine(resource.spineData);
-                        console.log(spine)
+                        //console.log(spine)
                         spine.scale.set(0.5);
                         spine.x = canvas.screen.width / 2;
                         spine.y = canvas.screen.height / 1.2;
@@ -61,7 +61,7 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
                         setupInteractivity(spine);
                         canvas.stage.addChild(spine);
 
-                        console.log(toastId)
+                        //console.log(toastId)
 
                         toast.update(toastId, {
                             render: "Spine rendered successfully",

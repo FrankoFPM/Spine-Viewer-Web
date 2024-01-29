@@ -1,6 +1,5 @@
 import { Button } from "@nextui-org/react";
 import { useContext, useRef, useState } from "react";
-import { SetAppContext } from "./context/SetApp";
 import * as PIXI from 'pixi.js'
 import '@pixi-spine/all-3.8';
 import { Spine, SkeletonBinary, TextureAtlas, AtlasAttachmentLoader } from '@pixi-spine/all-3.8';
@@ -16,14 +15,12 @@ export default function UploadButtons({ onOpenChange }) {
     const [active, setActive] = useState(true);
     const [nameFile, setNameFile] = useState(null);
 
-    const { appGlobal } = useContext(SetAppContext);
     const { assets, setAssets } = useContext(SetAssetsContext);
     const { setToastId } = useContext(SetToastContext);
 
 
     const handleUploadClick = () => {
         fileRef.current.click();
-        console.log(appGlobal);
     };
 
     async function blobUrlToArrayBuffer(blobUrl) {
@@ -61,9 +58,9 @@ export default function UploadButtons({ onOpenChange }) {
 
                     var spineBinaryParser = new SkeletonBinary(spineAtlasLoader);
                     var spineData = spineBinaryParser.readSkeletonData(rawSkeletonData);
-                    console.log(spineData);
+                    //console.log(spineData);
                     const spine = new Spine(spineData);
-                    console.log(spine);
+                    //console.log(spine);
                     if (spine.spineData.version.includes("3.8")) {
                         setAssets((prevAssets) => [...prevAssets, { name: nameFile, id: id + 1, spine: spine }]);
                     } else {

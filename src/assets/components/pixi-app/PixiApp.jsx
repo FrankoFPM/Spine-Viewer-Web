@@ -43,7 +43,6 @@ const PixiApp = ({ canvasId }) => {
 
     const handleSpriteClick = (name) => {
         setExpandedSprite(expandedSprite === name ? null : name);
-        console.log(expandedSprite);
     };
 
     return (
