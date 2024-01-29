@@ -9,7 +9,7 @@ import { SetToastContext } from '../context/SetToast';
 import { toast } from 'react-toastify';
 
 
-const path = '/assets/';
+const path = './assets/';
 
 
 const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspine }) => {
@@ -30,6 +30,12 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
             fetch(characterPath)
                 .then(response => {
                     if (!response.ok) {
+                        toast.update(toastId, {
+                            render: `HTTP error! status: ${response.status}`,
+                            type: "error",
+                            isLoading: false,
+                            autoClose: 2500
+                        });
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
                     return response.text();
