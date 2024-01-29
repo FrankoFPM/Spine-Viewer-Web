@@ -37,7 +37,7 @@ const PixiApp = ({ canvasId }) => {
 
         setApp(pixiApp);
         setAppGlobal(pixiApp);
-    }, [canvasId]);
+    }, [canvasId, setAppGlobal]);
     const [expandedSprite, setExpandedSprite] = useState(null);
 
 

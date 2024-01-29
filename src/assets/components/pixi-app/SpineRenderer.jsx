@@ -96,7 +96,7 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
             });
 
         }
-    }, [canvas, character]);
+    }, [canvas, character, Assetspine]);
 
     const [isSpriteVisible, setIsSpriteVisible] = useState(true);
 
