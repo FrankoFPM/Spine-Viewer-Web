@@ -12,6 +12,18 @@ _Read this in other languages: [Español](README.es.md)._
 - Supports Spine assets of version 3.8
 - Compatible with most modern web browsers
 
+## Prerequisites
+
+Before you can run this project, you must have Node.js installed on your machine. This project has been tested and developed with Node.js version v18.17.1, so we recommend using at least that version to avoid potential compatibility issues.
+
+You can download Node.js from the [official Node.js website](https://nodejs.org/).
+
+To check the version of Node.js you have installed, you can use the following command in your terminal:
+
+```bash
+node --version
+```
+
 ## Installation
 
 To install and run the application on your local machine, follow these steps:
@@ -28,19 +40,15 @@ To use the application, you need to have spine files in .skel format, which are 
 
 To load a spine file, click on the "Upload asset" button and select the files of the spine you want to see, then on the "GO" button. The application will display the spine in the visualization window, and you can control the animation with the side controls. You can also change the background of the player with the "Background" button, you can choose a color or your own image.
 
-This project aims to visualize sprites. In particular, it focuses on the sprites of the game Azur Lane, owned by Yostar. This repository does not contain any asset of the game, and each user must provide their own. This application has no commercial purposes, and only intends to be a visualization and learning tool.
+This project aims to visualize sprites. In particular, it focuses on the sprites of the [Azur Lane](https://azurlane.yo-star.com/#/) belong to [Yostar](https://yostar.store/) game, owned by [Yostar](https://yostar.store/). Each user has the option to provide their own assets if they wish. This application is not for commercial purposes and aims to be a visualization and learning tool.
 
 > [!NOTE]
 > You must select the 3 files of the sprite, they must have the same name
 > The extensions for the 3 files must be `.atlas`, `.skel` and `.png`
 
 > [!IMPORTANT]
-> This application is an independent and unofficial project, which has
-> no relationship or affiliation with Yostar, the company that owns the game Azur Lane.
-> All copyrights and trademarks of Azur Lane belong to Yostar and their
-> respective creators. This application only uses some names of characters from the game
-> for educational and tribute purposes, without intending to violate the copyrights or
-> obtain economic benefits.
+> This application is an independent and unofficial project, which has no relationship or affiliation with [Yostar](https://yostar.store/), the company that owns the game Azur Lane.
+> All copyrights and trademarks of [Azur Lane](https://azurlane.yo-star.com/#/) belong to [Yostar](https://yostar.store/) and their respective creators. This application only uses some names of characters from the game for educational and tribute purposes, without intending to violate the copyrights or obtain economic benefits.
 
 ## Contribution
 
@@ -49,6 +57,8 @@ If you like this application and want to contribute to its development or improv
 - Report errors or suggest new features through GitHub issues
 - Send pull requests with your own changes or improvements to the code
 - Share the application with other users who may be interested
+
+- For more information on how to obtain the assets, please refer to the [Asset Guide](/public/assets/contributing.md)
 
 ## License
 

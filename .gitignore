@@ -22,4 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-public/assets/*
+public/assets/*.skel
+public/assets/*.atlas
+public/assets/*.png
