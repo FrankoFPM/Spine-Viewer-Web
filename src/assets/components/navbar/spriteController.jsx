@@ -44,6 +44,7 @@ function RangeController({ name, min, max, step, initvalue, setChange }) {
                         onKeyDown={(e) => {
                             if (e.key === "Enter" && !isNaN(Number(inputValue))) {
                                 setValue(Number(inputValue));
+                                setChange(Number(inputValue));
                             }
                         }}
                     />

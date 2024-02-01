@@ -41,7 +41,7 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
                     return response.text();
                 })
                 .then(content => {
-                    if (content.length < 700) {
+                    if (content.length < 1000 || content.includes('html')) {
                         toast.update(toastId, {
                             render: "Spine render failed (Resource is empty)",
                             type: "error",
@@ -49,7 +49,6 @@ const SpineRenderer = ({ character, name, canvas, isExpanded, onClick, Assetspin
                             autoClose: 2500
                         });
                         throw new Error('Resource is empty');
-
                     }
                     PIXI.Assets.load(characterPath).then((resource) => {
                         //console.log(resource)
