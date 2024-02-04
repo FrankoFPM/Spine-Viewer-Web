@@ -6,24 +6,28 @@ import PropTypes from 'prop-types';
 
 function Sprite({ name, isExpanded, onClick, sprite, skin, onRemove }) {
     const skinDictionary = {
-        "_h": "Oath",
-        "_g": "Retrofit",
-        "_dark": "Meta",
+        "h": "Oath",
+        "g": "Retrofit",
+        "dark": "Meta",
+        "alter": "Meta",
+        "younv": "Little",
+        "idol": "Idol",
     };
 
     let resultSkin = "Default";
-    for (let key in skinDictionary) {
-        if (skin.includes(key)) {
-            resultSkin = skinDictionary[key];
-            break;
-        }
+    let skinSuffix = skin.split("_").pop();
+    if (Object.prototype.hasOwnProperty.call(skinDictionary, skinSuffix)) {
+        resultSkin = skinDictionary[skinSuffix];
     }
 
-    if (resultSkin === "Default") {
-        // Busca un número en la skin
-        const match = skin.match(/\d+/);
+    if (resultSkin === "Default" && skin.includes("_")) {
+        // Busca un número en la skinSuffix
+        const match = skinSuffix.match(/\d+/);
         if (match) {
             resultSkin = "Skin " + match[0];
+        } else if (skinSuffix.match(/[a-z]/i)) {
+            // Si skinSuffix es una letra y no está en skinDictionary
+            resultSkin = "Unknown";
         }
     }
 

@@ -24,7 +24,6 @@ export default function ChipCharacter({ name, faction, base, onOpenChange }) {
     return (
         <>
             <Chip
-                //key={name + faction} // Asegúrate de que esta clave sea única para cada Chip
                 className="text-white min-w-[120px] max-w-[120px] hover:brightness-90 cursor-pointer"
                 variant="dot"
                 classNames={{

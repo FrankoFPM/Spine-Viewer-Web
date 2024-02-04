@@ -72,7 +72,25 @@ export default function ModalSkins({ isOpen, onClose, name, base, onOpenChange }
                                                 >
                                                     <div className="truncate">
                                                         {
-                                                            skin.includes("_h") ? "Oath" : (skin.includes("_g") ? "Retrofit" : (skin.includes("_") ? skin : "Default"))
+                                                            (() => {
+                                                                const skinDictionary = {
+                                                                    "h": "Oath",
+                                                                    "g": "Retrofit",
+                                                                    "alter": "META",
+                                                                    "younv": "Little",
+                                                                    "dark": "META",
+                                                                    "idol": "Idol",
+                                                                };
+
+                                                                let skinSuffix = skin.split("_").pop();
+                                                                let result = skinDictionary[skinSuffix];
+
+                                                                if (!result) {
+                                                                    result = skin.includes("_") ? skin : "Default";
+                                                                }
+
+                                                                return result;
+                                                            })()
                                                         }
                                                     </div>
                                                 </Button>

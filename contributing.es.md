@@ -17,7 +17,7 @@ Cada Texture2D debería tener un .atlas y un .skel correspondiente. Por lo tanto
 
 Si instalas la app localmente deberas colocar los assets en la carpeta `public/assets/`
 
-Ten en cuenta que he encontrado que las extracciones .atlas y .skel se anexan con una extensión .asset, que deberás eliminar antes usarlas. Puedes usar el siguiente codigo para hacer mas rapido, debes tener instalado python para ejecutarlo
+Ten en cuenta que las extracciones .atlas y .skel se anexan con una extensión .asset, que deberás eliminar antes usarlas. Puedes usar el siguiente codigo para hacer mas rapido, debes tener instalado python para ejecutarlo
 
 ```python
 import os

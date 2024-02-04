@@ -17,7 +17,7 @@ Each Texture2D should have a corresponding .atlas and .skel. Therefore, you can 
 
 If you install the app locally you should place the assets in the `public/assets/` folder
 
-Please note that I have found that the .atlas and .skel extractions are appended with a .asset extension, which you will need to remove before using them. You can use the following code to make it faster, you must have python installed to run it
+Please note that the .atlas and .skel extractions are appended with a .asset extension, which you will need to remove before using them. You can use the following code to make it faster, you must have python installed to run it
 
 ```python
 import os

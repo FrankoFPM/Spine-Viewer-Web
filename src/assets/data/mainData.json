@@ -48,7 +48,9 @@
             "sipeibojue_2",
             "sipeibojue_3",
             "sipeibojue_4",
-            "sipeibojue_5"
+            "sipeibojue_5",
+            "sipeibojue_younv",
+            "sipeibojue_zhua"
         ]
     },
     "admiral_hipper": {
@@ -57,7 +59,9 @@
         "group": "Ironblood",
         "skin": [
             "xipeierhaijunshangjiang",
-            "xipeierhaijunshangjiang_3"
+            "xipeierhaijunshangjiang_3",
+            "xipeierhaijunshangjiang_3_hx",
+            "xipeierhaijunshangjiang_hx"
         ]
     },
     "admiral_hipper_idol": {
@@ -65,7 +69,8 @@
         "type": "Heavy Cruiser",
         "group": "Ironblood",
         "skin": [
-            "xipeier_idol"
+            "xipeier_idol",
+            "xipeier_idol_hx"
         ]
     },
     "agano": {
@@ -74,8 +79,8 @@
         "group": "Sakura Empire",
         "skin": [
             "aheye",
-            "aheye_3",
             "aheye_2",
+            "aheye_3",
             "aheye_4"
         ]
     },
@@ -86,7 +91,8 @@
         "skin": [
             "aijier",
             "aijier_2",
-            "aijier_3"
+            "aijier_3",
+            "aijier_3_hx"
         ]
     },
     "ajax": {
@@ -111,7 +117,9 @@
             "chicheng_4",
             "chicheng_5",
             "chicheng_6",
-            "chicheng_h"
+            "chicheng_h",
+            "chicheng_idol",
+            "chicheng_younv"
         ]
     },
     "akagi_idol": {
@@ -171,7 +179,8 @@
         "skin": [
             "daqinghuayu",
             "daqinghuayu_3",
-            "daqinghuayu_4"
+            "daqinghuayu_4",
+            "daqinghuayu_idol"
         ]
     },
     "albacore_idol": {
@@ -207,7 +216,8 @@
         "skin": [
             "aerjiliya",
             "aerjiliya_2",
-            "aerjiliya_3"
+            "aerjiliya_3",
+            "aerjiliya_alter"
         ]
     },
     "algerie_meta": {
@@ -234,7 +244,8 @@
         "skin": [
             "tiancheng",
             "tiancheng_2",
-            "tiancheng_3"
+            "tiancheng_3",
+            "tiancheng_younv"
         ]
     },
     "amagichan": {
@@ -308,7 +319,8 @@
         "skin": [
             "tianying",
             "tianying_2",
-            "tianying_3"
+            "tianying_3",
+            "tianying_2_hx"
         ]
     },
     "arashio": {
@@ -355,7 +367,8 @@
         "group": "Royal Navy",
         "skin": [
             "baiyanjuren",
-            "baiyanjuren_2"
+            "baiyanjuren_2",
+            "baiyanjuren_3"
         ]
     },
     "ariake": {
@@ -374,7 +387,9 @@
         "group": "Eagle Union",
         "skin": [
             "yalisangna",
-            "yalisangna_2"
+            "yalisangna_2",
+            "yalisangna_2_hx",
+            "yalisangna_alter"
         ]
     },
     "arizona_meta": {
@@ -395,8 +410,9 @@
             "huangjiafangzhou_3",
             "huangjiafangzhou_4",
             "huangjiafangzhou_5",
-            "huangjiafangzhou_h",
-            "huangjiafangzhou_g"
+            "huangjiafangzhou_alter",
+            "huangjiafangzhou_g",
+            "huangjiafangzhou_h"
         ]
     },
     "ark_royal_meta": {
@@ -523,7 +539,6 @@
         "skin": [
             "lingbo",
             "lingbo_2",
-            "lingbo_3",
             "lingbo_4",
             "lingbo_5",
             "lingbo_6",
@@ -536,8 +551,8 @@
             "lingbo_14",
             "lingbo_15",
             "lingbo_16",
-            "lingbo_h",
-            "lingbo_g"
+            "lingbo_g",
+            "lingbo_h"
         ]
     },
     "aylwin": {
@@ -599,7 +614,8 @@
             "baerdimo_3",
             "baerdimo_4",
             "baerdimo_5",
-            "baerdimo_6"
+            "baerdimo_6",
+            "baerdimo_idol"
         ]
     },
     "baltimore_idol": {
@@ -656,7 +672,8 @@
             "beierfasite_5",
             "beierfasite_7",
             "beierfasite_8",
-            "beierfasite_h"
+            "beierfasite_h",
+            "beierfasite_younv"
         ]
     },
     "bellona": {
@@ -753,7 +770,9 @@
         "group": "Ironblood",
         "skin": [
             "bulvxieer",
-            "bulvxieer_2"
+            "bulvxieer_2",
+            "bulvxieer_2_hx",
+            "bulvxieer_hx"
         ]
     },
     "bluegill": {
@@ -804,7 +823,8 @@
             "bulaimodun_2",
             "bulaimodun_3",
             "bulaimodun_4",
-            "bulaimodun_5"
+            "bulaimodun_5",
+            "bulaimodun_4_hx"
         ]
     },
     "brest": {
@@ -946,7 +966,8 @@
         "skin": [
             "banrenma",
             "banrenma_2",
-            "banrenma_3"
+            "banrenma_3",
+            "banrenma_hx"
         ]
     },
     "champagne": {
@@ -955,7 +976,6 @@
         "group": "Iris Libre",
         "skin": [
             "xiangbin",
-            "xiangbin_open",
             "xiangbin_2",
             "xiangbin_h"
         ]
@@ -989,7 +1009,8 @@
             "kalvbudisi",
             "kalvbudisi_2",
             "kalvbudisi_3",
-            "kalvbudisi_4"
+            "kalvbudisi_4",
+            "kalvbudisi_4_hx"
         ]
     },
     "chapayev": {
@@ -1031,7 +1052,8 @@
             "chaijun",
             "chaijun_2",
             "chaijun_3",
-            "chaijun_4"
+            "chaijun_4",
+            "chaijun_younv"
         ]
     },
     "chen_hai": {
@@ -1118,7 +1140,9 @@
             "kelifulan_5",
             "kelifulan_6",
             "kelifulan_7",
-            "kelifulan_h"
+            "kelifulan_h",
+            "kelifulan_idol",
+            "kelifulan_younv"
         ]
     },
     "cleveland_idol": {
@@ -1202,7 +1226,8 @@
         "group": "Royal Navy",
         "skin": [
             "xinyue",
-            "xinyue_g"
+            "xinyue_g",
+            "xinyue_jp"
         ]
     },
     "curacoa": {
@@ -1233,8 +1258,8 @@
             "xiaotiane",
             "xiaotiane_2",
             "xiaotiane_3",
-            "xiaotiane_5",
             "xiaotiane_4",
+            "xiaotiane_5",
             "xiaotiane_6",
             "xiaotiane_g"
         ]
@@ -1283,7 +1308,8 @@
         "group": "Royal Navy",
         "skin": [
             "daiduo",
-            "daiduo_2"
+            "daiduo_2",
+            "daiduo_idol"
         ]
     },
     "dido_idol": {
@@ -1299,8 +1325,7 @@
         "type": "Battleship",
         "group": "Venus Vacation",
         "skin": [
-            "suixiang_doa",
-            "suixiang_2_doa"
+            "suixiang_doa"
         ]
     },
     "doa_kasumi": {
@@ -1317,8 +1342,7 @@
         "type": "Light Aircraft Carrier",
         "group": "Venus Vacation",
         "skin": [
-            "luna_doa",
-            "luna_2_doa"
+            "luna_doa"
         ]
     },
     "doa_marie_rose": {
@@ -1372,8 +1396,7 @@
         "type": "Battlecruiser",
         "group": "Venus Vacation",
         "skin": [
-            "huan_doa",
-            "huan_2_doa"
+            "huan_doa"
         ]
     },
     "dorsetshire": {
@@ -1418,8 +1441,8 @@
         "group": "Royal Navy",
         "skin": [
             "yuekegongjue",
-            "yuekegongjue_3",
-            "yuekegongjue_2"
+            "yuekegongjue_2",
+            "yuekegongjue_3"
         ]
     },
     "dunkerque": {
@@ -1536,8 +1559,10 @@
             "qiye_6",
             "qiye_7",
             "qiye_8",
+            "qiye_9",
+            "qiye_dark",
             "qiye_h",
-            "qiye_dark"
+            "qiye_younv"
         ]
     },
     "enterprise_hms": {
@@ -1651,8 +1676,8 @@
             "fuerban_2",
             "fuerban_3",
             "fuerban_4",
-            "fuerban_h",
-            "fuerban_g"
+            "fuerban_g",
+            "fuerban_h"
         ]
     },
     "fortune": {
@@ -1662,6 +1687,7 @@
         "skin": [
             "mingyunnvshen",
             "mingyunnvshen_2",
+            "mingyunnvshen_alter",
             "mingyunnvshen_g"
         ]
     },
@@ -1689,7 +1715,10 @@
         "skin": [
             "feiteliedadi",
             "feiteliedadi_2",
-            "feiteliedadi_h"
+            "feiteliedadi_2_hx",
+            "feiteliedadi_h",
+            "feiteliedadi_h_hx",
+            "feiteliedadi_hx"
         ]
     },
     "formidable": {
@@ -1699,7 +1728,8 @@
         "skin": [
             "kewei",
             "kewei_2",
-            "kewei_3"
+            "kewei_3",
+            "kewei_younv"
         ]
     },
     "fubuki": {
@@ -1709,8 +1739,8 @@
         "skin": [
             "chuixue",
             "chuixue_2",
-            "chuixue_4",
             "chuixue_3",
+            "chuixue_4",
             "chuixue_5",
             "chuixue_6"
         ]
@@ -1741,6 +1771,7 @@
             "fusang",
             "fusang_2",
             "fusang_3",
+            "fusang_alter",
             "fusang_g"
         ]
     },
@@ -1785,7 +1816,8 @@
         "group": "Vichya Dominion",
         "skin": [
             "jiasikenie",
-            "jiasikenie_2"
+            "jiasikenie_2",
+            "jiasikenie_idol"
         ]
     },
     "gascogne_idol": {
@@ -1814,7 +1846,8 @@
         "skin": [
             "kaisa",
             "kaisa_2",
-            "kaisa_3"
+            "kaisa_3",
+            "kaisa_3_hx"
         ]
     },
     "giuseppe_garibaldi": {
@@ -1869,7 +1902,8 @@
         "group": "Ironblood",
         "skin": [
             "genaisennao",
-            "genaisennao_2"
+            "genaisennao_2",
+            "genaisennao_alter"
         ]
     },
     "gneisenau_meta": {
@@ -1895,7 +1929,8 @@
         "group": "Ironblood",
         "skin": [
             "qibolin",
-            "qibolin_2"
+            "qibolin_2",
+            "qibolin_younv"
         ]
     },
     "gremyashchy": {
@@ -1972,7 +2007,8 @@
         "skin": [
             "haitian",
             "haitian_2",
-            "haitian_3"
+            "haitian_3",
+            "haitian_3 #5800"
         ]
     },
     "hakuryuu": {
@@ -1981,7 +2017,8 @@
         "group": "Sakura Empire",
         "skin": [
             "bailong",
-            "bailong_2"
+            "bailong_2",
+            "bailong_3"
         ]
     },
     "halsey_powell": {
@@ -2013,8 +2050,8 @@
             "haman_2",
             "haman_3",
             "haman_4",
-            "haman_g",
-            "haman_5"
+            "haman_5",
+            "haman_g"
         ]
     },
     "hammann_ii": {
@@ -2051,7 +2088,8 @@
         "type": "Destroyer",
         "group": "Royal Navy",
         "skin": [
-            "yonggan"
+            "yonggan",
+            "yonggan_2"
         ]
     },
     "haruka": {
@@ -2088,7 +2126,8 @@
         "type": "Destroyer",
         "group": "Sakura Empire",
         "skin": [
-            "qifeng"
+            "qifeng",
+            "qifeng_alter"
         ]
     },
     "hatakaze_meta": {
@@ -2133,8 +2172,7 @@
         "type": "Heavy Cruiser",
         "group": "Neptunia",
         "skin": [
-            "HDN202_1",
-            "HDN202_2"
+            "HDN202_1"
         ]
     },
     "hdn_blanc": {
@@ -2150,8 +2188,7 @@
         "type": "Aircraft Carrier",
         "group": "Neptunia",
         "skin": [
-            "HDN402_1",
-            "HDN402_2"
+            "HDN402_1"
         ]
     },
     "hdn_neptune": {
@@ -2175,8 +2212,7 @@
         "type": "Light Cruiser",
         "group": "Neptunia",
         "skin": [
-            "HDN102_1",
-            "HDN102_2"
+            "HDN102_1"
         ]
     },
     "hdn_vert": {
@@ -2192,8 +2228,7 @@
         "type": "Destroyer",
         "group": "Neptunia",
         "skin": [
-            "HDN302_1",
-            "HDN302_2"
+            "HDN302_1"
         ]
     },
     "helena": {
@@ -2204,8 +2239,11 @@
             "hailunna",
             "hailunna_2",
             "hailunna_3",
+            "hailunna_4",
+            "hailunna_alter",
+            "hailunna_g",
             "hailunna_h",
-            "hailunna_g"
+            "hailunna_younv"
         ]
     },
     "helena_meta": {
@@ -2222,7 +2260,8 @@
         "group": "Royal Navy",
         "skin": [
             "jingjishen",
-            "jingjishen_g"
+            "jingjishen_g",
+            "jingjishen_ghost"
         ]
     },
     "hermione": {
@@ -2264,7 +2303,8 @@
             "birui",
             "birui_2",
             "birui_4",
-            "birui_5"
+            "birui_5",
+            "birui_younv"
         ]
     },
     "hieichan": {
@@ -2290,6 +2330,7 @@
         "skin": [
             "feilong",
             "feilong_2",
+            "feilong_alter",
             "feilong_g"
         ]
     },
@@ -2306,7 +2347,8 @@
         "type": "Light Aircraft Carrier",
         "group": "Sakura Empire",
         "skin": [
-            "feiying"
+            "feiying",
+            "feiying_alter"
         ]
     },
     "hiyou_meta": {
@@ -2404,7 +2446,8 @@
         "type": "Destroyer",
         "group": "Royal Navy",
         "skin": [
-            "lieren"
+            "lieren",
+            "lieren_alter"
         ]
     },
     "hunter_meta": {
@@ -2421,7 +2464,8 @@
         "group": "Dragon Empire",
         "skin": [
             "huajia",
-            "huajia_2"
+            "huajia_2",
+            "huajia_2_hx"
         ]
     },
     "hyuuga": {
@@ -2438,7 +2482,7 @@
         "type": "Submarine Aircraft Carrier",
         "group": "Sakura Empire",
         "skin": [
-            "I13"
+            "i13"
         ]
     },
     "i168_": {
@@ -2447,7 +2491,7 @@
         "group": "Sakura Empire",
         "skin": [
             "I168",
-            "i168_2"
+            "I168_2"
         ]
     },
     "i19_": {
@@ -2455,8 +2499,8 @@
         "type": "Submarine",
         "group": "Sakura Empire",
         "skin": [
-            "i19",
-            "i19_2",
+            "I19",
+            "I19_2",
             "I19_3",
             "i19_4"
         ]
@@ -2467,7 +2511,7 @@
         "group": "Sakura Empire",
         "skin": [
             "I25",
-            "i25_2",
+            "I25_2",
             "i25_3"
         ]
     },
@@ -2476,8 +2520,8 @@
         "type": "Submarine",
         "group": "Sakura Empire",
         "skin": [
-            "i26",
-            "i26_2",
+            "I26",
+            "I26_2",
             "i26_3"
         ]
     },
@@ -2487,7 +2531,7 @@
         "group": "Sakura Empire",
         "skin": [
             "I56",
-            "i56_2"
+            "I56_2"
         ]
     },
     "i58_": {
@@ -2495,7 +2539,7 @@
         "type": "Submarine",
         "group": "Sakura Empire",
         "skin": [
-            "i58"
+            "I58"
         ]
     },
     "i8_": {
@@ -2551,7 +2595,9 @@
             "guanghui_4",
             "guanghui_5",
             "guanghui_6",
-            "guanghui_h"
+            "guanghui_h",
+            "guanghui_idol",
+            "guanghui_younv"
         ]
     },
     "illustrious_idol": {
@@ -2577,7 +2623,9 @@
         "group": "Royal Navy",
         "skin": [
             "yuanchou",
-            "yuanchou_2"
+            "yuanchou_2",
+            "yuanchou_2_hx",
+            "yuanchou_hx"
         ]
     },
     "inazuma": {
@@ -2611,7 +2659,8 @@
         "skin": [
             "bolisi",
             "bolisi_2",
-            "bolisi_3"
+            "bolisi_3",
+            "bolisi_3_hx"
         ]
     },
     "indomitable": {
@@ -2733,8 +2782,9 @@
             "biaoqiang_6",
             "biaoqiang_7",
             "biaoqiang_8",
-            "biaoqiang_h",
-            "biaoqiang_g"
+            "biaoqiang_9",
+            "biaoqiang_g",
+            "biaoqiang_h"
         ]
     },
     "jean_bart": {
@@ -2791,6 +2841,7 @@
             "shentong",
             "shentong_2",
             "shentong_4",
+            "shentong_alter",
             "shentong_g"
         ]
     },
@@ -2801,7 +2852,8 @@
         "skin": [
             "xiafei",
             "xiafei_2",
-            "xiafei_3"
+            "xiafei_3",
+            "xiafei_boss"
         ]
     },
     "juneau": {
@@ -2820,7 +2872,8 @@
         "group": "Royal Navy",
         "skin": [
             "tianhou",
-            "tianhou_2"
+            "tianhou_2",
+            "tianhou_ghost"
         ]
     },
     "junyou": {
@@ -2828,7 +2881,8 @@
         "type": "Light Aircraft Carrier",
         "group": "Sakura Empire",
         "skin": [
-            "sunying"
+            "sunying",
+            "sunying_alter"
         ]
     },
     "junyou_meta": {
@@ -2845,7 +2899,8 @@
         "group": "Royal Navy",
         "skin": [
             "qiubite",
-            "qiubite_2"
+            "qiubite_2",
+            "qiubite_ghost"
         ]
     },
     "kaga": {
@@ -2932,7 +2987,8 @@
         "skin": [
             "jianye",
             "jianye_2",
-            "jianye_3"
+            "jianye_3",
+            "jianye_4"
         ]
     },
     "kasumi": {
@@ -2943,6 +2999,8 @@
             "xia",
             "xia_2",
             "xia_3",
+            "xia_2_DOA",
+            "xia_DOA",
             "xia_g"
         ]
     },
@@ -2952,7 +3010,8 @@
         "group": "Sakura Empire",
         "skin": [
             "gecheng",
-            "gecheng_2"
+            "gecheng_2",
+            "gecheng_3"
         ]
     },
     "kawakaze": {
@@ -2997,7 +3056,8 @@
         "group": "Northern Parliament",
         "skin": [
             "jifu",
-            "jifu_2"
+            "jifu_2",
+            "jifu_3"
         ]
     },
     "kii": {
@@ -3034,7 +3094,8 @@
         "skin": [
             "guinu",
             "guinu_2",
-            "guinu_3"
+            "guinu_3",
+            "guinu_g"
         ]
     },
     "kinugasa": {
@@ -3201,7 +3262,8 @@
         "group": "Northern Parliament",
         "skin": [
             "kuersike",
-            "kuersike_2"
+            "kuersike_2",
+            "kuersike_hx"
         ]
     },
     "kuybyshev": {
@@ -3259,7 +3321,10 @@
             "jialisuoniye",
             "jialisuoniye_2",
             "jialisuoniye_3",
-            "jialisuoniye_4"
+            "jialisuoniye_4",
+            "jialisuoniye_3_hx",
+            "jialisuoniye_alter",
+            "jialisuoniye_alter_hx"
         ]
     },
     "la_galissonniere_meta": {
@@ -3267,7 +3332,8 @@
         "type": "Light Cruiser",
         "group": "META",
         "skin": [
-            "jialisuoniye_alter"
+            "jialisuoniye_alter",
+            "jialisuoniye_alter_hx"
         ]
     },
     "leander": {
@@ -3315,7 +3381,8 @@
             "edu",
             "edu_2",
             "edu_3",
-            "edu_4"
+            "edu_4",
+            "edu_idol"
         ]
     },
     "le_malin_idol": {
@@ -3335,7 +3402,8 @@
             "lemaer_2",
             "lemaer_3",
             "lemaer_4",
-            "lemaer_g"
+            "lemaer_g",
+            "lemaer_ghost"
         ]
     },
     "le_temeraire": {
@@ -3483,8 +3551,8 @@
         "skin": [
             "lundun",
             "lundun_3",
-            "lundun_h",
-            "lundun_g"
+            "lundun_g",
+            "lundun_h"
         ]
     },
     "long_island": {
@@ -3611,7 +3679,8 @@
         "group": "Sardegna Empire",
         "skin": [
             "makeboluo",
-            "makeboluo_2"
+            "makeboluo_2",
+            "makeboluo_wangzuo"
         ]
     },
     "marseillaise": {
@@ -3638,7 +3707,8 @@
         "group": "Eagle Union",
         "skin": [
             "masazhusai",
-            "masazhusai_2"
+            "masazhusai_2",
+            "masazhusai_hx"
         ]
     },
     "matchless": {
@@ -3691,7 +3761,9 @@
             "mengfeisi",
             "mengfeisi_2",
             "mengfeisi_3",
-            "mengfeisi_4"
+            "mengfeisi_4",
+            "mengfeisi_3_hx",
+            "mengfeisi_alter"
         ]
     },
     "memphis_meta": {
@@ -3777,8 +3849,9 @@
             "mingniabolisi",
             "mingniabolisi_2",
             "mingniabolisi_3",
+            "mingniabolisi_4",
             "mingniabolisi_h",
-            "mingniabolisi_4"
+            "mingniabolisi_hx"
         ]
     },
     "miyuki": {
@@ -3861,7 +3934,8 @@
         "group": "Sakura Empire",
         "skin": [
             "wuzang",
-            "wuzang_2"
+            "wuzang_2",
+            "wuzang_hx"
         ]
     },
     "musketeer": {
@@ -3907,7 +3981,8 @@
         "type": "Heavy Cruiser",
         "group": "Sakura Empire",
         "skin": [
-            "nazhi"
+            "nazhi",
+            "nazhi_g"
         ]
     },
     "naganami": {
@@ -3986,7 +4061,8 @@
         "group": "Eagle Union",
         "skin": [
             "yingwuluo",
-            "yingwuluo_2"
+            "yingwuluo_2",
+            "yingwuluo_3"
         ]
     },
     "nelson": {
@@ -4007,7 +4083,8 @@
         "skin": [
             "haiwangxing",
             "haiwangxing_2",
-            "haiwangxing_3"
+            "haiwangxing_3",
+            "haiwangxing_ghost"
         ]
     },
     "nevada": {
@@ -4028,6 +4105,7 @@
             "xinzexi",
             "xinzexi_2",
             "xinzexi_3",
+            "xinzexi_2_hx",
             "xinzexi_h"
         ]
     },
@@ -4037,7 +4115,8 @@
         "group": "Eagle Union",
         "skin": [
             "xinaoerliang",
-            "xinaoerliang_2"
+            "xinaoerliang_2",
+            "xinaoerliang_2_hx"
         ]
     },
     "newcastle": {
@@ -4301,7 +4380,8 @@
         "skin": [
             "shitelasai",
             "shitelasai_2",
-            "shitelasai_3"
+            "shitelasai_3",
+            "shitelasai_hx"
         ]
     },
     "phoenix": {
@@ -4362,8 +4442,9 @@
         "skin": [
             "weiershiqinwang",
             "weiershiqinwang_2",
+            "weiershiqinwang_3",
             "weiershiqinwang_4",
-            "weiershiqinwang_3"
+            "weiershiqinwang_5"
         ]
     },
     "princeton": {
@@ -4397,7 +4478,11 @@
             "ougen_4",
             "ougen_5",
             "ougen_6",
-            "ougen_h"
+            "ougen_2_hx",
+            "ougen_3_hx",
+            "ougen_h",
+            "ougen_hx",
+            "ougen_younv"
         ]
     },
     "prinz_heinrich": {
@@ -4409,7 +4494,11 @@
             "haiyinlixi_2",
             "haiyinlixi_3",
             "haiyinlixi_4",
-            "haiyinlixi_5"
+            "haiyinlixi_5",
+            "haiyinlixi_2_hx",
+            "haiyinlixi_3_hx",
+            "haiyinlixi_5_hx",
+            "haiyinlixi_hx"
         ]
     },
     "prinz_rupprecht": {
@@ -4441,7 +4530,8 @@
             "yilishabai_4",
             "yilishabai_5",
             "yilishabai_6",
-            "yilishabai_7"
+            "yilishabai_7",
+            "yilishabai_alter"
         ]
     },
     "queen_elizabeth_meta": {
@@ -4521,7 +4611,9 @@
         "type": "Battlecruiser",
         "group": "Royal Navy",
         "skin": [
-            "shengwang"
+            "shengwang",
+            "shengwang_alter",
+            "shengwang_younv"
         ]
     },
     "renown_meta": {
@@ -4537,7 +4629,8 @@
         "type": "Battlecruiser",
         "group": "Royal Navy",
         "skin": [
-            "fanji"
+            "fanji",
+            "fanji_alter"
         ]
     },
     "repulse_meta": {
@@ -4591,6 +4684,7 @@
         "skin": [
             "luodeni",
             "luodeni_2",
+            "luodeni_3",
             "luodeni_4",
             "luodeni_h"
         ]
@@ -4601,7 +4695,8 @@
         "group": "Sardegna Empire",
         "skin": [
             "luoma",
-            "luoma_2"
+            "luoma_2",
+            "luoma_ghost"
         ]
     },
     "roon": {
@@ -4611,7 +4706,8 @@
         "skin": [
             "luoen",
             "luoen_2",
-            "luoen_4"
+            "luoen_4",
+            "luoen_idol"
         ]
     },
     "roon_idol": {
@@ -4686,7 +4782,8 @@
         "skin": [
             "jiuyun",
             "jiuyun_2",
-            "jiuyun_3"
+            "jiuyun_3",
+            "jiuyun_4"
         ]
     },
     "salt_lake_city": {
@@ -4704,8 +4801,9 @@
         "skin": [
             "shengdiyage",
             "shengdiyage_2",
+            "shengdiyage_g",
             "shengdiyage_h",
-            "shengdiyage_g"
+            "shengdiyage_younv"
         ]
     },
     "san_francisco": {
@@ -4715,8 +4813,7 @@
         "skin": [
             "jiujinshan",
             "jiujinshan_3",
-            "jiujinshan_4",
-            "aidahe"
+            "jiujinshan_4"
         ]
     },
     "san_juan": {
@@ -4742,8 +4839,8 @@
             "salatuojia_7",
             "salatuojia_8",
             "salatuojia_9",
-            "salatuojia_h",
-            "salatuojia_g"
+            "salatuojia_g",
+            "salatuojia_h"
         ]
     },
     "scharnhorst": {
@@ -4752,7 +4849,8 @@
         "group": "Ironblood",
         "skin": [
             "shaenhuosite",
-            "shaenhuosite_2"
+            "shaenhuosite_2",
+            "shaenhuosite_alter"
         ]
     },
     "scharnhorst_meta": {
@@ -4807,7 +4905,8 @@
         "group": "Northern Parliament",
         "skin": [
             "saiwasituoboer",
-            "saiwasituoboer_2"
+            "saiwasituoboer_2",
+            "saiwasituoboer_hx"
         ]
     },
     "seydlitz": {
@@ -4839,7 +4938,9 @@
             "xiefeierde_2",
             "xiefeierde_3",
             "xiefeierde_4",
-            "xiefeierde_5"
+            "xiefeierde_5",
+            "xiefeierde_alter",
+            "xiefeierde_idol"
         ]
     },
     "sheffield_idol": {
@@ -4896,7 +4997,8 @@
         "skin": [
             "xinnong",
             "xinnong_2",
-            "xinnong_3"
+            "xinnong_3",
+            "xinnong_4"
         ]
     },
     "shirakami_fubuki": {
@@ -4914,8 +5016,8 @@
         "group": "Sakura Empire",
         "skin": [
             "buzhihuo",
-            "buzhihuo_g",
-            "buzhihuo_2"
+            "buzhihuo_2",
+            "buzhihuo_g"
         ]
     },
     "shiratsuyu": {
@@ -5011,6 +5113,7 @@
             "canglong",
             "canglong_2",
             "canglong_3",
+            "canglong_alter",
             "canglong_g"
         ]
     },
@@ -5270,7 +5373,9 @@
             "dafeng_4",
             "dafeng_5",
             "dafeng_6",
-            "dafeng_h"
+            "dafeng_h",
+            "dafeng_idol",
+            "dafeng_younv"
         ]
     },
     "taihouchan": {
@@ -5308,8 +5413,8 @@
             "gaoxiong_3",
             "gaoxiong_4",
             "gaoxiong_5",
-            "gaoxiong_h",
-            "gaoxiong_dark"
+            "gaoxiong_alter",
+            "gaoxiong_h"
         ]
     },
     "takao_META": {
@@ -5357,7 +5462,8 @@
         "skin": [
             "tashigan",
             "tashigan_2",
-            "tashigan_3"
+            "tashigan_3",
+            "tashigan_idol"
         ]
     },
     "tashkent_idol": {
@@ -5418,7 +5524,8 @@
         "skin": [
             "tikangdeluojia",
             "tikangdeluojia_2",
-            "tikangdeluojia_3"
+            "tikangdeluojia_3",
+            "tikangdeluojia_2_hx"
         ]
     },
     "ting_an": {
@@ -5427,7 +5534,9 @@
         "group": "Dragon Empire",
         "skin": [
             "dingan",
-            "dingan_2"
+            "dingan_2",
+            "dingan_2_hx",
+            "dingan_hx"
         ]
     },
     "tirpitz": {
@@ -5439,7 +5548,12 @@
             "tierbici_2",
             "tierbici_3",
             "tierbici_4",
-            "tierbici_5"
+            "tierbici_5",
+            "tierbici_2_hx",
+            "tierbici_3_hx",
+            "tierbici_4_hx",
+            "tierbici_5_hx",
+            "tierbici_hx"
         ]
     },
     "trento": {
@@ -5448,7 +5562,8 @@
         "group": "Sardegna Empire",
         "skin": [
             "teluntuo",
-            "teluntuo_2"
+            "teluntuo_2",
+            "teluntuo_alter"
         ]
     },
     "trento_meta": {
@@ -5492,7 +5607,8 @@
         "group": "Sardegna Empire",
         "skin": [
             "tuolichaili",
-            "tuolichaili_2"
+            "tuolichaili_2",
+            "tuolichaili_hx"
         ]
     },
     "tosa": {
@@ -5510,7 +5626,7 @@
         "group": "Ironblood",
         "skin": [
             "U101",
-            "u101_2"
+            "U101_2"
         ]
     },
     "u110_": {
@@ -5519,7 +5635,7 @@
         "group": "Ironblood",
         "skin": [
             "U110",
-            "U110_2",
+            "u110_2",
             "u110_3",
             "u110_4",
             "u110_5",
@@ -5532,7 +5648,7 @@
         "group": "Ironblood",
         "skin": [
             "u1206",
-            "u1206_2"
+            "U1206_2"
         ]
     },
     "u37_": {
@@ -5549,7 +5665,7 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "U410",
+            "u410",
             "u410_2"
         ]
     },
@@ -5558,8 +5674,8 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "u47",
-            "u47_2",
+            "U47",
+            "U47_2",
             "U47_3",
             "u47_4",
             "U47_5",
@@ -5579,8 +5695,9 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "U556",
-            "U556_2"
+            "u556",
+            "U556_2",
+            "U556_alter"
         ]
     },
     "u556_meta": {
@@ -5596,7 +5713,7 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "u557"
+            "U557"
         ]
     },
     "u73_": {
@@ -5605,7 +5722,7 @@
         "group": "Ironblood",
         "skin": [
             "U73",
-            "u73_3",
+            "U73_3",
             "U73_4"
         ]
     },
@@ -5614,9 +5731,9 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "u81",
+            "U81",
             "U81_2",
-            "u81_3"
+            "U81_3"
         ]
     },
     "u96_": {
@@ -5624,7 +5741,7 @@
         "type": "Submarine",
         "group": "Ironblood",
         "skin": [
-            "u96",
+            "U96",
             "u96_2",
             "u96_3"
         ]
@@ -5797,7 +5914,9 @@
         "group": "Eagle Union",
         "skin": [
             "zaoshen",
-            "zaoshen_2"
+            "zaoshen_2",
+            "zaoshen_alter",
+            "zaoshen_ghost"
         ]
     },
     "vestal_meta": {
@@ -5815,7 +5934,8 @@
         "skin": [
             "shengli",
             "shengli_2",
-            "shengli_3"
+            "shengli_3",
+            "shengli_3_hx"
         ]
     },
     "vincennes": {
@@ -5824,8 +5944,8 @@
         "group": "Eagle Union",
         "skin": [
             "wensensi",
-            "wensensi_3",
-            "wensensi_2"
+            "wensensi_2",
+            "wensensi_3"
         ]
     },
     "vincenzo_gioberti": {
@@ -5861,7 +5981,8 @@
         "group": "Northern Parliament",
         "skin": [
             "fuluoxiluofu",
-            "fuluoxiluofu_2"
+            "fuluoxiluofu_2",
+            "fuluoxiluofu_hx"
         ]
     },
     "wakaba": {
@@ -5928,7 +6049,9 @@
         "group": "Eagle Union",
         "skin": [
             "xifujiniya",
-            "xifujiniya_2"
+            "xifujiniya_2",
+            "xifujiniya_3",
+            "xifujiniya_g"
         ]
     },
     "wichita": {
@@ -5953,8 +6076,9 @@
             "shancheng_6",
             "shancheng_7",
             "shancheng_8",
-            "shancheng_h",
-            "shancheng_g"
+            "shancheng_alter",
+            "shancheng_g",
+            "shancheng_h"
         ]
     },
     "yamashiro_meta": {
@@ -5982,8 +6106,8 @@
             "yixian",
             "yixian_2",
             "yixian_3",
-            "yixian_h",
-            "yixian_g"
+            "yixian_g",
+            "yixian_h"
         ]
     },
     "ying_swei": {
@@ -6021,9 +6145,11 @@
         "group": "Royal Navy",
         "skin": [
             "yueke",
+            "yueke_ger_2",
             "yueke_2",
             "yueke_3",
             "yueke_g",
+            "yueke_ger",
             "yueke_h"
         ]
     },
@@ -6034,7 +6160,8 @@
         "skin": [
             "yuekecheng",
             "yuekecheng_2",
-            "yuekecheng_3"
+            "yuekecheng_3",
+            "yuekecheng_h"
         ]
     },
     "yorktown_ii": {
@@ -6084,9 +6211,11 @@
             "xili_2",
             "xili_3",
             "xili_4",
-            "xili_h",
             "xili_5",
-            "xili_g"
+            "xili_g",
+            "xili_g_hx",
+            "xili_h",
+            "xili_hx"
         ]
     },
     "yuugure": {
@@ -6100,6 +6229,7 @@
             "ximu_4",
             "ximu_5",
             "ximu_6",
+            "ximu_5_hx",
             "ximu_g"
         ]
     },
@@ -6109,8 +6239,9 @@
         "group": "Ironblood",
         "skin": [
             "z1",
-            "z1_2",
-            "z1_g"
+            "Z1_2",
+            "z1_g",
+            "z1_hx"
         ]
     },
     "z16_": {
@@ -6135,7 +6266,7 @@
         "type": "Destroyer",
         "group": "Ironblood",
         "skin": [
-            "z19"
+            "Z19"
         ]
     },
     "z2_": {
@@ -6177,10 +6308,13 @@
             "z23_6",
             "z23_7",
             "z23_8",
+            "z23_9",
             "z23_10",
             "z23_11",
+            "z23_12",
+            "z23_g",
             "z23_h",
-            "z23_g"
+            "z23_hx"
         ]
     },
     "z24_": {
@@ -6198,7 +6332,7 @@
         "type": "Destroyer",
         "group": "Ironblood",
         "skin": [
-            "z25",
+            "Z25",
             "z25_2"
         ]
     },
@@ -6218,7 +6352,8 @@
         "skin": [
             "Z28",
             "Z28_3",
-            "z28_4"
+            "z28_4",
+            "Z28_hx"
         ]
     },
     "z35_": {
@@ -6243,9 +6378,9 @@
         "type": "Destroyer",
         "group": "Ironblood",
         "skin": [
-            "z46",
-            "z46_2",
-            "z46_3",
+            "Z46",
+            "Z46_2",
+            "Z46_3",
             "z46_4",
             "z46_5",
             "z46_6"
@@ -6379,7 +6514,8 @@
         "type": "Battleship",
         "group": "Siren",
         "skin": [
-            "shenyuanboss4"
+            "shenyuanboss4",
+            "shenyuanboss4_alter"
         ]
     },
     "siren_enforcer_ix_exploration_meta": {
@@ -6395,7 +6531,8 @@
         "type": "Light Cruiser",
         "group": "Siren",
         "skin": [
-            "shenyuanboss5"
+            "shenyuanboss5",
+            "shenyuanboss5_alter"
         ]
     },
     "siren_enforcer_ix_concealment_meta": {
@@ -6411,7 +6548,8 @@
         "type": "Battleship",
         "group": "Siren",
         "skin": [
-            "sairenboss5"
+            "sairenboss5",
+            "sairenboss5_alter"
         ]
     },
     "siren_hermit_ix_meta": {
@@ -6475,7 +6613,8 @@
         "type": "Battleship",
         "group": "Siren",
         "skin": [
-            "sairenboss12"
+            "sairenboss12",
+            "sairenboss12_pao"
         ]
     },
     "siren_boss15": {
@@ -6499,7 +6638,9 @@
         "type": "Battleship",
         "group": "Siren",
         "skin": [
-            "sairenboss17"
+            "sairenboss17",
+            "sairenboss17_pao1",
+            "sairenboss17_pao2"
         ]
     },
     "qinraozhe_": {
@@ -6507,7 +6648,8 @@
         "type": "Battleship",
         "group": "Siren",
         "skin": [
-            "qinraozhe"
+            "qinraozhe",
+            "qinraozhe_IV"
         ]
     },
     "qinraozhe_IV": {
@@ -6524,9 +6666,10 @@
         "group": "Siren",
         "skin": [
             "sairenquzhu",
+            "sairenquzhu_6",
+            "sairenquzhu_M",
             "sairenquzhu_i",
-            "sairenquzhu_ii",
-            "sairenquzhu_M"
+            "sairenquzhu_ii"
         ]
     },
     "siren_chaser": {
@@ -6535,9 +6678,10 @@
         "group": "Siren",
         "skin": [
             "sairenqingxun",
+            "sairenqingxun_6",
+            "sairenqingxun_M",
             "sairenqingxun_i",
-            "sairenqingxun_iI",
-            "sairenqingxun_M"
+            "sairenqingxun_iI"
         ]
     },
     "siren_navigator": {
@@ -6546,9 +6690,10 @@
         "group": "Siren",
         "skin": [
             "sairenzhongxun",
+            "sairenzhongxun_6",
+            "sairenzhongxun_M",
             "sairenzhongxun_i",
-            "sairenzhongxun_ii",
-            "sairenzhongxun_M"
+            "sairenzhongxun_ii"
         ]
     },
     "siren_smasher": {
@@ -6557,9 +6702,10 @@
         "group": "Siren",
         "skin": [
             "sairenzhanlie",
+            "sairenzhanlie_6",
+            "sairenzhanlie_M",
             "sairenzhanlie_i",
-            "sairenzhanlie_ii",
-            "sairenzhanlie_M"
+            "sairenzhanlie_ii"
         ]
     },
     "siren_conductor": {
@@ -6568,9 +6714,10 @@
         "group": "Siren",
         "skin": [
             "sairenhangmu",
+            "sairenhangmu_6",
+            "sairenhangmu_M",
             "sairenhangmu_i",
-            "sairenhangmu_ii",
-            "sairenhangmu_M"
+            "sairenhangmu_ii"
         ]
     },
     "siren_lurker": {
@@ -6579,7 +6726,9 @@
         "group": "Siren",
         "skin": [
             "sairenqianting",
+            "sairenqianting_6",
             "sairenqianting_I",
+            "sairenqianting_II",
             "sairenqianting_M"
         ]
     },

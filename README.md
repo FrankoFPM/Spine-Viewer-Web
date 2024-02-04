@@ -58,7 +58,7 @@ If you like this application and want to contribute to its development or improv
 - Send pull requests with your own changes or improvements to the code
 - Share the application with other users who may be interested
 
-- For more information on how to obtain the assets, please refer to the [Asset Guide](/public/assets/contributing.md)
+- For more information on how to obtain the assets, please refer to the [Asset Guide](contributing.md)
 
 ## License
 

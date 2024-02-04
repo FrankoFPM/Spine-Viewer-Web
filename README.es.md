@@ -58,7 +58,7 @@ Si te gusta esta aplicación y quieres contribuir a su desarrollo o mejora, pued
 - Enviar pull requests con tus propios cambios o mejoras al código
 - Compartir la aplicación con otros usuarios que puedan estar interesados
 
-- Para obtener más información sobre cómo obtener los assets, consulta la [Guía de Assets](/public/assets/contributing.es.md)
+- Para obtener más información sobre cómo obtener los assets, consulta la [Guía de Assets](contributing.es.md)
 
 ## Licencia
 
