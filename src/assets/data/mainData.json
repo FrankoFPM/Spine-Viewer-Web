@@ -6145,8 +6145,8 @@
         "group": "Royal Navy",
         "skin": [
             "yueke",
-            "yueke_ger_2",
             "yueke_2",
+            "yueke_ger_2",
             "yueke_3",
             "yueke_g",
             "yueke_ger",
@@ -6989,6 +6989,21 @@
             "huojianyulei",
             "shenshengtianshi",
             "weixingbanwu"
+        ]
+    },
+    "takegift_event": {
+        "name": "Take gift",
+        "type": "Gift",
+        "group": "Take",
+        "skin": [
+            "takegift_mingshi",
+            "takegift_qiye",
+            "takegift_linbo",
+            "takegift_lafei",
+            "takegift_salatuojia",
+            "takegift_z23",
+            "takegift_biaoqiang",
+            "takegift_dujiaoshou"
         ]
     }
 }
