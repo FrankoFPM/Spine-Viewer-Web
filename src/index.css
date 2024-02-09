@@ -61,7 +61,8 @@
     .siren,
     .miscellaneous,
     .atelier-sirens,
-    .atelier-mobs {
+    .atelier-mobs,
+    .take {
         @apply bg-gradient-to-r from-pink-400 to-fuchsia-800;
     }
 }

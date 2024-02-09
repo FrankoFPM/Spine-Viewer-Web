@@ -41,6 +41,7 @@ export default {
         'atelier-sirens': '#aec7e8', // ATELIER SIRENS
         'atelier-mobs': '#ff7f0e', // ATELIER MOBS
         'idolmaster': '#ffbb78', // IDOLMASTER
+        'take': '#ff7f0e', // GIFTs
 
       },
       animation: {
@@ -85,6 +86,7 @@ export default {
     'bg-atelier-sirens',
     'bg-atelier-mobs',
     'bg-unknown',
+    'bg-take',
     'eagle-union',
     'royal-navy',
     'sakura-empire',
@@ -110,7 +112,6 @@ export default {
     'miscellaneous',
     'atelier-sirens',
     'atelier-mobs',
-    // añade aquí cualquier otra clase que quieras proteger
   ],
   darkMode: "class",
   plugins: [nextui()],
