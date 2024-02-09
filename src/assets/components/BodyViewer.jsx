@@ -2,6 +2,7 @@ import { Chip, Tooltip, Switch } from "@nextui-org/react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBone, faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
 import { useEffect, useState } from "react";
+import GifRecord from "./pixi-app/GifRecord";
 
 function DarkMode() {
     const [darkMode, setDarkMode] = useState(() => {
@@ -47,8 +48,9 @@ export default function BodyViewer() {
             <div className="w-full h-full flex flex-col">
                 <canvas id="app" width="500" height="500" className="m-auto shadow-2xl rounded-md"></canvas>
 
-                <footer className="w-full z-10 h-16  shadow-[0_-1px_10px_5px_rgba(0_0_0_/0.1)] bg-light-background dark:bg-dark-background flex items-center justify-end relative">
+                <footer className="w-full z-10 h-16  shadow-[0_-1px_10px_5px_rgba(0_0_0_/0.1)] bg-light-background dark:bg-dark-background flex items-center justify-between relative">
                     <div className="absolute bg-gradient-to-r from-teal-200 to-teal-500  inset-0 mix-blend-multiply"></div>
+                    <GifRecord canvasId={"app"} />
                     <Tooltip
                         content="Requires Spine v3.8.xx"
                         color="warning"

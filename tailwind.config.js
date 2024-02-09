@@ -42,7 +42,17 @@ export default {
         'atelier-mobs': '#ff7f0e', // ATELIER MOBS
         'idolmaster': '#ffbb78', // IDOLMASTER
 
-      }
+      },
+      animation: {
+        'pulsate': 'pulsate 2s infinite',
+      },
+      keyframes: {
+        pulsate: {
+          '0%': { transform: 'scale(1)' },
+          '50%': { transform: 'scale(1.3)' },
+          '100%': { transform: 'scale(1)' },
+        }
+      },
     },
   },
 
